@@ -8,8 +8,8 @@ class Matchup(commands.Cog):
         self.bot = bot
 
     types_dict={}
-        with open("types.txt", 'r') as f:
-          for line in f:
+    with open("types.txt", 'r') as f:
+        for line in f:
             items = line.split('/')
             key, values = items[0], items[1:]
             types_dict[key] = values
