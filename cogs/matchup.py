@@ -20,14 +20,14 @@ class Matchup(commands.Cog):
             msg = ('Invalid input!')
 
         elif arg1 != None and arg2 == None:
-            search = arg1.capitalize()
+            ptype = arg1.capitalize()
 
-            if search not in self.norm_dict:
+            if ptype not in self.types_dict:
                 msg = "Invalid input!"
 
             else:
-                val=''.join(map(str,types_dict.get(search)))
-                msg='For ' + str(search) + ' types, use '+ val.rstrip() + ' type moves!'
+                ptypeval=''.join(map(str,types_dict.get(search)))
+                msg='For ' + str(search) + ' types, use '+ ptypeval.rstrip() + ' type moves!'
 
         elif arg2!=None:
             msg="Currently only supports searching for on type!"
