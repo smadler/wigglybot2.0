@@ -26,7 +26,7 @@ class Matchup(commands.Cog):
                 msg = "Invalid input!"
 
             else:
-                msg=(self.types_dict.get(pytype))
+                msg=str(self.types_dict.get(pytype))
  #               ptypeval=''.join(map(str,self.types_dict.get(ptype)))
 #                msg='For ' + str(search) + ' types, use '+ ptypeval.rstrip() + ' type moves!'
 
