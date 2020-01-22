@@ -26,9 +26,9 @@ class Matchup(commands.Cog):
                 msg = "Invalid input!"
 
             else:
-                msg='\n'.join(map(str, self.types_dict.get(ptype)))
- #               ptypeval=''.join(map(str,self.types_dict.get(ptype)))
-#                msg='For ' + str(search) + ' types, use '+ ptypeval.rstrip() + ' type moves!'
+                msg=' For ' + str(ptype) +' types, use '
+                msg+='\n'.join(map(str, self.types_dict.get(ptype)))
+                msg+=' type moves!'
 
         await ctx.send(msg)
 
