@@ -2,13 +2,13 @@
   "name": "WigglyBot",
   "description": "BallBot for PokemonMaxRaids",
   "image": "heroku/python",
-  "repository": "https://github.com/smadler/wigglybot",
+  "repository": "https://github.com/smadler/wigglybot2.0",
   "keywords": ["python", "flask" ],
   "addons": [ "heroku-postgresql" ],
   "environments": {
     "test": {
       "scripts": {
-        "test": "bot2.py test"
+        "test": "bot.py test"
       }
     }
   }
