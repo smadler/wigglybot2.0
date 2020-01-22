@@ -23,7 +23,7 @@ async def on_ready():
     print(bot.user.id)
     print('------')
 
-    cogs = ['cogs.catch']
+    cogs = ['cogs.catch', 'cogs.matchup']
     for cog in cogs:
         try:
             bot.load_extension(cog)
