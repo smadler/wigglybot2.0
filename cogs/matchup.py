@@ -26,11 +26,11 @@ class Matchup(commands.Cog):
                 msg = "Invalid input!"
 
             else:
-                ptypeval=''.join(map(str,types_dict.get(ptype)))
+                ptypeval=''.join(map(str,self.types_dict.get(ptype)))
                 msg='For ' + str(search) + ' types, use '+ ptypeval.rstrip() + ' type moves!'
 
         elif arg2!=None:
-            msg="Currently only supports searching for on type!"
+            msg="Currently only supports searching for one type!"
 
         await ctx.send(msg)
 
