@@ -27,7 +27,7 @@ class Matchup(commands.Cog):
 
             else:
                 msg=' For ' + str(ptype) +' types, use '
-                msg+='\n'.join(map(str, self.types_dict.get(ptype)))
+                msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
                 msg+=' type moves!'
 
         await ctx.send(msg)
