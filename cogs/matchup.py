@@ -16,6 +16,7 @@ class Matchup(commands.Cog):
 
     @commands.command()
     async def matchup(self, ctx, arg1 = None, arg2 = None):
+        mono=False
         if arg1 == None:
             msg = ('Invalid input!')
 
@@ -26,9 +27,12 @@ class Matchup(commands.Cog):
                     arg1=types[0]
                     arg2=types[1]
                 else:
-                    str(arg2)=str(arg1)
+                    mono=True
             ptype = str(arg1.capitalize())
-            ptype+="/"+str(arg2.capitalize())
+            if mono==False:
+                ptype+="/"+str(arg2.capitalize())
+            else:
+                ptype +="/"+str(arg1.capitalize())
 
             if ptype not in self.types_dict:
                 msg = "Invalid input!"
