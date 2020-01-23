@@ -20,7 +20,7 @@ class Matchup(commands.Cog):
             msg = ('Invalid input!')
 
         elif arg1 != None:
-            if(arg2=None):
+            if(arg2==None):
                 arg2=arg1
             ptype = str(arg1.capitalize())
             ptype+="/"+arg2.capitalize()
