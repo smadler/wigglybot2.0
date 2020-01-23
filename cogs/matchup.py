@@ -19,21 +19,23 @@ class Matchup(commands.Cog):
         if arg1 == None:
             msg = ('Invalid input!')
 
-        elif arg1 != None:
+        else:
             mono=False
-            if(arg2==None):
+            if arg2==None:
+                #no 2nd argument
                 if(arg1.find("/")):
+                    #they typed as 1, turn into 2
                     types=arg1.split("/")
                     arg1=types[0]
                     arg2=types[1]
                 else:
-                    await ctx.send("HERE")
+                    #for some reason it never gets here, should be for monotypes
                     arg2=arg1
                     mono=True
             ptype = str(arg1.capitalize())
-            ptype+="/"+arg2.capitalize()
-
-            if ptype not in self.types_dict:
+            ptype+="/"+str(arg2.capitalize())
+            if (ptype not in self.types_dict):
+                #types put in wrong
                 msg = "Invalid input!"
 
             else:
