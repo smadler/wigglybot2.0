@@ -16,16 +16,17 @@ class Matchup(commands.Cog):
 
     @commands.command()
     async def matchup(self, ctx, arg1 = None, arg2 = None):
+        msg=""
         if arg1 == None:
-            msg = ('Invalid input!')
-        else:
-            if(arg2==None):
-                if(arg1.find("/")):
-                    types=arg1.split("/")
-                    ptype = str(types[0].capitalize))
-                    ptype+="/"+str(types[1].capitalize())
-                    msg="Here1"
-                else:
+            msg += 'Invalid input!'
+#        else:
+ #           if(arg2==None):
+  #              if(arg1.find("/")):
+   #                 types=arg1.split("/")
+    #                ptype = str(types[0].capitalize))
+     #               ptype+="/"+str(types[1].capitalize())
+      #              msg="Here1"
+       #         else:
                     ptype=str(arg1.capitalize())
                     ptype+="/"+str(arg1.capitalize())
                     msg="Here2"
@@ -34,8 +35,8 @@ class Matchup(commands.Cog):
   #              ptype += "/"+str(arg2.capitalize())
    #             msg="here3"
 
-            if ptype not in self.types_dict:
-                msg = "Invalid input!"
+ #           if ptype not in self.types_dict:
+  #              msg = "Invalid input!"
           
           #  else:
            #     msg=' For ' + str(ptype) +' types, use '
