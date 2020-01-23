@@ -27,16 +27,16 @@ class Matchup(commands.Cog):
                 if(arg1.find("/")):
                     #they typed as 1, turn into 2
                     types=arg1.split("/")
-                    arg1=types[0]
-                    arg2=types[1]
+                    ptype = str(types[0].capitalize())
+                    ptype+="/"+str(types[1].capitalize())
                 else:
                     #for some reason it never gets here, should be for monotypes
-                    temp=arg1
-                    arg2=temp
-                    mono=True
+                    ptype = str(arg1.capitalize())
+                    ptype+="/"+str(arg1.capitalize())
                     msg+="Success"
-            ptype = str(arg1.capitalize())
-            ptype+="/"+str(arg2.capitalize())
+            else:
+                ptype = str(arg1.capitalize())
+                ptype+="/"+str(arg2.capitalize())
             if (ptype not in self.types_dict):
                 msg += "Invalid input!"
 
