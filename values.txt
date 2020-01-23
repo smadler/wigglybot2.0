@@ -379,3 +379,4 @@ Duraludon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 
 Dreepy/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8% (optimal conditions)/Fast: 27.2%/Beast: 4.8%/ALL OTHERS: 27.2%
 Drakloak/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8% (optimal conditions)/Fast: 27.2%/Beast: 4.8%/ALL OTHERS: 27.2%
 Dragapult/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8% (optimal conditions)/Fast: 27.2%/Beast: 4.8%/ALL OTHERS: 27.2%
+Maractus/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100% (optimal conditions)/Fast: 100%/Beast: 17.8%/ALL OTHERS: 100%
