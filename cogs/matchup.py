@@ -16,10 +16,9 @@ class Matchup(commands.Cog):
 
     @commands.command()
     async def matchup(self, ctx, arg1 = None, arg2 = None):
-        msg=""
         if arg1 == None:
-            msg += 'Invalid input!'
-#        else:
+            msg = ('Invalid input!')
+        else:
  #           if(arg2==None):
   #              if(arg1.find("/")):
    #                 types=arg1.split("/")
@@ -42,6 +41,7 @@ class Matchup(commands.Cog):
            #     msg=' For ' + str(ptype) +' types, use '
             #    msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
              #   msg+=' type moves!'
+             msg=('Here')
         await ctx.send(msg)
 
 def setup(bot):
