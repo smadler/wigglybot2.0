@@ -20,7 +20,6 @@ class Matchup(commands.Cog):
             msg = ('Invalid input!')
 
         elif arg1 != None:
-            mono=False
             if(arg2==None):
                 if(arg1.find("/")):
                     types=arg1.split("/")
@@ -28,12 +27,15 @@ class Matchup(commands.Cog):
                     arg2=types[1]
                 else:
                     arg2=arg1
-                    mono=True
             ptype = str(arg1.capitalize())
             ptype+="/"+arg2.capitalize()
 
             if ptype not in self.types_dict:
                 msg = "Invalid input!"
+            elif arg1==arg2:
+                msg=' For ' + str(arg1) +' types, use '
+                msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
+                msg+=' type moves!'
             else:
                 msg=' For ' + str(ptype) +' types, use '
                 msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
