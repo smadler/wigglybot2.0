@@ -29,10 +29,10 @@ class Matchup(commands.Cog):
                     ptype=str(arg1.capitalize())
                     ptype+="/"+str(arg1.capitalize())
                     msg="Here2"
-            else:                
-                ptype = str(arg1.capitalize())
-                ptype+="/"+str(arg2.capitalize())
-                msg="here3"
+#            else:                
+ #               ptype = str(arg1.capitalize())
+  #              ptype += "/"+str(arg2.capitalize())
+   #             msg="here3"
 
             if ptype not in self.types_dict:
                 msg = "Invalid input!"
