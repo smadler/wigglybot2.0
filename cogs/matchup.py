@@ -22,14 +22,12 @@ class Matchup(commands.Cog):
         else:
             msg=""
             mono=False
-            mt=""
             if arg2==None:
                 #no 2nd argument
                 types=arg1.split("/")
                 if len(types)==1:
-                    mt=str(types[0]).capitalize()
-                    ptype =mt + "/" + mt
-                    mono=True
+                    ptype =str(types[0].capitalize())
+                    ptype+="/"+str(types[0].capitalize())
                 else:
                     ptype = str(types[0].capitalize())
                     ptype+="/"+str(types[1].capitalize())
@@ -39,14 +37,15 @@ class Matchup(commands.Cog):
 
             if (ptype not in self.types_dict):
                 msg += "Invalid input!"
-            elif (mono=True):
-                msg+=' For ' + str(mt) +' types, use '
-                msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
-                msg+=' type moves!'
+
             else:
-                msg+=' For ' + str(ptype) +' types, use '
-                msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
-                msg+=' type moves!'
+                mt=ptype.split("/")
+                if(mt[0])==mt[1]):
+                    msg+=' For ' + mt[0] +' types, use '
+                else:
+                    msg+=' For ' + str(ptype) +' types, use '
+                    msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
+                    msg+=' type moves!'
 
         await ctx.send(msg)
 
