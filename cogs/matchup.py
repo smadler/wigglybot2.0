@@ -27,6 +27,7 @@ class Matchup(commands.Cog):
                     arg1=types[0]
                     arg2=types[1]
                 else:
+                    await ctx.send("HERE")
                     arg2=arg1
                     mono=True
             ptype = str(arg1.capitalize())
