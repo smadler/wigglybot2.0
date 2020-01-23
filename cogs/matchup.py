@@ -20,6 +20,7 @@ class Matchup(commands.Cog):
             msg = ('Invalid input!')
 
         else:
+            msg=""
             mono=False
             if arg2==None:
                 #no 2nd argument
@@ -32,14 +33,14 @@ class Matchup(commands.Cog):
                     #for some reason it never gets here, should be for monotypes
                     arg2=arg1
                     mono=True
+                    msg+="Success"
             ptype = str(arg1.capitalize())
             ptype+="/"+str(arg2.capitalize())
             if (ptype not in self.types_dict):
-                #types put in wrong
-                msg = "Invalid input!"
+                msg += "Invalid input!"
 
             else:
-                msg=' For ' + str(ptype) +' types, use '
+                msg+=' For ' + str(ptype) +' types, use '
                 msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
                 msg+=' type moves!'
 
