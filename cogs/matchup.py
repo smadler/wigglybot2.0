@@ -8,19 +8,22 @@ class Matchup(commands.Cog):
         self.bot = bot
 
     types_dict={}
-    with open("types.txt", 'r') as f:
+    with open("types2.txt", 'r') as f:
         for line in f:
-            items = line.split('/')
+            items = line.split('%')
             key, values = items[0], items[1:]
             types_dict[key] = values
 
     @commands.command()
-    async def matchup(self, ctx, arg1 = None):
+    async def matchup(self, ctx, arg1 = None, arg2 = None):
         if arg1 == None:
             msg = ('Invalid input!')
 
         elif arg1 != None:
-            ptype = arg1.capitalize()
+            if(arg2=None):
+                arg2=arg1
+            ptype = str(arg1.capitalize())
+            ptype+="/"+arg2.capitalize()
 
             if ptype not in self.types_dict:
                 msg = "Invalid input!"
