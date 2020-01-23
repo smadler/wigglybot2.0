@@ -27,21 +27,15 @@ class Matchup(commands.Cog):
                     ptype=str(arg1.capitalize())+"/"+str(arg1.capitalize())
             else:                
                 ptype = str(arg1.capitalize())+"/"+str(arg2.capitalize())
-            finally:
-                if ptype not in self.types_dict:
-                    msg = "Invalid input!"
-                    
-                elif (arg1==arg2 or arg2==None):
-                    msg=' For ' + str(arg1).capitalize() +' types, use '
-                    msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
-                    msg+=' type moves!'
 
-                else:
-                    msg=' For ' + str(ptype) +' types, use '
-                    msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
-                    msg+=' type moves!'
-
-                await ctx.send(msg)
+            if ptype not in self.types_dict:
+                msg = "Invalid input!"
+          
+            else:
+                msg=' For ' + str(ptype) +' types, use '
+                msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
+                msg+=' type moves!'
+        await ctx.send(msg)
 
 def setup(bot):
     bot.add_cog(Matchup(bot))
