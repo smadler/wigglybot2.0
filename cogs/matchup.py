@@ -20,8 +20,15 @@ class Matchup(commands.Cog):
             msg = ('Invalid input!')
 
         elif arg1 != None:
-            if(arg2=None):
-                arg2=arg1
+            mono=False
+            if(arg2==None):
+                if(arg1.find("/")):
+                    types=arg1.split("/")
+                    arg1=types[0]
+                    arg2=types[1]
+                else:
+                    arg2=arg1
+                    mono=True
             ptype = str(arg1.capitalize())
             ptype+="/"+arg2.capitalize()
 
