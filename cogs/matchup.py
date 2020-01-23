@@ -16,11 +16,10 @@ class Matchup(commands.Cog):
 
     @commands.command()
     async def matchup(self, ctx, arg1 = None, arg2 = None):
-        mono=False
         if arg1 == None:
             msg = ('Invalid input!')
-
-        elif arg1 != None:
+        else:
+            bool mono=False
             if(arg2==None):
                 if(arg1.find("/")):
                     types=arg1.split("/")
@@ -29,7 +28,7 @@ class Matchup(commands.Cog):
                 else:
                     mono=True
             ptype = str(arg1.capitalize())
-            if mono==False:
+            if (mono==False):
                 ptype+="/"+str(arg2.capitalize())
             else:
                 ptype +="/"+str(arg1.capitalize())
