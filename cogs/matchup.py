@@ -31,7 +31,8 @@ class Matchup(commands.Cog):
                     arg2=types[1]
                 else:
                     #for some reason it never gets here, should be for monotypes
-                    arg2=arg1
+                    temp=arg1
+                    arg2=temp
                     mono=True
                     msg+="Success"
             ptype = str(arg1.capitalize())
