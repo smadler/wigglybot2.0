@@ -28,7 +28,7 @@ class Matchup(commands.Cog):
                 else:
                     arg2=arg1
             ptype = str(arg1.capitalize())
-            ptype+="/"+arg2.capitalize()
+            ptype+="/"+str(arg2.capitalize())
 
             if ptype not in self.types_dict:
                 msg = "Invalid input!"
