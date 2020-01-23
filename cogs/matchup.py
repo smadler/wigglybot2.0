@@ -25,7 +25,7 @@ class Matchup(commands.Cog):
             if arg2==None:
                 #no 2nd argument
                 types=arg1.split("/")
-                if len(types==1):
+                if len(types)==1:
                     ptype =str(types[0].capitalize())
                     ptype+="/"+str(types[0].capitalize())
                 else:
@@ -39,7 +39,7 @@ class Matchup(commands.Cog):
             else:
                 ptype = str(arg1.capitalize())
                 ptype+="/"+str(arg2.capitalize())
-                
+
             if (ptype not in self.types_dict):
                 msg += "Invalid input!"
 
