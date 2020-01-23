@@ -21,13 +21,14 @@ class Matchup(commands.Cog):
 
         else:
             msg=""
-            mono=False
+            mt=""
             if arg2==None:
                 #no 2nd argument
                 types=arg1.split("/")
                 if len(types)==1:
                     ptype =str(types[0].capitalize())
                     ptype+="/"+str(types[0].capitalize())
+                    mt=str(types[0])
                 else:
                     ptype = str(types[0].capitalize())
                     ptype+="/"+str(types[1].capitalize())
@@ -39,13 +40,13 @@ class Matchup(commands.Cog):
                 msg += "Invalid input!"
 
             else:
-                mt=ptype.split("/")
-                if(mt[0])==mt[1]):
-                    msg+=' For ' + mt[0] +' types, use '
+                t=ptype.split("/")
+                if(t[0])==t[1]):
+                    msg+=' For ' + mt +' types, use '
                 else:
                     msg+=' For ' + str(ptype) +' types, use '
-                    msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
-                    msg+=' type moves!'
+                msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
+                msg+=' type moves!'
 
         await ctx.send(msg)
 
