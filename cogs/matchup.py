@@ -18,30 +18,28 @@ class Matchup(commands.Cog):
     async def matchup(self, ctx, arg1 = None, arg2 = None):
         if arg1 == None:
             msg = ('Invalid input!')
-        else:
- #           if(arg2==None):
-  #              if(arg1.find("/")):
-   #                 types=arg1.split("/")
-    #                ptype = str(types[0].capitalize))
-     #               ptype+="/"+str(types[1].capitalize())
-      #              msg="Here1"
-       #         else:
-                    ptype=str(arg1.capitalize())
-                    ptype+="/"+str(arg1.capitalize())
-                    msg="Here2"
-#            else:                
- #               ptype = str(arg1.capitalize())
-  #              ptype += "/"+str(arg2.capitalize())
-   #             msg="here3"
 
- #           if ptype not in self.types_dict:
-  #              msg = "Invalid input!"
-          
-          #  else:
-           #     msg=' For ' + str(ptype) +' types, use '
-            #    msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
-             #   msg+=' type moves!'
-             msg=('Here')
+        elif arg1 != None:
+            mono=False
+            if(arg2==None):
+                if(arg1.find("/")):
+                    types=arg1.split("/")
+                    arg1=types[0]
+                    arg2=types[1]
+                else:
+                    arg2=arg1
+                    mono=True
+            ptype = str(arg1.capitalize())
+            ptype+="/"+arg2.capitalize()
+
+            if ptype not in self.types_dict:
+                msg = "Invalid input!"
+
+            else:
+                msg=' For ' + str(ptype) +' types, use '
+                msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
+                msg+=' type moves!'
+
         await ctx.send(msg)
 
 def setup(bot):
