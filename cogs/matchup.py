@@ -34,9 +34,9 @@ class Matchup(commands.Cog):
 
             if ptype not in self.types_dict:
                 msg = "Invalid input!"
-            elif mono=True:
+            elif mono==True:
                 msg='For ' + str(ptype) +'types, use '
-            elif mono=False:
+            else:
                 msg=' For ' + str(ptype) +' types, use '
             msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
             msg+=' type moves!'
