@@ -26,14 +26,14 @@ class Matchup(commands.Cog):
                     arg1=types[0]
                     arg2=types[1]
                 else:
-                    arg2=arg1
+                    str(arg2)=str(arg1)
             ptype = str(arg1.capitalize())
             ptype+="/"+str(arg2.capitalize())
 
             if ptype not in self.types_dict:
                 msg = "Invalid input!"
             elif arg1==arg2:
-                msg=' For ' + str(arg1) +' types, use '
+                msg=' For ' + str(arg1).capitalize() +' types, use '
                 msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
                 msg+=' type moves!'
             else:
