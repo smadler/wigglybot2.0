@@ -1,0 +1,294 @@
+Normal/Normal%Fighting
+Normal/Fire%Water, Ground, or Rock
+Normal/Water%Electric or Grass
+Normal/Electric%Ground
+Normal/Grass%Fire, Ice, Poison, Flying, or Bug
+Normal/Fighting%Flying, Psychic, or Fairy
+Normal/Ground%Water, Grass, or Ice
+Normal/Flying%Electric, Ice, or Rock
+Normal/Psychic%Bug, Ghost, or Dark
+Normal/Dragon%Ice, Dragon, or Fairy
+Normal/Dark%Fighting, Bug, or Fairy
+Normal/Fairy%Poison or Steel
+Fire/Normal%Water, Fighting, Ground, or Rock
+Fire/Fire%Water, Ground, or Rock
+Fire/Water%Electric, Ground, or Rock
+Fire/Electric%Ground (4x Effective!), Water, or Rock
+Fire/Grass%Poison, Flying, or Rock
+Fire/Ice%Rock (4x Effective!), Water, Fighting, or Ground
+Fire/Fighting%Water, Ground, Flying, or Psychic
+Fire/Poison%Ground (4x Effective!), Water, Psychic, or Rock
+Fire/Ground%Water (4x Effective!) or Ground
+Fire/Flying%Rock (4x Effective!), Water, or Electric
+Fire/Psychic%Water, Ground, Rock, Ghost, or Dark
+Fire/Bug%Rock (4x Effective!), Water, or Flying
+Fire/Rock%Water (4x Effective!), Ground (4x Effective!), Fighting, or Rock
+Fire/Ghost%Water, Ground, Rock, Ghost, or Dark
+Fire/Dragon%Ground, Rock, or Dragon
+Fire/Dark%Water, Fighting, Ground, or Rock
+Fire/Steel%Ground (4x Effective!), Water, or Fighting
+Fire/Fairy%Water, Poison, Ground, or Rock
+Water/Normal%Electric or Grass
+Water/Fire%Electric, Ground, or Rock
+Water/Water%Electric or Grass
+Water/Electric%Grass or Ground
+Water/Grass%Poison, Flying, or Bug
+Water/Ice%Electric, Grass, Fighting, or Rock
+Water/Fighting%Electric, Grass, Flying, Psychic, or Fairy
+Water/Poison%Electric, Ground, or Psychic
+Water/Ground%Grass (4x Effective!)
+Water/Flying%Electric (4x Effective!) or Rock
+Water/Psychic%Electric, Grass, Bug, Ghost, or Dark
+Water/Bug%Electric, Flying, or Rock
+Water/Rock%Grass (4x Effective!), Electric, Fighting, or Ground
+Water/Ghost%Electric, Grass, Ghost, or Dark
+Water/Dragon%Dragon or Fairy
+Water/Dark%Electric, Grass, Fighting, Bug, or Fairy
+Water/Steel%Electric, Fighting, or Ground
+Water/Fairy%Electric, Grass, or Poison
+Electric/Normal%Ground
+Electric/Fire%Ground (4x Effective!), Water, or Rock
+Electric/Water%Grass or Ground
+Electric/Electric%Ground
+Electric/Grass%Fire, Ice, Poison, or Bug
+Electric/Ice%Fire, Fighting, Ground, or Rock
+Electric/Poison%Ground (4x Effective!) or Psychic
+Electric/Ground%Water, Grass, Ice, or Ground
+Electric/Flying%Ice or Rock
+Electric/Psychic%Ground, Bug, Ghost, or Dark
+Electric/Bug%Fire or Rock
+Electric/Rock%Ground (4x Effective!), Water, Grass, or Fighting
+Electric/Ghost%Ground, Ghost, or Dark
+Electric/Dragon%Ice, Ground, Dragon, or Fairy
+Electric/Dark%Fighting, Ground, Bug, or Fairy
+Electric/Steel%Ground (4x Effective!), Fire, or Fighting
+Electric/Fairy%Poison or Ground
+Grass/Normal%Fire, Ice, Poison, Flying, or Bug
+Grass/Fire%Poison, Flying, or Rock
+Grass/Water%Poison, Flying, or Bug
+Grass/Electric%Fire, Ice, Poison, or Bug
+Grass/Grass%Fire, Ice, Poison, Flying, or Bug
+Grass/Ice%Fire (4x Effective!), Fighting, Poison, Flying, Bug, Rock, or Steel
+Grass/Fighting%Flying (4x Effective!), Fire, Ice, Poison, Psychic, or Fairy
+Grass/Poison%Fire, Ice, Flying, or Psychic
+Grass/Ground%Ice (4x Effective!), Fire, Flying, or Bug
+Grass/Flying%Ice (4x Effective!), Fire, Poison, Flying, or Rock
+Grass/Psychic%Bug (4x Effective!), Fire, Ice, Poison, Flying, Ghost, or Dark
+Grass/Bug%Fire (4x Effective!), Flying (4x Effective!), Ice, Poison, Bug, or Rock
+Grass/Rock%Ice, Fighting, Bug, or Steel
+Grass/Ghost%Fire, Ice, Flying, Ghost, or Dark
+Grass/Dragon%Ice (4x Effective!), Poison, Flying, Bug, Dragon, or Fairy
+Grass/Dark%Bug (4x Effective!), Fire, Ice, Fighting, Poison, Flying, or Fairy
+Grass/Steel%Fire (4x Effective!) or Fighting
+Grass/Fairy%Poison (4x Effective!), Fire, Ice, Flying, or Steel
+Ice/Fire%Rock (4x Effective!), Water, Fighting, or Ground
+Ice/Water%Electric, Grass, Fighting, or Rock
+Ice/Electric%Fire, Fighting, Ground, or Rock
+Ice/Grass%Fire (4x Effective!), Fighting, Poison, Flying, Bug, Rock, or Steel
+Ice/Ice%Fire, Fighting, Rock, or Steel
+Ice/Fighting%Fire, Fighting, Flying, Psychic, Steel, or Fairy
+Ice/Ground%Fire, Water, Grass, Fighting, or Steel
+Ice/Flying%Rock (4x Effective!), Fire, Electric, or Steel
+Ice/Psychic%Fire, Bug, Rock, Ghost, Dark, or Steel
+Ice/Bug%Fire (4x Effective!), Rock (4x Effective!), Flying, or Steel
+Ice/Rock%Fighting (4x Effective!), Steel (4x Effective!), Water, Grass, Ground, or Rock
+Ice/Ghost%Fire, Rock, Ghost, Dark, or Steel
+Ice/Dragon%Fighting, Rock, Dragon, Steel, or Fairy
+Ice/Dark%Fighting (4x Effective!), Fire, Bug, Rock, Steel, or Fairy
+Ice/Steel%Fire (4x Effective!), Fighting (4x Effective!), or Ground
+Ice/Fairy%Steel (4x Effective!), Fire, Poison, or Rock
+Fighting/Normal%Flying, Psychic, or Fairy
+Fighting/Fire%Water, Ground, Flying, or Psychic
+Fighting/Water%Electric, Grass, Flying, Psychic, or Fairy
+Fighting/Grass%Flying (4x Effective!), Fire, Ice, Poison, Psychic, or Fairy
+Fighting/Ice%Fire, Fighting, Flying, Psychic, Steel, or Fairy
+Fighting/Fighting%Flying, Psychic, or Fairy
+Fighting/Poison%Psychic (4x Effective!), Ground, or Flying
+Fighting/Flying%Electric, Ice, Flying, Psychic, or Fairy
+Fighting/Psychic%Flying, Ghost, or Fairy
+Fighting/Bug%Flying (4x Effective!), Fire, Psychic, or Fairy
+Fighting/Rock%Water, Grass, Fighting, Ground, Psychic, Steel, or Fairy
+Fighting/Ghost%Flying, Psychic, Ghost, or Fairy
+Fighting/Dragon%Fairy (4x Effective!), Ice, Flying, Psychic, or Dragon
+Fighting/Dark%Fairy (4x Effective!), Fighting, or Flying
+Fighting/Steel%Fire, Fighting, or Ground
+Fighting/Fairy%Poison, Flying, Psychic, Steel, or Fairy
+Poison/Fire%Ground (4x Effective!), Water, Psychic, or Rock
+Poison/Water%Electric, Ground, or Psychic
+Poison/Electric%Ground (4x Effective!) or Psychic
+Poison/Grass%Fire, Ice, Flying, or Psychic
+Poison/Fighting%Psychic (4x Effective!), Ground, or Flying
+Poison/Poison%Ground or Psychic
+Poison/Ground%Water, Ice, Ground, or Psychic
+Poison/Flying%Electric, Ice, Psychic, or Rock
+Poison/Bug%Fire, Flying, Psychic, or Rock
+Poison/Rock%Ground (4x Effective!), Water, Psychic, or Steel
+Poison/Ghost%Ground, Psychic, Ghost, or Dark
+Poison/Dragon%Ice, Ground, Psychic, or Dragon
+Poison/Dark%Ground
+Poison/Fairy%Ground, Psychic, or Steel
+Ground/Normal%Water, Grass, or Ice
+Ground/Fire%Water (4x Effective!) or Ground
+Ground/Water%Grass (4x Effective!)
+Ground/Electric%Water, Grass, Ice, or Ground
+Ground/Grass%Ice (4x Effective!), Fire, Flying, or Bug
+Ground/Ice%Fire, Water, Grass, Fighting, or Steel
+Ground/Poison%Water, Ice, Ground, or Psychic
+Ground/Ground%Water, Grass, or Ice
+Ground/Flying%Ice (4x Effective!) or Water
+Ground/Psychic%Water, Grass, Ice, Bug, Ghost, or Dark
+Ground/Bug%Fire, Water, Ice, or Flying
+Ground/Rock%Water (4x Effective!), Grass (4x Effective!), Ice, Fighting, Ground, or Steel
+Ground/Ghost%Water, Grass, Ice, Ghost, or Dark
+Ground/Dragon%Ice (4x Effective!), Dragon, or Fairy
+Ground/Dark%Water, Grass, Ice, Fighting, Bug, or Fairy
+Ground/Steel%Fire, Water, Fighting, or Ground
+Flying/Normal%Electric, Ice, or Rock
+Flying/Fire%Rock (4x Effective!), Water, or Electric
+Flying/Water%Electric (4x Effective!) or Rock
+Flying/Electric%Ice or Rock
+Flying/Grass%Ice (4x Effective!), Fire, Poison, Flying, or Rock
+Flying/Ice%Rock (4x Effective!), Fire, Electric, or Steel
+Flying/Fighting%Electric, Ice, Flying, Psychic, or Fairy
+Flying/Poison%Electric, Ice, Psychic, or Rock
+Flying/Ground%Ice (4x Effective!) or Water
+Flying/Flying%Electric, Ice, or Rock
+Flying/Psychic%Electric, Ice, Rock, Ghost, or Dark
+Flying/Bug%Rock (4x Effective!), Fire, Electric, Ice, or Flying
+Flying/Rock%Water, Electric, Ice, Rock, or Steel
+Flying/Ghost%Electric, Ice, Rock, Ghost, or Water
+Flying/Dragon%Ice (4x Effective!), Rock, Dragon, or Fairy
+Flying/Dark%Electric, Ice, Rock, or Fairy
+Flying/Steel%Fire or Electric
+Flying/Fairy%Electric, Ice, Poison, Rock, or Steel
+Psychic/Normal%Bug, Ghost, or Dark
+Psychic/Fire%Water, Ground, Rock, Ghost, or Dark
+Psychic/Water%Electric, Grass, Bug, Ghost, or Dark
+Psychic/Electric%Ground, Bug, Ghost, or Dark
+Psychic/Grass%Bug (4x Effective!), Fire, Ice, Poison, Flying, Ghost, or Dark
+Psychic/Ice%Fire, Bug, Rock, Ghost, Dark, or Steel
+Psychic/Fighting%Flying, Ghost, or Fairy
+Psychic/Ground%Water, Grass, Ice, Bug, Ghost, or Dark
+Psychic/Flying%Electric, Ice, Rock, Ghost, or Dark
+Psychic/Psychic%Bug, Ghost, or Dark
+Psychic/Bug%Fire, Flying, Bug, Rock, Ghost, or Dark
+Psychic/Rock%Water, Grass, Ground, Bug, Ghost, Dark, or Steel
+Psychic/Ghost%Ghost (4x Effective!) or Dark (4x Effective!)
+Psychic/Dragon%Ice, Bug, Ghost, Dragon, Dark, or Fairy
+Psychic/Dark%Bug (4x Effective!) or Fairy
+Psychic/Steel%Fire, Ground, Ghost, or Dark
+Psychic/Fairy%Poison, Ghost, or Steel
+Bug/Fire%Rock (4x Effective!), Water, or Flying
+Bug/Water%Electric, Flying, or Rock
+Bug/Electric%Fire or Rock
+Bug/Grass%Fire (4x Effective!), Flying (4x Effective!), Ice, Poison, Bug, or Rock
+Bug/Ice%Fire (4x Effective!), Rock (4x Effective!), Flying, or Steel
+Bug/Fighting%Flying (4x Effective!), Fire, Psychic, or Fairy
+Bug/Poison%Fire, Flying, Psychic, or Rock
+Bug/Ground%Fire, Water, Ice, or Flying
+Bug/Flying%Rock (4x Effective!), Fire, Electric, Ice, or Flying
+Bug/Psychic%Fire, Flying, Bug, Rock, Ghost, or Dark
+Bug/Bug%Fire, Flying, or Rock
+Bug/Rock%Water, Rock, or Steel
+Bug/Ghost%Fire, Flying, Rock, Ghost, or Dark
+Bug/Steel%Fire (4x Effective!)
+Bug/Fairy%Fire, Poison, Flying, Rock, or Steel
+Rock/Fire%Water (4x Effective!), Ground (4x Effective!), Fighting, or Rock
+Rock/Water%Grass (4x Effective!), Electric, Fighting, or Ground
+Rock/Electric%Ground (4x Effective!), Water, Grass, or Fighting
+Rock/Grass%Ice, Fighting, Bug, or Steel
+Rock/Ice%Fighting (4x Effective!), Steel (4x Effective!), Water, Grass, Ground, or Rock
+Rock/Fighting%Water, Grass, Fighting, Ground, Psychic, Steel, or Fairy
+Rock/Poison%Ground (4x Effective!), Water, Psychic, or Steel
+Rock/Ground%Water (4x Effective!), Grass (4x Effective!), Ice, Fighting, Ground, or Steel
+Rock/Flying%Water, Electric, Ice, Rock, or Steel
+Rock/Psychic%Water, Grass, Ground, Bug, Ghost, Dark, or Steel
+Rock/Bug%Water, Rock, or Steel
+Rock/Rock%Water, Grass, Fighting, Ground, or Steel
+Rock/Dragon%Ice, Fighting, Ground, Dragon, Steel, or Fairy
+Rock/Dark%Fighting (4x Effective!), Water, Gradd, Ground, Bug, Steel, or Fairy
+Rock/Steel%Fighting (4x Effective!), Ground (4x Effective!), or Water
+Rock/Fairy%Steel (4x Effective!), Water, Grass, and Ground
+Ghost/Fire%Water, Ground, Rock, Ghost, or Dark
+Ghost/Water%Electric, Grass, Ghost, or Dark
+Ghost/Electric%Ground, Ghost, or Dark
+Ghost/Grass%Fire, Ice, Flying, Ghost, or Dark
+Ghost/Ice%Fire, Rock, Ghost, Dark, or Steel
+Ghost/Fighting%Flying, Psychic, Ghost, or Fairy
+Ghost/Poison%Ground, Psychic, Ghost, or Dark
+Ghost/Ground%Water, Grass, Ice, Ghost, or Dark
+Ghost/Flying%Electric, Ice, Rock, Ghost, or Water
+Ghost/Psychic%Ghost (4x Effective!) or Dark (4x Effective!)
+Ghost/Bug%Fire, Flying, Rock, Ghost, or Dark
+Ghost/Ghost%Ghost and Dark
+Ghost/Dragon%Ice, Ghost, Dragon, Dark, and Fairy
+Ghost/Dark%Fairy
+Ghost/Steel%Fire, Ground, Ghost, and Dark
+Ghost/Fairy%Ghost and Steel
+Dragon/Normal%Ice, Dragon, or Fairy
+Dragon/Fire%Ground, Rock, or Dragon
+Dragon/Water%Dragon or Fairy
+Dragon/Electric%Ice, Ground, Dragon, or Fairy
+Dragon/Grass%Ice (4x Effective!), Poison, Flying, Bug, Dragon, or Fairy
+Dragon/Ice%Fighting, Rock, Dragon, Steel, or Fairy
+Dragon/Fighting%Fairy (4x Effective!), Ice, Flying, Psychic, or Dragon
+Dragon/Poison%Ice, Ground, Psychic, or Dragon
+Dragon/Ground%Ice (4x Effective!), Dragon, or Fairy
+Dragon/Flying%Ice (4x Effective!), Rock, Dragon, or Fairy
+Dragon/Psychic%Ice, Bug, Ghost, Dragon, Dark, or Fairy
+Dragon/Rock%Ice, Fighting, Ground, Dragon, Steel, or Fairy
+Dragon/Ghost%Ice, Ghost, Dragon, Dark, and Fairy
+Dragon/Dragon%Ice, Dragon, and Fairy
+Dragon/Dark%Fairy (4x Effective!), Ice, Fighting, Bug, and Dragon
+Dragon/Steel%Fighting and Ground
+Dragon/Fairy%Ice, Poison, Steel, and Fairy
+Dark/Normal%Fighting, Bug, or Fairy
+Dark/Fire%Water, Fighting, Ground, or Rock
+Dark/Water%Electric, Grass, Fighting, Bug, or Fairy
+Dark/Electric%Fighting, Ground, Bug, or Fairy
+Dark/Grass%Bug (4x Effective!), Fire, Ice, Fighting, Poison, Flying, or Fairy
+Dark/Ice%Fighting (4x Effective!), Fire, Bug, Rock, Steel, or Fairy
+Dark/Fighting%Fairy (4x Effective!), Fighting, or Flying
+Dark/Poison%Ground
+Dark/Ground%Water, Grass, Ice, Fighting, Bug, or Fairy
+Dark/Flying%Electric, Ice, Rock, or Fairy
+Dark/Psychic%Bug (4x Effective!) or Fairy
+Dark/Rock%Fighting (4x Effective!), Water, Gradd, Ground, Bug, Steel, or Fairy
+Dark/Ghost%Fairy
+Dark/Dragon%Fairy (4x Effective!), Ice, Fighting, Bug, and Dragon
+Dark/Dark%Fighting, Bug, and Fairy
+Dark/Steel%Fighting (4x Effective!), Fire, and Ground
+Dark/Fairy%Poison, Steel, and Fairy
+Steel/Fire%Ground (4x Effective!), Water, or Fighting
+Steel/Water%Electric, Fighting, or Ground
+Steel/Electric%Ground (4x Effective!), Fire, or Fighting
+Steel/Grass%Fire (4x Effective!) or Fighting
+Steel/Ice%Fire (4x Effective!), Fighting (4x Effective!), or Ground
+Steel/Fighting%Fire, Fighting, or Ground
+Steel/Ground%Fire, Water, Fighting, or Ground
+Steel/Flying%Fire or Electric
+Steel/Psychic%Fire, Ground, Ghost, or Dark
+Steel/Bug%Fire (4x Effective!)
+Steel/Rock%Fighting (4x Effective!), Ground (4x Effective!), or Water
+Steel/Ghost%Fire, Ground, Ghost, and Dark
+Steel/Dragon%Fighting and Ground
+Steel/Dark%Fighting (4x Effective!), Fire, and Ground
+Steel/Steel%Fire, Fighting, and Ground
+Steel/Fairy%Fire and Ground
+Fairy/Normal%Poison or Steel
+Fairy/Fire%Water, Poison, Ground, or Rock
+Fairy/Water%Electric, Grass, or Poison
+Fairy/Electric%Poison or Ground
+Fairy/Grass%Poison (4x Effective!), Fire, Ice, Flying, or Steel
+Fairy/Ice%Steel (4x Effective!), Fire, Poison, or Rock
+Fairy/Fighting%Poison, Flying, Psychic, Steel, or Fairy
+Fairy/Poison%Ground, Psychic, or Steel
+Fairy/Flying%Electric, Ice, Poison, Rock, or Steel
+Fairy/Psychic%Poison, Ghost, or Steel
+Fairy/Bug%Fire, Poison, Flying, Rock, or Steel
+Fairy/Rock%Steel (4x Effective!), Water, Grass, and Ground
+Fairy/Ghost%Ghost and Steel
+Fairy/Dragon%Ice, Poison, Steel, and Fairy
+Fairy/Dark%Poison, Steel, and Fairy
+Fairy/Steel%Fire and Ground
+Fairy/Fairy%Poison and Steel
