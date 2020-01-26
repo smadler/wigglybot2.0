@@ -2,6 +2,7 @@
 import discord
 import os
 import asyncio
+import traceback
 from discord.ext import commands
 
 bot = commands.Bot(command_prefix=(('%', '$')), description='Wiggly Bot')
@@ -23,12 +24,13 @@ async def on_ready():
     print(bot.user.id)
     print('------')
 
-    cogs = ['cogs.catch', 'cogs.matchup']
+    cogs = ['cogs.pokemon']
     for cog in cogs:
         try:
             bot.load_extension(cog)
-        except Exception:
+        except Exception as e:
             print(f'Couldn\'t load cog {cog}')
+            traceback.print_exc()
 
 
 if __name__ == '__main__':
