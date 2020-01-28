@@ -17,7 +17,7 @@ class Pokemon(commands.Cog):
 
     @commands.command()      
     async def namerater(self, ctx, arg1: str):
-        if get(ctx.message.author.roles, name="Max Host"):
+        if get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods"):
             await ctx.channel.edit(name = arg1)
 
     @commands.command()
