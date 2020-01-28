@@ -2,6 +2,7 @@ import discord
 from .utils.dataIO import DataIO
 from discord.ext import commands
 import urllib.request
+from discord.utils import get
 
 class Pokemon(commands.Cog):
 
@@ -13,6 +14,11 @@ class Pokemon(commands.Cog):
     norm_dict = DataIO.loadValues()
     poke_dict = DataIO.loadPokeJSON()
 
+
+    @commands.command()      
+    async def namerater(self, ctx, arg1: str):
+        if get(ctx.message.author.roles, name="Max Host"):
+            await ctx.channel.edit(name = arg1)
 
     @commands.command()
     async def ball(self, ctx, arg1 = None, arg2 = None):
@@ -79,7 +85,6 @@ class Pokemon(commands.Cog):
     async def wiggly(self, ctx):
         await ctx.send(file = File('./data/pokemon/wiggly.png'))
 
-
     @commands.command()
     async def info(self, ctx, arg1: str):
         poke = None
@@ -118,10 +123,6 @@ class Pokemon(commands.Cog):
             embed.add_field(name = 'Abilities', value = abilities, inline=False)
 
             await ctx.send(embed = embed)
-
-
-
-
 
 def setup(bot):
     bot.add_cog(Pokemon(bot))
