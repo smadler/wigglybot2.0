@@ -25,6 +25,7 @@ class Pokemon(commands.Cog):
         if arg1 == None:
             msg = ('Invalid input!')
 
+        #one word name
         elif arg1 != None and arg2 == None:
             pk = arg1.capitalize()
 
@@ -34,8 +35,18 @@ class Pokemon(commands.Cog):
             else:
               msg = '\n'.join(map(str, self.norm_dict.get(pk)))
 
+        #Check GMax
         elif arg1 == 'g' or arg1 == 'G' and arg2 != None:
             pk = arg2.capitalize()
+
+            if pk not in self.gm_dict:
+                msg="Pokemon not found!"
+
+            else:
+                msg = '\n'.join(map(str, self.gm_dict.get(pk)))
+
+        else: #try reading as a 2 word name
+            pk = arg1.capitalize() + ' ' + arg2.capitalize()
 
             if pk not in self.gm_dict:
                 msg="Pokemon not found!"
