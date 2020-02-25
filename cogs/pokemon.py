@@ -20,6 +20,44 @@ class Pokemon(commands.Cog):
         if get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods"):
             await ctx.channel.edit(name = arg1)
 
+    @commands.command()      
+    async def topic(self, ctx, arg1 = None, arg2 = None):
+        if get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods"):
+            # Verify that the topic is a name or den number
+            newtopic = None
+
+            if arg1 == None:
+                newtopic = ''
+                
+            elif str(arg1).isdigit():
+                newtopic = 'Den ' + str(arg1)
+                
+            elif str(arg2).isdigit():
+                newtopic = 'Den ' + str(arg2)
+                
+            #one word name
+            elif arg1 != None and arg2 == None:
+                pk = arg1.capitalize()
+
+                if pk in self.norm_dict:
+                    newtopic = pk
+
+            #Check GMax
+            elif arg1 == 'g' or arg1 == 'G' and arg2 != None:
+                pk = arg2.capitalize()
+
+                if pk in self.gm_dict:
+                    newtopic = 'GMax' + pk
+
+            else: #try reading as a 2 word name
+                pk = arg1.capitalize() + ' ' + arg2.capitalize()
+
+                if pk in self.norm_dict:
+                    newtopic = pk
+
+            if newtopic != None:
+                await ctx.channel.edit(topic = newtopic)
+
     @commands.command()
     async def ball(self, ctx, arg1 = None, arg2 = None):
         if arg1 == None:
@@ -48,11 +86,11 @@ class Pokemon(commands.Cog):
         else: #try reading as a 2 word name
             pk = arg1.capitalize() + ' ' + arg2.capitalize()
 
-            if pk not in self.gm_dict:
+            if pk not in self.norm_dict:
                 msg="Pokemon not found!"
 
             else:
-                msg = '\n'.join(map(str, self.gm_dict.get(pk)))
+                msg = '\n'.join(map(str, self.norm_dict.get(pk)))
 
         embed = discord.Embed()
         embed.title = pk
