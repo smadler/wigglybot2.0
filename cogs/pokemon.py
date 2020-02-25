@@ -29,7 +29,7 @@ class Pokemon(commands.Cog):
             if arg1 == None or arg1.capitalize() == 'Clear':
                 newtopic = ''
                 
-            elif str(arg1).isdigit():
+            elif str(arg1).isdigit() or arg1.capitalize() == 'Promo':
                 pk = ''
                 
                 if arg2.capitalize() = 'Sword':
@@ -39,7 +39,7 @@ class Pokemon(commands.Cog):
                    
                 newtopic = 'Now hosting:' + pk + 'Den ' + str(arg1)
                 
-            elif str(arg2).isdigit():
+            elif str(arg2).isdigit() or arg2.capitalize() == 'Promo':
                 pk = ''
                 
                 if arg1.capitalize() = 'Sword':
