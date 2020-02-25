@@ -30,28 +30,31 @@ class Pokemon(commands.Cog):
                 newtopic = ''
                 
             elif str(arg1).isdigit() or arg1.capitalize() == 'Promo':
-                pk = ''
+                pk = ' '
                 
-                if arg2.capitalize() == 'Sword':
+                if args2 != None and arg2.capitalize() == 'Sword':
                    pk = ' Sword '
-                elif arg2.capitalize() == 'Sheild':
+                elif args2 != None and arg2.capitalize() == 'Shield':
                    pk = ' Shield '
                    
-                newtopic = 'Now hosting:' + pk + 'Den ' + str(arg1)
+                newtopic = 'Now hosting:' + pk + 'Den ' + str(arg1).capitalize()
                 
             elif str(arg2).isdigit() or arg2.capitalize() == 'Promo':
-                pk = ''
+                pk = ' '
                 
                 if arg1.capitalize() == 'Sword':
                    pk = ' Sword '
-                elif arg1.capitalize() == 'Sheild':
+                elif arg1.capitalize() == 'Shield':
                    pk = ' Shield '
                    
-                newtopic = 'Now hosting:' + pk + 'Den ' + str(arg2)
+                newtopic = 'Now hosting:' + pk + 'Den ' + str(arg2).capitalize()
                 
             #one word name
             elif arg1 != None and arg2 == None:
                 pk = arg1.capitalize()
+                print(pk)
+                print(pk in self.norm_dict)
+                
 
                 if pk in self.norm_dict:
                     newtopic = 'Now hosting: ' + pk
@@ -61,7 +64,7 @@ class Pokemon(commands.Cog):
                 pk = arg2.capitalize()
 
                 if pk in self.gm_dict:
-                    newtopic = 'Now hosting: GMax' + pk
+                    newtopic = 'Now hosting: GMax ' + pk
 
             else: #try reading as a 2 word name
                 pk = arg1.capitalize() + ' ' + arg2.capitalize()
