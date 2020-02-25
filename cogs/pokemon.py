@@ -26,34 +26,48 @@ class Pokemon(commands.Cog):
             # Verify that the topic is a name or den number
             newtopic = None
 
-            if arg1 == None:
+            if arg1 == None or arg1.capitalize() == 'Clear':
                 newtopic = ''
                 
             elif str(arg1).isdigit():
-                newtopic = 'Den ' + str(arg1)
+                pk = ''
+                
+                if arg2.capitalize() = 'Sword':
+                   pk = ' Sword '
+                elif arg2.capitalize() = 'Sheild':
+                   pk = ' Shield '
+                   
+                newtopic = 'Now hosting:' + pk + 'Den ' + str(arg1)
                 
             elif str(arg2).isdigit():
-                newtopic = 'Den ' + str(arg2)
+                pk = ''
+                
+                if arg1.capitalize() = 'Sword':
+                   pk = ' Sword '
+                elif arg1.capitalize() = 'Sheild':
+                   pk = ' Shield '
+                   
+                newtopic = 'Now hosting:' + pk + 'Den ' + str(arg2)
                 
             #one word name
             elif arg1 != None and arg2 == None:
                 pk = arg1.capitalize()
 
                 if pk in self.norm_dict:
-                    newtopic = pk
+                    newtopic = 'Now hosting: ' + pk
 
             #Check GMax
             elif arg1 == 'g' or arg1 == 'G' and arg2 != None:
                 pk = arg2.capitalize()
 
                 if pk in self.gm_dict:
-                    newtopic = 'GMax' + pk
+                    newtopic = 'Now hosting: GMax' + pk
 
             else: #try reading as a 2 word name
                 pk = arg1.capitalize() + ' ' + arg2.capitalize()
 
                 if pk in self.norm_dict:
-                    newtopic = pk
+                    newtopic = 'Now hosting: ' + pk
 
             if newtopic != None:
                 await ctx.channel.edit(topic = newtopic)
