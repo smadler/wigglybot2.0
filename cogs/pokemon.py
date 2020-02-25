@@ -20,6 +20,58 @@ class Pokemon(commands.Cog):
         if get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods"):
             await ctx.channel.edit(name = arg1)
 
+    @commands.command()      
+    async def topic(self, ctx, arg1 = None, arg2 = None):
+        if get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods"):
+            # Verify that the topic is a name or den number
+            newtopic = None
+
+            if arg1 == None or arg1.capitalize() == 'Clear':
+                newtopic = ''
+                
+            elif str(arg1).isdigit() or arg1.capitalize() == 'Promo':
+                pk = ' '
+                
+                if arg2 != None and arg2.capitalize() == 'Sword':
+                   pk = ' Sword '
+                elif arg2 != None and arg2.capitalize() == 'Shield':
+                   pk = ' Shield '
+                   
+                newtopic = 'Now hosting:' + pk + 'Den ' + str(arg1).capitalize()
+                
+            elif arg2 != None and (str(arg2).isdigit() or arg2.capitalize() == 'Promo'):
+                pk = ' '
+                
+                if arg1.capitalize() == 'Sword':
+                   pk = ' Sword '
+                elif arg1.capitalize() == 'Shield':
+                   pk = ' Shield '
+                   
+                newtopic = 'Now hosting:' + pk + 'Den ' + str(arg2).capitalize()
+                
+            #one word name
+            elif arg1 != None and arg2 == None:
+                pk = arg1.capitalize()                
+
+                if pk in self.norm_dict:
+                    newtopic = 'Now hosting: ' + pk
+
+            #Check GMax
+            elif arg1 == 'g' or arg1 == 'G' and arg2 != None:
+                pk = arg2.capitalize()
+
+                if pk in self.gm_dict:
+                    newtopic = 'Now hosting: GMax ' + pk
+
+            else: #try reading as a 2 word name
+                pk = arg1.capitalize() + ' ' + arg2.capitalize()
+
+                if pk in self.norm_dict:
+                    newtopic = 'Now hosting: ' + pk
+
+            if newtopic != None:
+                await ctx.channel.edit(topic = newtopic)
+
     @commands.command()
     async def ball(self, ctx, arg1 = None, arg2 = None):
         if arg1 == None:
@@ -48,11 +100,11 @@ class Pokemon(commands.Cog):
         else: #try reading as a 2 word name
             pk = arg1.capitalize() + ' ' + arg2.capitalize()
 
-            if pk not in self.gm_dict:
+            if pk not in self.norm_dict:
                 msg="Pokemon not found!"
 
             else:
-                msg = '\n'.join(map(str, self.gm_dict.get(pk)))
+                msg = '\n'.join(map(str, self.norm_dict.get(pk)))
 
         embed = discord.Embed()
         embed.title = pk
