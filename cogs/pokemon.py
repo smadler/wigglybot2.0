@@ -51,10 +51,7 @@ class Pokemon(commands.Cog):
                 
             #one word name
             elif arg1 != None and arg2 == None:
-                pk = arg1.capitalize()
-                print(pk)
-                print(pk in self.norm_dict)
-                
+                pk = arg1.capitalize()                
 
                 if pk in self.norm_dict:
                     newtopic = 'Now hosting: ' + pk
