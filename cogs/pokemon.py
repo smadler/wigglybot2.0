@@ -208,7 +208,7 @@ class Pokemon(commands.Cog):
                         await ctx.message.add_reaction('U+1F44E')                        
                 else:
                     reaction = self.bot.get_emoji(int(self.extract.search(emoj).group(0)))
-                    await await ctx.message.add_reaction(reaction)
+                    await ctx.message.add_reaction(reaction)
             except:
                 traceback.print_exc()
 
