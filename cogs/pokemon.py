@@ -3,6 +3,7 @@ from .utils.dataIO import DataIO
 from discord.ext import commands
 import urllib.request
 from discord.utils import get
+import re
 
 class Pokemon(commands.Cog):
 
@@ -14,6 +15,9 @@ class Pokemon(commands.Cog):
     norm_dict = DataIO.loadValues()
     poke_dict = DataIO.loadPokeJSON()
 
+    isemoji = re.compile(r'<a?:.*:[0987654321]+>')
+    isbaseemoji = re.compile(r':.*:')
+    exract = re.compile(r'(?<=:)[0987654321]+(?=[>])')
 
     @commands.command()      
     async def namerater(self, ctx, arg1: str):
@@ -186,6 +190,27 @@ class Pokemon(commands.Cog):
             embed.add_field(name = 'Abilities', value = abilities, inline=False)
 
             await ctx.send(embed = embed)
+
+    @commands.command()
+    async def vote(self, ctx, args*):
+        emoji = filter(lambda x: self.isemoji.match(x) or self.isbaseemoji.match(x), args)
+
+        if ''.join(emoji) == '':
+            emoji = [':thumbsup:',':thumbsdown:']
+
+        for emoj in emoji:
+            try:
+                if self.isbaseemoji.match(emoj):
+                    #Add support for non thumbs later
+                    if emoj == ':thumbsup:':
+                        await ctx.message.add_reaction('U+1F44D')
+                    elif emoj == ':thumbsdown:':
+                        await ctx.message.add_reaction('U+1F44E')                        
+                else:
+                    reaction = self.bot.get_emoji(int(self.extract.search(emoj).group(0)))
+                    await await ctx.message.add_reaction(reaction)
+            except:
+                traceback.print_exc()
 
 def setup(bot):
     bot.add_cog(Pokemon(bot))
