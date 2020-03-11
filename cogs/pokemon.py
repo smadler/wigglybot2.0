@@ -192,7 +192,7 @@ class Pokemon(commands.Cog):
             await ctx.send(embed = embed)
 
     @commands.command()
-    async def vote(self, ctx, args*):
+    async def vote(self, ctx, *args):
         emoji = filter(lambda x: self.isemoji.match(x) or self.isbaseemoji.match(x), args)
 
         if ''.join(emoji) == '':
