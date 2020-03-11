@@ -26,7 +26,7 @@ class PinManager(commands.Cog):
     @commands.Cog.listener()
     async def on_raw_reaction_add(self, payload):
         #Check if chn in whitelist
-        if payload.channel_id not in allowedchn:
+        if payload.channel_id not in self.allowedchn:
             return
         guild = await self.bot.fetch_guild(guild_id = payload.guild_id)
         member = await guild.fetch_member(member_id = payload.user_id)
@@ -38,7 +38,7 @@ class PinManager(commands.Cog):
     @commands.Cog.listener()
     async def on_raw_reaction_remove(self, payload):
         #Check if chn in whitelist
-        if payload.channel_id not in allowedchn:
+        if payload.channel_id not in self.allowedchn:
             return
         guild = await self.bot.fetch_guild(guild_id = payload.guild_id)
         member = await guild.fetch_member(member_id = payload.user_id)
