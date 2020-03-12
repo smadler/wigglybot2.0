@@ -209,6 +209,7 @@ class Pokemon(commands.Cog):
                         await ctx.message.add_reaction(u"\U0001F44E")                        
                 else:
                     reactid = int(self.extract.search(emoj).group(0))
+                    print(emoj)
                     print(reactid)
                     reaction = self.bot.get_emoji(reactid)
                     await ctx.message.add_reaction(reaction)
