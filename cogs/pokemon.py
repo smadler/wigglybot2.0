@@ -4,6 +4,7 @@ from discord.ext import commands
 import urllib.request
 from discord.utils import get
 import re
+import traceback
 
 class Pokemon(commands.Cog):
 
@@ -203,11 +204,13 @@ class Pokemon(commands.Cog):
                 if self.isbaseemoji.match(emoj):
                     #Add support for non thumbs later
                     if emoj == ':thumbsup:':
-                        await ctx.message.add_reaction('U+1F44D')
+                        await ctx.message.add_reaction(u"\U0001F44D")
                     elif emoj == ':thumbsdown:':
-                        await ctx.message.add_reaction('U+1F44E')                        
+                        await ctx.message.add_reaction(u"\U0001F44E")                        
                 else:
-                    reaction = self.bot.get_emoji(int(self.extract.search(emoj).group(0)))
+                    reactid = int(self.extract.search(emoj).group(0))
+                    print(reactid)
+                    reaction = self.bot.get_emoji(reactid)
                     await ctx.message.add_reaction(reaction)
             except:
                 traceback.print_exc()
