@@ -194,11 +194,11 @@ class Pokemon(commands.Cog):
 
     @commands.command()
     async def vote(self, ctx, *args):
-        emoji = filter(lambda x: self.isemoji.match(x) or self.isbaseemoji.match(x), args)
+        emoji = list(filter(lambda x: self.isemoji.match(x) or self.isbaseemoji.match(x), args))
 
         print(emoji)
 
-        if ''.join(emoji) == '':
+        if emoji == []:
             emoji = [':thumbsup:',':thumbsdown:']
 
         for emoj in emoji:
