@@ -18,7 +18,7 @@ class Pokemon(commands.Cog):
 
     isemoji = re.compile(r'<a?:.*:[0987654321]+>')
     isbaseemoji = re.compile(r':.*:')
-    exract = re.compile(r'(?<=:)[0987654321]+(?=[>])')
+    extract = re.compile(r'(?<=:)[0987654321]+(?=[>])')
 
     @commands.command()      
     async def namerater(self, ctx, arg1: str):
