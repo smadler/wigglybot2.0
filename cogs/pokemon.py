@@ -201,7 +201,6 @@ class Pokemon(commands.Cog):
 
         for emoj in emoji:
             try:
-                print(emoj)
                 if self.isbaseemoji.match(emoj):
                     #Add support for non thumbs later
                     if emoj == ':thumbsup:':
