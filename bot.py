@@ -24,7 +24,7 @@ async def on_ready():
     print(bot.user.id)
     print('------')
 
-    cogs = ['cogs.pokemon', 'cogs.pinmanager']
+    cogs = ['cogs.pokemon', 'cogs.pinmanager', 'cogs.wander']
     for cog in cogs:
         try:
             bot.load_extension(cog)

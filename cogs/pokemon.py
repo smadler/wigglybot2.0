@@ -11,6 +11,22 @@ class Pokemon(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
+    allowedchn = [
+	646049007998730290,
+	646053591462707260,
+	646053662833246239,
+	665613353397518396,
+	666833127448117280,
+	666834649506644008,
+	668148156504211476,
+	669359745114570795,
+	670457916339388446,
+	670459024755523584,
+	669361675560026167,
+	673012289120632846,
+	668360850750308358,
+    ]
+
     types_dict = DataIO.loadTypes()
     gm_dict = DataIO.loadValuesGMAX()
     norm_dict = DataIO.loadValues()
@@ -21,12 +37,19 @@ class Pokemon(commands.Cog):
     extract = re.compile(r'(?<=:)[0987654321]+(?=[>])')
 
     @commands.command()      
-    async def namerater(self, ctx, arg1: str):
+    async def narnerater(self, ctx, arg1: str):
+        if ctx.channel.id not in self.allowedchn:
+            return
         if get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods"):
+            arg1 = re.sub('m', 'rn', arg1)
+            if arg1 == 'roorn-12':
+                arg1 = 'room-12'
             await ctx.channel.edit(name = arg1)
 
     @commands.command()      
     async def topic(self, ctx, arg1 = None, arg2 = None):
+        if ctx.channel.id not in self.allowedchn:
+            return
         if get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods"):
             # Verify that the topic is a name or den number
             newtopic = None
@@ -115,7 +138,10 @@ class Pokemon(commands.Cog):
         embed.title = pk
         embed.set_footer(text = 'Please note these values may not be completely correct!')
         embed.add_field(name = 'Catch Rates', value = msg)
-        await ctx.send(embed = embed)
+        await ctx.send('Just use a Repeat Ball.')
+        if not ctx.author.dm_channel:
+            await ctx.author.create_dm()
+        await ctx.author.dm_channel.send(embed = embed)
 
 
     @commands.command()
@@ -146,12 +172,19 @@ class Pokemon(commands.Cog):
                 msg+='\n'.join(map(str, self.types_dict.get(ptype))).rstrip()
                 msg+=' type moves!'
 
-        await ctx.send(msg)
+        await ctx.send("Don't bother me, I'm on holiday.")
 
 
     @commands.command()
-    async def wiggly(self, ctx):
-        await ctx.send(file = File('./data/pokemon/wiggly.png'))
+    async def wiggly(self, ctx, arg1: int, *args):
+        if get(ctx.message.author.roles, name="Mods"):
+            target = ctx.bot.get_channel(arg1)
+            if target == None:
+                await ctx.send('Channel not found.')
+                return
+            await target.send(' '.join(args))
+            await ctx.send('Message sent.')
+            return
 
     @commands.command()
     async def info(self, ctx, arg1: str):
@@ -190,7 +223,7 @@ class Pokemon(commands.Cog):
             embed.add_field(name = 'Type(s)', value = types, inline=False)
             embed.add_field(name = 'Abilities', value = abilities, inline=False)
 
-            await ctx.send(embed = embed)
+            await ctx.send('Not worth my time.')
 
     @commands.command()
     async def vote(self, ctx, *args):
