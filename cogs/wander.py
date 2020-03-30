@@ -64,6 +64,7 @@ class Wander(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         self.steps = self.stepCounter()
+        print('Initilized with '+self.steps+' steps')
 
     def stepCounter():
         return random.randrange(minsteps, minsteps + stepvariance)
@@ -78,6 +79,7 @@ class Wander(commands.Cog):
         if message.channel not in self.channelPoss:
             self.channelPoss.append(message.channel)
         self.steps -= 1
+        print(''+self.steps)
         if self.steps < 1:
             self.steps = self.stepCounter()
             target = random.choice(self.channelPoss)
