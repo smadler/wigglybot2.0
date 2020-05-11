@@ -115,7 +115,7 @@ class Pokemon(commands.Cog):
 
     @commands.command()
     async def ball(self, ctx, arg1 = None, arg2 = None):
-        if not (ctx.channel.id == fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+        if not (ctx.channel.id == self.fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
             return
         
         if arg1 == None:
@@ -159,7 +159,7 @@ class Pokemon(commands.Cog):
 
     @commands.command()
     async def matchup(self, ctx, arg1 = None, arg2 = None):
-        if not (ctx.channel.id == fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+        if not (ctx.channel.id == self.fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
             return
 
         if arg1 == None:
@@ -206,7 +206,7 @@ class Pokemon(commands.Cog):
 
     @commands.command()
     async def info(self, ctx, arg1: str):
-        if not (ctx.channel.id == fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+        if not (ctx.channel.id == self.fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
             return
 
         poke = None
