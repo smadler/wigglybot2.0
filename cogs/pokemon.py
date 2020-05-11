@@ -201,7 +201,7 @@ class Pokemon(commands.Cog):
             await target.send(' '.join(args))
             await ctx.send('Message sent.')
             return
-        else
+        else:
             await ctx.send(file = File('./data/pokemon/wiggly.png'))
 
     @commands.command()
