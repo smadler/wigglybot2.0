@@ -11,6 +11,28 @@ class Pokemon(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
+    # TODO: Make this part more configurable, especially on the fly
+    allowedchn = [
+	646049007998730290,
+	646053591462707260,
+	646053662833246239,
+	665613353397518396,
+	666833127448117280,
+	666834649506644008,
+	668148156504211476,
+	669359745114570795,
+	670457916339388446,
+	670459024755523584,
+	669361675560026167,
+	673012289120632846,
+	668360850750308358,
+    ]
+
+    serverid = 645011176182251522
+
+    fullpermchn = 647701301031075862
+    # End
+    
     types_dict = DataIO.loadTypes()
     gm_dict = DataIO.loadValuesGMAX()
     norm_dict = DataIO.loadValues()
@@ -21,12 +43,26 @@ class Pokemon(commands.Cog):
     extract = re.compile(r'(?<=:)[0987654321]+(?=[>])')
 
     @commands.command()      
+    async def narnerater(self, ctx, arg1: str):
+        if ctx.channel.id not in self.allowedchn:
+            return
+        if get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods"):
+            arg1 = re.sub('m', 'rn', arg1)
+            if arg1 == 'roorn-12':
+                arg1 = 'room-12'
+            await ctx.channel.edit(name = arg1)
+            
+    @commands.command()      
     async def namerater(self, ctx, arg1: str):
+        if ctx.channel.id not in self.allowedchn:
+            return
         if get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods"):
             await ctx.channel.edit(name = arg1)
 
     @commands.command()      
     async def topic(self, ctx, arg1 = None, arg2 = None):
+        if ctx.channel.id not in self.allowedchn:
+            return
         if get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods"):
             # Verify that the topic is a name or den number
             newtopic = None
@@ -79,6 +115,9 @@ class Pokemon(commands.Cog):
 
     @commands.command()
     async def ball(self, ctx, arg1 = None, arg2 = None):
+        if not (ctx.channel.id == fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+            return
+        
         if arg1 == None:
             msg = ('Invalid input!')
 
@@ -120,6 +159,9 @@ class Pokemon(commands.Cog):
 
     @commands.command()
     async def matchup(self, ctx, arg1 = None, arg2 = None):
+        if not (ctx.channel.id == fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+            return
+
         if arg1 == None:
             msg = ('Invalid input!')
 
@@ -151,10 +193,22 @@ class Pokemon(commands.Cog):
 
     @commands.command()
     async def wiggly(self, ctx):
-        await ctx.send(file = File('./data/pokemon/wiggly.png'))
+        if get(ctx.message.author.roles, name="Mods"):
+            target = ctx.bot.get_channel(arg1)
+            if target == None:
+                await ctx.send('Channel not found.')
+                return
+            await target.send(' '.join(args))
+            await ctx.send('Message sent.')
+            return
+        else
+            await ctx.send(file = File('./data/pokemon/wiggly.png'))
 
     @commands.command()
     async def info(self, ctx, arg1: str):
+        if not (ctx.channel.id == fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+            return
+
         poke = None
         for p in self.poke_dict:
             if p['name'] == arg1.capitalize():
