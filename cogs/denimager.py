@@ -433,7 +433,7 @@ class DenImager(commands.Cog):
             await ctx.send('Please specify a version.')
             return
 
-        self.printDenList(ctx, settings['den'], settings['sword'], settings['baby'])
+        await self.printDenList(ctx, settings['den'], settings['sword'], settings['baby'])
         
     async def printDenList(self, ctx, den:str, sword = True, babyden = False):
         if sword:
