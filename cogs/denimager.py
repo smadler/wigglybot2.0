@@ -449,4 +449,4 @@ class DenImager(commands.Cog):
         await ctx.send(emoji_string)
 
 def setup(bot):
-    bot.add_cog(PinManager(bot))
+    bot.add_cog(DenImager(bot))
