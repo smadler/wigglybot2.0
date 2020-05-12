@@ -406,7 +406,7 @@ class DenImager(commands.Cog):
 
     @commands.command()
     async def den(self, ctx, *args):
-        if not (get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+        if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
             return
         
         argset = map(lambda w: self.allowedsubs[w] if w in self.allowedsubs else w,
