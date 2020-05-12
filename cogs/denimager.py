@@ -435,7 +435,7 @@ class DenImager(commands.Cog):
 
         self.printDenList(ctx, settings['den'], settings['sword'], settings['baby'])
         
-    async def printDenList(ctx, den:str, sword = True, babyden = False):
+    async def printDenList(self, ctx, den:str, sword = True, babyden = False):
         if sword:
             if babyden:
                 emoji_string = self.sword_baby_den_dict[den]
