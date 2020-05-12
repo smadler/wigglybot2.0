@@ -44,6 +44,10 @@ class Pokemon(commands.Cog):
         'Cake': 'Alcremie',
         'Alcreamie': 'Alcremie',
         'Sheild': 'Shield',
+        'Zard': 'Charizard',
+        'Kiss': 'Togekiss',
+        'Nazca': 'Sigilyph',
+        'Ttar': 'Tyranitar',
     }
 
     possibletops = [
