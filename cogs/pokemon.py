@@ -115,7 +115,7 @@ class Pokemon(commands.Cog):
 
     @commands.command()
     async def ball(self, ctx, arg1 = None, arg2 = None):
-        if not (ctx.channel.id == fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+        if not (ctx.channel.id == self.fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
             return
         
         if arg1 == None:
@@ -159,7 +159,7 @@ class Pokemon(commands.Cog):
 
     @commands.command()
     async def matchup(self, ctx, arg1 = None, arg2 = None):
-        if not (ctx.channel.id == fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+        if not (ctx.channel.id == self.fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
             return
 
         if arg1 == None:
@@ -192,7 +192,7 @@ class Pokemon(commands.Cog):
 
 
     @commands.command()
-    async def wiggly(self, ctx):
+    async def wiggly(self, ctx, arg1: int = None, *args):
         if get(ctx.message.author.roles, name="Mods"):
             target = ctx.bot.get_channel(arg1)
             if target == None:
@@ -201,12 +201,12 @@ class Pokemon(commands.Cog):
             await target.send(' '.join(args))
             await ctx.send('Message sent.')
             return
-        else
+        else:
             await ctx.send(file = File('./data/pokemon/wiggly.png'))
 
     @commands.command()
     async def info(self, ctx, arg1: str):
-        if not (ctx.channel.id == fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+        if not (ctx.channel.id == self.fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
             return
 
         poke = None
