@@ -105,6 +105,8 @@ class Pokemon(commands.Cog):
                         settings['gmax'] = True
                     elif var == 'Clear':
                         settings['clear'] = True
+                    else:
+                        settings['species'] = var
 
                 if settings['clear']:
                     newtopic = ''
