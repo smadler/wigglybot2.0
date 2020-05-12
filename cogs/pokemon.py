@@ -89,7 +89,8 @@ class Pokemon(commands.Cog):
                 newtopic = ''
 
             else:
-                argset = map(lambda w: self.allowedsubs[w] if w in self.allowedsubs else w, filter(lambda x: x in self.possibletops or x in self.norm_dict or str(x).isdigit(),
+                argset = map(lambda w: self.allowedsubs[w] if w in self.allowedsubs else w,
+                            filter(lambda x: x in self.possibletops or x in self.norm_dict or str(x).isdigit() or x in self.allowedsubs,
                             list(map(lambda y: y.capitalize(), args)) + list(map(lambda z, q: z.capitalize() + ' ' + q.capitalize(), ['l'] + list(args), args))))
 
                 settings = {'clear': False, 'num': None, 'game': None, 'promo': False, 'species': None, 'gmax': False}
