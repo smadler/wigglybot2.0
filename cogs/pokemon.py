@@ -38,6 +38,23 @@ class Pokemon(commands.Cog):
     norm_dict = DataIO.loadValues()
     poke_dict = DataIO.loadPokeJSON()
 
+    allowedsubs = {
+        'Building': 'Duraludon',
+        'Sky Egg': 'Togekiss',
+        'Cake': 'Alcremie',
+        'Alcreamie': 'Alcremie',
+        'Sheild': 'Shield',
+    }
+
+    possibletops = [
+        'Promo',
+        'Sword',
+        'Shield',
+        'Clear',
+        'G',
+        'Gmax',
+    ] 
+
     isemoji = re.compile(r'<a?:.*:[0987654321]+>')
     isbaseemoji = re.compile(r':.*:')
     extract = re.compile(r'(?<=:)[0987654321]+(?=[>])')
@@ -60,56 +77,56 @@ class Pokemon(commands.Cog):
             await ctx.channel.edit(name = arg1)
 
     @commands.command()      
-    async def topic(self, ctx, arg1 = None, arg2 = None):
+    async def topic(self, ctx, *args):
         if ctx.channel.id not in self.allowedchn:
             return
+        
         if get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods"):
             # Verify that the topic is a name or den number
             newtopic = None
 
-            if arg1 == None or arg1.capitalize() == 'Clear':
+            if args == ():
                 newtopic = ''
+
+            else:
+                argset = map(lambda w: self.allowedsubs[w] if w in self.allowedsubs else w,
+                            filter(lambda x: x in self.possibletops or x in self.norm_dict or str(x).isdigit() or x in self.allowedsubs,
+                            list(map(lambda y: y.capitalize(), args)) + list(map(lambda z, q: z.capitalize() + ' ' + q.capitalize(), ['l'] + list(args), args))))
+
+                settings = {'clear': False, 'num': None, 'game': None, 'promo': False, 'species': None, 'gmax': False}
+
+                for var in argset:
+                    if str(var).isdigit():
+                        settings['num'] = var
+                    elif var == 'Shield' or var == 'Sword':
+                        settings['game'] = var
+                    elif var == 'Promo':
+                        settings['promo'] = True
+                    elif var == 'G' or var == 'Gmax':
+                        settings['gmax'] = True
+                    elif var == 'Clear':
+                        settings['clear'] = True
+                    else:
+                        settings['species'] = var
+
+                if settings['clear']:
+                    newtopic = ''
+                elif settings['num'] != None:
+                    newtopic = 'Now hosting: '
+                    if settings['game']:
+                        newtopic = newtopic + settings['game'] + ' '
+                    newtopic = newtopic + 'Den ' + settings['num']
+                elif settings['promo']:
+                    newtopic = 'Now hosting: '
+                    if settings['game']:
+                        newtopic = newtopic + settings['game'] + ' '
+                    newtopic = newtopic + 'Promo Den'
+                elif settings['species']:
+                    newtopic = 'Now hosting: '
+                    if settings['gmax']:
+                        newtopic = newtopic + 'GMax '
+                    newtopic = newtopic + settings['species']
                 
-            elif str(arg1).isdigit() or arg1.capitalize() == 'Promo':
-                pk = ' '
-                
-                if arg2 != None and arg2.capitalize() == 'Sword':
-                   pk = ' Sword '
-                elif arg2 != None and arg2.capitalize() == 'Shield':
-                   pk = ' Shield '
-                   
-                newtopic = 'Now hosting:' + pk + 'Den ' + str(arg1).capitalize()
-                
-            elif arg2 != None and (str(arg2).isdigit() or arg2.capitalize() == 'Promo'):
-                pk = ' '
-                
-                if arg1.capitalize() == 'Sword':
-                   pk = ' Sword '
-                elif arg1.capitalize() == 'Shield':
-                   pk = ' Shield '
-                   
-                newtopic = 'Now hosting:' + pk + 'Den ' + str(arg2).capitalize()
-                
-            #one word name
-            elif arg1 != None and arg2 == None:
-                pk = arg1.capitalize()                
-
-                if pk in self.norm_dict:
-                    newtopic = 'Now hosting: ' + pk
-
-            #Check GMax
-            elif arg1 == 'g' or arg1 == 'G' and arg2 != None:
-                pk = arg2.capitalize()
-
-                if pk in self.gm_dict:
-                    newtopic = 'Now hosting: GMax ' + pk
-
-            else: #try reading as a 2 word name
-                pk = arg1.capitalize() + ' ' + arg2.capitalize()
-
-                if pk in self.norm_dict:
-                    newtopic = 'Now hosting: ' + pk
-
             if newtopic != None:
                 await ctx.channel.edit(topic = newtopic)
 
@@ -192,7 +209,7 @@ class Pokemon(commands.Cog):
 
 
     @commands.command()
-    async def wiggly(self, ctx):
+    async def wiggly(self, ctx, arg1: int = None, *args):
         if get(ctx.message.author.roles, name="Mods"):
             target = ctx.bot.get_channel(arg1)
             if target == None:
