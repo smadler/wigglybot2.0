@@ -48,6 +48,8 @@ class Pokemon(commands.Cog):
         'Kiss': 'Togekiss',
         'Nazca': 'Sigilyph',
         'Ttar': 'Tyranitar',
+        'Bb': 'Baby',
+        'Reroll': 'Rolling',
     }
 
     possibletops = [
@@ -57,6 +59,8 @@ class Pokemon(commands.Cog):
         'Clear',
         'G',
         'Gmax',
+        'Baby',
+        'Rolling',
     ] 
 
     isemoji = re.compile(r'<a?:.*:[0987654321]+>')
@@ -97,7 +101,7 @@ class Pokemon(commands.Cog):
                             filter(lambda x: x in self.possibletops or x in self.norm_dict or str(x).isdigit() or x in self.allowedsubs,
                             list(map(lambda y: y.capitalize(), args)) + list(map(lambda z, q: z.capitalize() + ' ' + q.capitalize(), ['l'] + list(args), args))))
 
-                settings = {'clear': False, 'num': None, 'game': None, 'promo': False, 'species': None, 'gmax': False}
+                settings = {'clear': False, 'num': None, 'game': None, 'promo': False, 'species': None, 'gmax': False, 'baby': False, 'roll': False}
 
                 for var in argset:
                     if str(var).isdigit():
@@ -110,18 +114,28 @@ class Pokemon(commands.Cog):
                         settings['gmax'] = True
                     elif var == 'Clear':
                         settings['clear'] = True
+                    elif var == 'Baby':
+                        settings['baby'] = True
+                    elif var == 'Rolling':
+                        settings['roll'] = True
                     else:
                         settings['species'] = var
 
                 if settings['clear']:
                     newtopic = ''
+                elif settings['roll']:
+                    newtopic = 'Rerolling...'
                 elif settings['num'] != None:
                     newtopic = 'Now hosting: '
+                    if settings['baby']:
+                        newtopic = newtopic + 'Baby '
                     if settings['game']:
                         newtopic = newtopic + settings['game'] + ' '
                     newtopic = newtopic + 'Den ' + settings['num']
                 elif settings['promo']:
                     newtopic = 'Now hosting: '
+                    if settings['baby']:
+                        newtopic = newtopic + 'Baby '
                     if settings['game']:
                         newtopic = newtopic + settings['game'] + ' '
                     newtopic = newtopic + 'Promo Den'
