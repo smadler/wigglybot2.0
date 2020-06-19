@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 from discord.utils import get
-import data.pokemon.Dens
+from ..data.pokemon import Dens
 
 class DenImager(commands.Cog):
 
