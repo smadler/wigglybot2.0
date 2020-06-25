@@ -1,496 +1,496 @@
-Name/Repeat: /Dusk: Dusk: %/Ultra: Ultra%/Great: Great: %/Net: Net: %/Level: Level: %/Fast: Fast: %/Beast: Beast: %/Others: ALL OTHERS: %
-Charmander/69.7%/Dusk: 45.8%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Charmeleon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Charizard/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Caterpie/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Metapod/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Butterfree/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Pikachu/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 100%/Beast: 14.3%/Others: 80.2%
-Raichu/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Clefairy/100%/Dusk: 100%/Ultra: 100%/Great: 91%/Net: 67.2%/Level: 100%/Fast: 67.2%/Beast: 11.9%/Others: 67.2%
-Clefable/44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 17.5%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
-Vulpix/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Ninetales/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
-Oddish/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Gloom/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Vileplume/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Diglett/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Dugtrio/75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 83.3%/Beast: 5.2%/Others: 29.5%
-Meowth/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Growlithe/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Arcanine/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Machop/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
-Machoke/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Machamp/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Ponyta/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Rapidash/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 100%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
-Slowpoke/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Farfetch'd/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Shellder/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Cloyster/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Gastly/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Haunter/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Gengar/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Onix/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Krabby/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 233%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
-Kingler/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Hitmonlee/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Hitmonchan/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Koffing/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Weezing/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Rhyhorn/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Rhydon/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Mr. Mime/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Magikarp/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Gyarados/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Lapras/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Ditto/57.7%/Dusk: 51.4%/Ultra: 37.9%/Great: 30.6%/Net: 22.5%/Level: 37.9%/Fast: 22.5%/Beast: 4%/Others: 22.5%
-Eevee/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Vaporeon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Jolteon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Flareon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Snorlax/44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 17.5%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
-Hoothoot/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Noctowl/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Chinchou/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Lanturn/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Pichu/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Cleffa/100%/Dusk: 100%/Ultra: 100%/Great: 91%/Net: 67.2%/Level: 100%/Fast: 67.2%/Beast: 11.9%/Others: 67.2%
-Igglybuff/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 73.8%/Level: 100%/Fast: 73.8%/Beast: 13.1%/Others: 73.8%
-Togepi/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Togetic/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Natu/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Xatu/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Bellossom/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Sudowoodo/91.8%/Dusk: 81.8%/Ultra: 60.3%/Great: 48.6%/Net: 35.9%/Level: 60.3%/Fast: 35.9%/Beast: 6.4%/Others: 35.9%
-Wooper/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Quagsire/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 100%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Espeon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Umbreon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Wobbuffet/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Steelix/44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 17.5%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
-Qwilfish/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Shuckle/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Sneasel/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
-Swinub/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 91%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
-Piloswine/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Corsola/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Remoraid/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Octillery/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Delibird/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Mantine/44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 44.8%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
-Tyrogue/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Hitmontop/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Larvitar/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Pupitar/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Tyranitar/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Zigzagoon/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Linoone/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Lotad/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Lombre/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Ludicolo/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Seedot/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Nuzleaf/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Shiftry/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Wingull/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Pelipper/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Ralts/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 94.1%/Level: 100%/Fast: 94.1%/Beast: 16.7%/Others: 94.1%
-Kirlia/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Gardevoir/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Nincada/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Ninjask/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 100%/Beast: 10.1%/Others: 56.8%
-Shedinja/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Sableye/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Mawile/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Electrike/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Manectric/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Roselia/100%/Dusk: 100%/Ultra: 100%/Great: 91%/Net: 67.2%/Level: 100%/Fast: 67.2%/Beast: 11.9%/Others: 67.2%
-Wailmer/100%/Dusk: 100%/Ultra: 98.5%/Great: 79.4%/Net: 100%/Level: 98.5%/Fast: 58.6%/Beast: 10.4%/Others: 58.6%
-Wailord/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Torkoal/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Trapinch/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Vibrava/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Flygon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Lunatone/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Solrock/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Barboach/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Whiscash/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Corphish/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 84.9%/Beast: 15.1%/Others: 84.9%
-Crawdaunt/100%/Dusk: 100%/Ultra: 100%/Great: 93.3%/Net: 100%/Level: 100%/Fast: 68.8%/Beast: 12.2%/Others: 68.8%
-Baltoy/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Claydol/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Feebas/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Milotic/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Duskull/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Dusclops/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Wynaut/100%/Dusk: 100%/Ultra: 98.5%/Great: 79.4%/Net: 58.6%/Level: 98.5%/Fast: 58.6%/Beast: 10.4%/Others: 58.6%
-Snorunt/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Glalie/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Budew/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Roserade/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Combee/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Vespiquen/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Cherubi/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Cherrim/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Shellos/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Gastrodon/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Drifloon/100%/Dusk: 100%/Ultra: 98.5%/Great: 79.4%/Net: 58.6%/Level: 98.5%/Fast: 58.6%/Beast: 10.4%/Others: 58.6%
-Drifblim/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Stunky/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 91%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
-Skuntank/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Bronzor/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Bronzong/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Bonsly/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Mime Jr./100%/Dusk: 100%/Ultra: 100%/Great: 88.8%/Net: 65.5%/Level: 100%/Fast: 65.5%/Beast: 11.6%/Others: 65.5%
-Munchlax/75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 29.5%/Beast: 5.2%/Others: 29.5%
-Riolu/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Lucario/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Hippopotas/100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
-Hippowdon/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Skorupi/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Drapion/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Croagunk/100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
-Toxicroak/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Mantyke/44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 44.8%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
-Snover/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Abomasnow/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Weavile/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Rhyperior/51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
-Togekiss/51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
-Leafeon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Glaceon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Mamoswine/75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 29.5%/Beast: 5.2%/Others: 29.5%
-Gallade/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Dusknoir/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Froslass/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
-Rotom/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Purrloin/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Liepard/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 100%/Beast: 8.1%/Others: 45.8%
-Munna/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Musharna/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Pidove/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Tranquill/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Unfezant/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Roggenrola/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Boldore/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Gigalith/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Woobat/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Swoobat/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Drilbur/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Excadrill/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Timburr/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
-Gurdurr/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Conkeldurr/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Tympole/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Palpitoad/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Seismitoad/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Throh/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Sawk/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Cottonee/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Whimsicott/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
-Basculin/44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 44.8%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
-Darumaka/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Darmanitan/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
-Dwebble/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Crustle/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Scraggy/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
-Scrafty/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Sigilyph/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Yamask/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Trubbish/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Garbodor/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Zoroark/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Minccino/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Cinccino/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
-Gothita/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
-Gothorita/100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 49.6%/Level: 83.3%/Fast: 49.6%/Beast: 8.8%/Others: 49.6%
-Gothitelle/75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 29.5%/Beast: 5.2%/Others: 29.5%
-Solosis/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
-Duosion/100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 49.6%/Level: 83.3%/Fast: 49.6%/Beast: 8.8%/Others: 49.6%
-Reuniclus/75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 29.5%/Beast: 5.2%/Others: 29.5%
-Vanillite/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Vanillish/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Vanilluxe/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Karrablast/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
-Escavalier/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Frillish/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Jellicent/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Joltik/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Galvantula/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
-Ferroseed/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Ferrothorn/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Klink/100%/Dusk: 100%/Ultra: 100%/Great: 81.8%/Net: 60.3%/Level: 100%/Fast: 60.3%/Beast: 10.7%/Others: 60.3%
-Klang/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Klinklang/51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
-Elgyem/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Beheeyem/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Litwick/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Lampent/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Chandelure/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Axew/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Fraxure/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Haxorus/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Cubchoo/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Beartic/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Shelmet/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
-Accelgor/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
-Stunfisk/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Golett/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Golurk/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Pawniard/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Bisharp/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Rufflet/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Braviary/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Vullaby/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Mandibuzz/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Heatmor/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Durant/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Deino/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Zweilous/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Hydreigon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Bunnelby/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Diggersby/100%/Dusk: 100%/Ultra: 99.7%/Great: 80.4%/Net: 59.3%/Level: 99.7%/Fast: 59.3%/Beast: 10.5%/Others: 59.3%
-Pancham/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 89.5%/Level: 100%/Fast: 89.5%/Beast: 15.9%/Others: 89.5%
-Pangoro/91.8%/Dusk: 81.8%/Ultra: 60.3%/Great: 48.6%/Net: 35.9%/Level: 60.3%/Fast: 35.9%/Beast: 6.4%/Others: 35.9%
-Espurr/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Meowstic/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
-Honedge/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
-Doublade/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Aegislash/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Spritzee/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
-Aromatisse/100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
-Swirlix/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
-Slurpuff/100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
-Inkay/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Malamar/100%/Dusk: 95.6%/Ultra: 70.5%/Great: 56.8%/Net: 41.9%/Level: 70.5%/Fast: 41.9%/Beast: 7.5%/Others: 41.9%
-Binacle/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Barbaracle/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Helioptile/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Heliolisk/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
-Sylveon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Hawlucha/100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 49.6%/Level: 83.3%/Fast: 100%/Beast: 8.8%/Others: 49.6%
-Goomy/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Sliggoo/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Goodra/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Phantump/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Trevenant/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Pumpkaboo/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Gourgeist/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Bergmite/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Avalugg/81%/Dusk: 72.1%/Ultra: 53.2%/Great: 42.9%/Net: 31.6%/Level: 53.2%/Fast: 31.6%/Beast: 5.6%/Others: 31.6%
-Noibat/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Noivern/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Grubbin/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Charjabug/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Vikavolt/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Cutiefly/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Ribombee/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Lycanroc/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Wishiwashi/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Mareanie/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Toxapex/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Mudbray/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Mudsdale/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Dewpider/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
-Araquanid/100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 100%/Level: 83.3%/Fast: 49.6%/Beast: 8.8%/Others: 49.6%
-Morelull/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Shiinotic/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Salandit/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Salazzle/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Stufful/100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
-Bewear/97%/Dusk: 86.4%/Ultra: 63.8%/Great: 51.4%/Net: 37.9%/Level: 63.8%/Fast: 37.9%/Beast: 6.7%/Others: 37.9%
-Bounsweet/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 94.1%/Level: 100%/Fast: 94.1%/Beast: 16.7%/Others: 94.1%
-Steenee/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Tsareena/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Oranguru/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Passimian/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Wimpod/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 117.2%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Golisopod/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Pyukumuku/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Turtonator/97%/Dusk: 86.4%/Ultra: 63.8%/Great: 51.4%/Net: 37.9%/Level: 63.8%/Fast: 37.9%/Beast: 6.7%/Others: 37.9%
-Togedemaru/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
-Mimikyu/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Drampa/97%/Dusk: 86.4%/Ultra: 63.8%/Great: 51.4%/Net: 37.9%/Level: 63.8%/Fast: 37.9%/Beast: 6.7%/Others: 37.9%
-Dhelmise/44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 17.5%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
-Jangmo-o/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Hakamo-o/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Kommo-o/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Skwovet/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Greedent/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Rookidee/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Corvisquire/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Corviknight/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Blipbug/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Dottler/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Orbeetle/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Nickit/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Thievul/100%/Dusk: 100%/Ultra: 99.7%/Great: 80.4%/Net: 59.3%/Level: 99.7%/Fast: 59.3%/Beast: 10.5%/Others: 59.3%
-Gossifleur/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Eldegoss/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Wooloo/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Dubwool/100%/Dusk: 100%/Ultra: 99.7%/Great: 80.4%/Net: 59.3%/Level: 99.7%/Fast: 59.3%/Beast: 10.5%/Others: 59.3%
-Chewtle/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 255.9%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Drednaw/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 102.2%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Yamper/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Boltund/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Rolycoly/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Carkol/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Coalossal/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Applin/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Flapple/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Appletun/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Silicobra/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Sandaconda/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Cramorant/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Arrokuda/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Barraskewda/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
-Toxel/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Toxtricity/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Sizzlipede/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Centiskorch/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Clobbopus/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
-Grapploct/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Sinistea/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Polteageist/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Hatenna/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 94.1%/Level: 100%/Fast: 94.1%/Beast: 16.7%/Others: 94.1%
-Hattrem/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Hatterene/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Impidimp/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Morgrem/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Grimmsnarl/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Obstagoon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Perrserker/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Cursola/51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
-Sirfetch'd/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Mr. Rime/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Runerigus/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Milcery/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
-Alcremie/100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 49.6%/Level: 83.3%/Fast: 49.6%/Beast: 8.8%/Others: 49.6%
-Falinks/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Pincurchin/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Snom/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Frosmoth/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Stonjourner/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Eiscue/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
-Indeedee/51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
-Morpeko/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
-Cufant/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Copperajah/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Duraludon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Dreepy/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Drakloak/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Dragapult/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Maractus/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Slowpoke/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Slowbro/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Slowking/97%/Dusk: 86.4%/Ultra: 63.8%/Great: 51.4%/Net: 37.9%/Level: 63.8%/Fast: 37.9%/Beast: 6.7%/Others: 37.9%
-Buneary/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Lopunny/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
-Happiny/100%/Dusk: 100%/Ultra: 100%/Great: 81.8%/Net: 60.3%/Level: 100%/Fast: 60.3%/Beast: 10.7%/Others: 60.3%
-Chansey/51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
-Blissey/51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
-Igglybuff/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 73.8%/Level: 100%/Fast: 73.8%/Beast: 13.1%/Others: 73.8%
-Jigglypuff/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 73.8%/Level: 100%/Fast: 73.8%/Beast: 13.1%/Others: 73.8%
-Wigglytuff/75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 29.5%/Beast: 5.2%/Others: 29.5%
-Fomantis/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Lurantis/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Fletchling/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Fletchinder/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Talonflame/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Shinx/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 94.1%/Level: 100%/Fast: 94.1%/Beast: 16.7%/Others: 94.1%
-Luxio/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Luxray/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Klefki/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Abra/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
-Kadabra/100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 49.6%/Level: 83.3%/Fast: 140.2%/Beast: 8.8%/Others: 49.6%
-Alakazam/75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 83.3%/Beast: 5.2%/Others: 29.5%
-Tentacool/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Tentacruel/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
-Dunsparce/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Bouffalant/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Lickitung/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Lickilicky/51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
-Druddigon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Bulbasaur/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Ivysaur/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Venusaur/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Squirtle/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Wartortle/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Blastoise/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Venipede/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Whirlipede/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Scolipede/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Foongus/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Amoonguss/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Comfey/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
-Tangela/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Tangrowth/51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
-Zorua/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Zoroark/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Staryu/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 233%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
-Starmie/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
-Emolga/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 235.7%/Beast: 14.8%/Others: 83.3%
-Dedenne/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 217.8%/Beast: 13.7%/Others: 77%
-Magnemite/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Magneton/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Magnezone/51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
-Carvanha/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
-Sharpedo/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Lillipup/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Herdier/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Stoutland/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Tauros/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Miltank/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Scyther/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Scizor/44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 44.8%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
-Pinsir/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Heracross/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Sandygast/100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
-Palossand/86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
-Azurill/100%/Dusk: 100%/Ultra: 100%/Great: 91%/Net: 67.2%/Level: 100%/Fast: 67.2%/Beast: 11.9%/Others: 67.2%
-Marill/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Azumarill/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Poliwag/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Poliwhirl/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Poliwrath/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Politoed/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Psyduck/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Golduck/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Whismur/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Loudred/100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
-Exploud/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Skarmory/44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 17.5%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
-Rockruff/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Lycanroc/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Mienfoo/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
-Mienshao/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Sandshrew/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
-Sandslash/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Cubone/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Marowak/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Kangaskhan/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Sandile/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
-Krokorok/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Krookodile/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Larvesta/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Volcarona/30.6%/Dusk: 27.2%/Ultra: 20.1%/Great: 16.2%/Net: 30.6%/Level: 20.1%/Fast: 33.8%/Beast: 2.1%/Others: 11.9%
-Skrelp/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
-Dragalge/81%/Dusk: 72.1%/Ultra: 53.2%/Great: 42.9%/Net: 31.6%/Level: 53.2%/Fast: 31.6%/Beast: 5.6%/Others: 31.6%
-Clauncher/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
-Clawitzer/81%/Dusk: 72.1%/Ultra: 53.2%/Great: 42.9%/Net: 81%/Level: 53.2%/Fast: 31.6%/Beast: 5.6%/Others: 31.6%
-Horsea/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
-Seadra/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Kingdra/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Petilil/100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
-Lilligant/100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
-Exeggcute/100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
-Exeggutor/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Grookey/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Thwackey/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Rillaboom/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Scorbunny/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Raboot/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Cinderace/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
-Sobble/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Drizzile/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
-Inteleon/69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Name/Repeat: Repeat: /Dusk: Dusk: %/Ultra: Ultra%/Great: Great: %/Net: Net: %/Level: Level: %/Fast: Fast: %/Beast: Beast: %/Others: ALL OTHERS: %
+Charmander/Repeat: 69.7%/Dusk: 45.8%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Charmeleon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Charizard/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Caterpie/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Metapod/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Butterfree/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Pikachu/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 100%/Beast: 14.3%/Others: 80.2%
+Raichu/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Clefairy/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 91%/Net: 67.2%/Level: 100%/Fast: 67.2%/Beast: 11.9%/Others: 67.2%
+Clefable/Repeat: 44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 17.5%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
+Vulpix/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Ninetales/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
+Oddish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Gloom/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Vileplume/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Diglett/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Dugtrio/Repeat: 75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 83.3%/Beast: 5.2%/Others: 29.5%
+Meowth/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Growlithe/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Arcanine/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Machop/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
+Machoke/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Machamp/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Ponyta/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Rapidash/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 100%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
+Slowpoke/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Farfetch'd/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Shellder/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Cloyster/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Gastly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Haunter/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Gengar/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Onix/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Krabby/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 233%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
+Kingler/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Hitmonlee/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Hitmonchan/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Koffing/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Weezing/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Rhyhorn/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Rhydon/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Mr. Mime/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Magikarp/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Gyarados/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Lapras/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Ditto/Repeat: 57.7%/Dusk: 51.4%/Ultra: 37.9%/Great: 30.6%/Net: 22.5%/Level: 37.9%/Fast: 22.5%/Beast: 4%/Others: 22.5%
+Eevee/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Vaporeon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Jolteon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Flareon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Snorlax/Repeat: 44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 17.5%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
+Hoothoot/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Noctowl/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Chinchou/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Lanturn/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Pichu/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Cleffa/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 91%/Net: 67.2%/Level: 100%/Fast: 67.2%/Beast: 11.9%/Others: 67.2%
+Igglybuff/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 73.8%/Level: 100%/Fast: 73.8%/Beast: 13.1%/Others: 73.8%
+Togepi/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Togetic/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Natu/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Xatu/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Bellossom/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Sudowoodo/Repeat: 91.8%/Dusk: 81.8%/Ultra: 60.3%/Great: 48.6%/Net: 35.9%/Level: 60.3%/Fast: 35.9%/Beast: 6.4%/Others: 35.9%
+Wooper/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Quagsire/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 100%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Espeon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Umbreon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Wobbuffet/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Steelix/Repeat: 44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 17.5%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
+Qwilfish/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Shuckle/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Sneasel/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
+Swinub/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 91%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
+Piloswine/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Corsola/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Remoraid/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Octillery/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Delibird/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Mantine/Repeat: 44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 44.8%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
+Tyrogue/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Hitmontop/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Larvitar/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Pupitar/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Tyranitar/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Zigzagoon/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Linoone/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Lotad/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Lombre/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Ludicolo/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Seedot/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Nuzleaf/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Shiftry/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Wingull/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Pelipper/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Ralts/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 94.1%/Level: 100%/Fast: 94.1%/Beast: 16.7%/Others: 94.1%
+Kirlia/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Gardevoir/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Nincada/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Ninjask/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 100%/Beast: 10.1%/Others: 56.8%
+Shedinja/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Sableye/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Mawile/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Electrike/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Manectric/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Roselia/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 91%/Net: 67.2%/Level: 100%/Fast: 67.2%/Beast: 11.9%/Others: 67.2%
+Wailmer/Repeat: 100%/Dusk: 100%/Ultra: 98.5%/Great: 79.4%/Net: 100%/Level: 98.5%/Fast: 58.6%/Beast: 10.4%/Others: 58.6%
+Wailord/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Torkoal/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Trapinch/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Vibrava/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Flygon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Lunatone/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Solrock/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Barboach/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Whiscash/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Corphish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 84.9%/Beast: 15.1%/Others: 84.9%
+Crawdaunt/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 93.3%/Net: 100%/Level: 100%/Fast: 68.8%/Beast: 12.2%/Others: 68.8%
+Baltoy/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Claydol/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Feebas/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Milotic/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Duskull/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Dusclops/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Wynaut/Repeat: 100%/Dusk: 100%/Ultra: 98.5%/Great: 79.4%/Net: 58.6%/Level: 98.5%/Fast: 58.6%/Beast: 10.4%/Others: 58.6%
+Snorunt/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Glalie/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Budew/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Roserade/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Combee/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Vespiquen/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Cherubi/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Cherrim/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Shellos/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Gastrodon/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Drifloon/Repeat: 100%/Dusk: 100%/Ultra: 98.5%/Great: 79.4%/Net: 58.6%/Level: 98.5%/Fast: 58.6%/Beast: 10.4%/Others: 58.6%
+Drifblim/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Stunky/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 91%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
+Skuntank/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Bronzor/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Bronzong/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Bonsly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Mime Jr./Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 88.8%/Net: 65.5%/Level: 100%/Fast: 65.5%/Beast: 11.6%/Others: 65.5%
+Munchlax/Repeat: 75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 29.5%/Beast: 5.2%/Others: 29.5%
+Riolu/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Lucario/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Hippopotas/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
+Hippowdon/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Skorupi/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Drapion/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Croagunk/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
+Toxicroak/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Mantyke/Repeat: 44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 44.8%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
+Snover/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Abomasnow/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Weavile/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Rhyperior/Repeat: 51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
+Togekiss/Repeat: 51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
+Leafeon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Glaceon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Mamoswine/Repeat: 75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 29.5%/Beast: 5.2%/Others: 29.5%
+Gallade/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Dusknoir/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Froslass/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
+Rotom/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Purrloin/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Liepard/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 100%/Beast: 8.1%/Others: 45.8%
+Munna/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Musharna/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Pidove/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Tranquill/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Unfezant/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Roggenrola/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Boldore/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Gigalith/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Woobat/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Swoobat/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Drilbur/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Excadrill/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Timburr/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
+Gurdurr/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Conkeldurr/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Tympole/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Palpitoad/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Seismitoad/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Throh/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Sawk/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Cottonee/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Whimsicott/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
+Basculin/Repeat: 44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 44.8%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
+Darumaka/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Darmanitan/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
+Dwebble/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Crustle/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Scraggy/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
+Scrafty/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Sigilyph/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Yamask/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Trubbish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Garbodor/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Zoroark/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Minccino/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Cinccino/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
+Gothita/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
+Gothorita/Repeat: 100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 49.6%/Level: 83.3%/Fast: 49.6%/Beast: 8.8%/Others: 49.6%
+Gothitelle/Repeat: 75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 29.5%/Beast: 5.2%/Others: 29.5%
+Solosis/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
+Duosion/Repeat: 100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 49.6%/Level: 83.3%/Fast: 49.6%/Beast: 8.8%/Others: 49.6%
+Reuniclus/Repeat: 75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 29.5%/Beast: 5.2%/Others: 29.5%
+Vanillite/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Vanillish/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Vanilluxe/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Karrablast/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
+Escavalier/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Frillish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Jellicent/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Joltik/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Galvantula/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
+Ferroseed/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Ferrothorn/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Klink/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 81.8%/Net: 60.3%/Level: 100%/Fast: 60.3%/Beast: 10.7%/Others: 60.3%
+Klang/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Klinklang/Repeat: 51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
+Elgyem/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Beheeyem/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Litwick/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Lampent/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Chandelure/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Axew/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Fraxure/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Haxorus/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Cubchoo/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Beartic/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Shelmet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
+Accelgor/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
+Stunfisk/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Golett/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Golurk/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Pawniard/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Bisharp/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Rufflet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Braviary/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Vullaby/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Mandibuzz/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Heatmor/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Durant/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Deino/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Zweilous/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Hydreigon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Bunnelby/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Diggersby/Repeat: 100%/Dusk: 100%/Ultra: 99.7%/Great: 80.4%/Net: 59.3%/Level: 99.7%/Fast: 59.3%/Beast: 10.5%/Others: 59.3%
+Pancham/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 89.5%/Level: 100%/Fast: 89.5%/Beast: 15.9%/Others: 89.5%
+Pangoro/Repeat: 91.8%/Dusk: 81.8%/Ultra: 60.3%/Great: 48.6%/Net: 35.9%/Level: 60.3%/Fast: 35.9%/Beast: 6.4%/Others: 35.9%
+Espurr/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Meowstic/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
+Honedge/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
+Doublade/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Aegislash/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Spritzee/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
+Aromatisse/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
+Swirlix/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
+Slurpuff/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
+Inkay/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Malamar/Repeat: 100%/Dusk: 95.6%/Ultra: 70.5%/Great: 56.8%/Net: 41.9%/Level: 70.5%/Fast: 41.9%/Beast: 7.5%/Others: 41.9%
+Binacle/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Barbaracle/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Helioptile/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Heliolisk/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 100%/Beast: 7.1%/Others: 39.9%
+Sylveon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Hawlucha/Repeat: 100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 49.6%/Level: 83.3%/Fast: 100%/Beast: 8.8%/Others: 49.6%
+Goomy/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Sliggoo/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Goodra/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Phantump/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Trevenant/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Pumpkaboo/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Gourgeist/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Bergmite/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Avalugg/Repeat: 81%/Dusk: 72.1%/Ultra: 53.2%/Great: 42.9%/Net: 31.6%/Level: 53.2%/Fast: 31.6%/Beast: 5.6%/Others: 31.6%
+Noibat/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Noivern/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Grubbin/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Charjabug/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Vikavolt/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Cutiefly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Ribombee/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Lycanroc/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Wishiwashi/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Mareanie/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Toxapex/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Mudbray/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Mudsdale/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Dewpider/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
+Araquanid/Repeat: 100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 100%/Level: 83.3%/Fast: 49.6%/Beast: 8.8%/Others: 49.6%
+Morelull/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Shiinotic/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Salandit/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Salazzle/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Stufful/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
+Bewear/Repeat: 97%/Dusk: 86.4%/Ultra: 63.8%/Great: 51.4%/Net: 37.9%/Level: 63.8%/Fast: 37.9%/Beast: 6.7%/Others: 37.9%
+Bounsweet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 94.1%/Level: 100%/Fast: 94.1%/Beast: 16.7%/Others: 94.1%
+Steenee/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Tsareena/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Oranguru/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Passimian/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Wimpod/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 117.2%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Golisopod/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Pyukumuku/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Turtonator/Repeat: 97%/Dusk: 86.4%/Ultra: 63.8%/Great: 51.4%/Net: 37.9%/Level: 63.8%/Fast: 37.9%/Beast: 6.7%/Others: 37.9%
+Togedemaru/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
+Mimikyu/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Drampa/Repeat: 97%/Dusk: 86.4%/Ultra: 63.8%/Great: 51.4%/Net: 37.9%/Level: 63.8%/Fast: 37.9%/Beast: 6.7%/Others: 37.9%
+Dhelmise/Repeat: 44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 17.5%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
+Jangmo-o/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Hakamo-o/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Kommo-o/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Skwovet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Greedent/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Rookidee/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Corvisquire/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Corviknight/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Blipbug/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Dottler/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Orbeetle/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Nickit/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Thievul/Repeat: 100%/Dusk: 100%/Ultra: 99.7%/Great: 80.4%/Net: 59.3%/Level: 99.7%/Fast: 59.3%/Beast: 10.5%/Others: 59.3%
+Gossifleur/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Eldegoss/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Wooloo/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Dubwool/Repeat: 100%/Dusk: 100%/Ultra: 99.7%/Great: 80.4%/Net: 59.3%/Level: 99.7%/Fast: 59.3%/Beast: 10.5%/Others: 59.3%
+Chewtle/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 255.9%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Drednaw/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 102.2%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Yamper/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Boltund/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Rolycoly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Carkol/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Coalossal/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Applin/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Flapple/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Appletun/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Silicobra/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Sandaconda/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Cramorant/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Arrokuda/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Barraskewda/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
+Toxel/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Toxtricity/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Sizzlipede/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Centiskorch/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Clobbopus/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
+Grapploct/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Sinistea/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Polteageist/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Hatenna/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 94.1%/Level: 100%/Fast: 94.1%/Beast: 16.7%/Others: 94.1%
+Hattrem/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Hatterene/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Impidimp/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Morgrem/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Grimmsnarl/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Obstagoon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Perrserker/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Cursola/Repeat: 51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
+Sirfetch'd/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Mr. Rime/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Runerigus/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Milcery/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
+Alcremie/Repeat: 100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 49.6%/Level: 83.3%/Fast: 49.6%/Beast: 8.8%/Others: 49.6%
+Falinks/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Pincurchin/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Snom/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Frosmoth/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Stonjourner/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Eiscue/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
+Indeedee/Repeat: 51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
+Morpeko/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
+Cufant/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Copperajah/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Duraludon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Dreepy/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Drakloak/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Dragapult/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Maractus/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Slowpoke/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Slowbro/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Slowking/Repeat: 97%/Dusk: 86.4%/Ultra: 63.8%/Great: 51.4%/Net: 37.9%/Level: 63.8%/Fast: 37.9%/Beast: 6.7%/Others: 37.9%
+Buneary/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Lopunny/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
+Happiny/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 81.8%/Net: 60.3%/Level: 100%/Fast: 60.3%/Beast: 10.7%/Others: 60.3%
+Chansey/Repeat: 51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
+Blissey/Repeat: 51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
+Igglybuff/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 73.8%/Level: 100%/Fast: 73.8%/Beast: 13.1%/Others: 73.8%
+Jigglypuff/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 73.8%/Level: 100%/Fast: 73.8%/Beast: 13.1%/Others: 73.8%
+Wigglytuff/Repeat: 75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 29.5%/Beast: 5.2%/Others: 29.5%
+Fomantis/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Lurantis/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Fletchling/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Fletchinder/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Talonflame/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Shinx/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 94.1%/Level: 100%/Fast: 94.1%/Beast: 16.7%/Others: 94.1%
+Luxio/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Luxray/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Klefki/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Abra/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 83.3%/Beast: 14.8%/Others: 83.3%
+Kadabra/Repeat: 100%/Dusk: 100%/Ultra: 83.3%/Great: 67.2%/Net: 49.6%/Level: 83.3%/Fast: 140.2%/Beast: 8.8%/Others: 49.6%
+Alakazam/Repeat: 75.4%/Dusk: 67.2%/Ultra: 49.6%/Great: 39.9%/Net: 29.5%/Level: 49.6%/Fast: 83.3%/Beast: 5.2%/Others: 29.5%
+Tentacool/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Tentacruel/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
+Dunsparce/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Bouffalant/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Lickitung/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Lickilicky/Repeat: 51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
+Druddigon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Bulbasaur/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Ivysaur/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Venusaur/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Squirtle/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Wartortle/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Blastoise/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Venipede/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Whirlipede/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Scolipede/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Foongus/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Amoonguss/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Comfey/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
+Tangela/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Tangrowth/Repeat: 51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
+Zorua/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Zoroark/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Staryu/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 233%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
+Starmie/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 95.6%/Beast: 6%/Others: 33.8%
+Emolga/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 83.3%/Level: 100%/Fast: 235.7%/Beast: 14.8%/Others: 83.3%
+Dedenne/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 217.8%/Beast: 13.7%/Others: 77%
+Magnemite/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Magneton/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Magnezone/Repeat: 51.4%/Dusk: 45.8%/Ultra: 33.8%/Great: 27.2%/Net: 20.1%/Level: 33.8%/Fast: 20.1%/Beast: 3.6%/Others: 20.1%
+Carvanha/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
+Sharpedo/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 86.4%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Lillipup/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Herdier/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Stoutland/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Tauros/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Miltank/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Scyther/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Scizor/Repeat: 44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 44.8%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
+Pinsir/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Heracross/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Sandygast/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 86.4%/Net: 63.8%/Level: 100%/Fast: 63.8%/Beast: 11.3%/Others: 63.8%
+Palossand/Repeat: 86.4%/Dusk: 77%/Ultra: 56.8%/Great: 45.8%/Net: 33.8%/Level: 56.8%/Fast: 33.8%/Beast: 6%/Others: 33.8%
+Azurill/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 91%/Net: 67.2%/Level: 100%/Fast: 67.2%/Beast: 11.9%/Others: 67.2%
+Marill/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Azumarill/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Poliwag/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Poliwhirl/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 100%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Poliwrath/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Politoed/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Psyduck/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Golduck/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Whismur/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Loudred/Repeat: 100%/Dusk: 100%/Ultra: 95.6%/Great: 77%/Net: 56.8%/Level: 95.6%/Fast: 56.8%/Beast: 10.1%/Others: 56.8%
+Exploud/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Skarmory/Repeat: 44.8%/Dusk: 39.9%/Ultra: 29.5%/Great: 23.7%/Net: 17.5%/Level: 29.5%/Fast: 17.5%/Beast: 3.1%/Others: 17.5%
+Rockruff/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Lycanroc/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Mienfoo/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
+Mienshao/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Sandshrew/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 100%/Beast: 17.8%/Others: 100%
+Sandslash/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Cubone/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Marowak/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Kangaskhan/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Sandile/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 77%/Level: 100%/Fast: 77%/Beast: 13.7%/Others: 77%
+Krokorok/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Krookodile/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Larvesta/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Volcarona/Repeat: 30.6%/Dusk: 27.2%/Ultra: 20.1%/Great: 16.2%/Net: 30.6%/Level: 20.1%/Fast: 33.8%/Beast: 2.1%/Others: 11.9%
+Skrelp/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
+Dragalge/Repeat: 81%/Dusk: 72.1%/Ultra: 53.2%/Great: 42.9%/Net: 31.6%/Level: 53.2%/Fast: 31.6%/Beast: 5.6%/Others: 31.6%
+Clauncher/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
+Clawitzer/Repeat: 81%/Dusk: 72.1%/Ultra: 53.2%/Great: 42.9%/Net: 81%/Level: 53.2%/Fast: 31.6%/Beast: 5.6%/Others: 31.6%
+Horsea/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%/Fast: 91%/Beast: 16.2%/Others: 91%
+Seadra/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 100%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Kingdra/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Petilil/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 80.2%/Level: 100%/Fast: 80.2%/Beast: 14.3%/Others: 80.2%
+Lilligant/Repeat: 100%/Dusk: 91%/Ultra: 67.2%/Great: 54.1%/Net: 39.9%/Level: 67.2%/Fast: 39.9%/Beast: 7.1%/Others: 39.9%
+Exeggcute/Repeat: 100%/Dusk: 100%/Ultra: 77%/Great: 62.1%/Net: 45.8%/Level: 77%/Fast: 45.8%/Beast: 8.1%/Others: 45.8%
+Exeggutor/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Grookey/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Thwackey/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Rillaboom/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Scorbunny/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Raboot/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Cinderace/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
+Sobble/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Drizzile/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
+Inteleon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 69.7%/Level: 45.8%/Fast: 77%/Beast: 4.8%/Others: 27.2%
