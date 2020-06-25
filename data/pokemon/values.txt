@@ -1,4 +1,3 @@
-Name/Repeat: Repeat: /Dusk: Dusk: %/Ultra: Ultra%/Great: Great: %/Net: Net: %/Level: Level: %/Fast: Fast: %/Beast: Beast: %/Others: ALL OTHERS: %
 Charmander/Repeat: 69.7%/Dusk: 45.8%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
 Charmeleon/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
 Charizard/Repeat: 69.7%/Dusk: 62.1%/Ultra: 45.8%/Great: 36.9%/Net: 27.2%/Level: 45.8%/Fast: 27.2%/Beast: 4.8%/Others: 27.2%
