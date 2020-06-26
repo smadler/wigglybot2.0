@@ -14,7 +14,7 @@ class Cramomatic(commands.Cog):
 
     def __init__(self, bot):
         self.bot = bot
-        self.ingredienttokenizer = re.compile('|'.join('(?P<%s>%s)' % (key, key) for key in ingredients), re.I)
+        self.ingredienttokenizer = re.compile('|'.join('(?P<%s>%s)' % (key, key) for key in self.ingredients), re.I)
         #self.reciperegex = re.compile('|'.join('(?P<%s>%s)' % (key, key) for key in recipies), re.I)
         
 
@@ -52,10 +52,10 @@ class Cramomatic(commands.Cog):
             await ctx.send("I need more than that.")
             return
       
-        rtype = ingredients[pot[0]]['Type']
-        rvalue = functools.reduce(lambda a, b: a+b, map(lambda x: ingredients[x]['Value'], pot))
+        rtype = self.ingredients[pot[0]]['Type']
+        rvalue = functools.reduce(lambda a, b: a+b, map(lambda x: self.ingredients[x]['Value'], pot))
 
-        resu = pivotrec[rtype][self.modulateValue(rvalue)] if rvalue > 0 else 'Pokeball'
+        resu = self.pivotrec[rtype][self.modulateValue(rvalue)] if rvalue > 0 else 'Pokeball'
 
         await ctx.send("If you toss `%s` in the Cram-O-Matic, you will recieve a %s" % (', '.join(pot), resu))
 
