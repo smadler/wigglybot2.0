@@ -9,30 +9,12 @@ class Cramomatic(commands.Cog):
 
     ### DICTIONARIES FOR ALL THE DATA NEEDED
     ingredients = cramData.getIngredients()
-    #recipies = {}
     pivotrec = cramData.getResults()
 
     def __init__(self, bot):
         self.bot = bot
-        #print('|'.join('(?P<%s>%s)' % (re.sub(' ', '_', key), key) for key in self.ingredients))
         self.ingredienttokenizer = re.compile('|'.join('(?P<%s>%s)' % (re.sub('-', '__', re.sub(' ', '_', key)), key) for key in self.ingredients), re.I)
-        #self.reciperegex = re.compile('|'.join('(?P<%s>%s)' % (key, key) for key in recipies), re.I)
         
-
- #   @commands.command()
-#    async def recipie(self, ctx, *args):
-  #      if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
-   #         return
-#
-    #    composed = ' '.join(args)
-#
-     #   workingr = self.recipieregex.search(composed)
-#
-      #  if workingr == None:
-       #     await ctx.send("I don't know how to make that.")
-        #    return
-
-
     @commands.command()
     async def cram(self, ctx, *args):
         if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
