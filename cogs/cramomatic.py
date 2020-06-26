@@ -60,7 +60,7 @@ class Cramomatic(commands.Cog):
         await ctx.send("If you toss `%s` in the Cram-O-Matic, you will recieve a %s" % (', '.join(pot), resu))
 
 
-    def modulateValue(self, int: value):
+    def modulateValue(self, value: int):
         if value < 1:
             return None
         if value < 21:
