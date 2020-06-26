@@ -520,7 +520,7 @@ Gold Bottle Cap	Steel	40
 
 Steel Memory	Steel	40
 
-King's Rock	Steel	32
+Kings Rock	Steel	32
 
 Metal Coat	Steel	24
 
