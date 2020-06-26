@@ -2,7 +2,9 @@ def getIngredients():
     result = {}
     with open("./data/cramomatic/ingredients.txt", 'r') as f:
         for line in f:
+            print(line)
             items = line.split(r'\s+')
+            print(items)
             if len(items) > 2:
                 result[' '.join(items[:-2])] = {"Value": items[-1], "Type": items[-2]}
     return result
