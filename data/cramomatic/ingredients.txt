@@ -458,27 +458,27 @@ Power Lens	Psychic	20
 
 Twisted Spoon	Psychic	18
 
-Exp. Candy XL	Psychic	10
+Exp Candy XL	Psychic	10
 
 Starf Berry	Psychic	10
 
 Wise Glasses	Psychic	10
 
-Exp. Candy L	Psychic	8
+Exp Candy L	Psychic	8
 
 Psychic Seed	Psychic	8
 
 Dawn Stone	Psychic	6
 
-Exp. Candy M	Psychic	6
+Exp Candy M	Psychic	6
 
 Tamato Berry	Psychic	6
 
-Exp. Candy S	Psychic	4
+Exp Candy S	Psychic	4
 
 Payapa Berry	Psychic	4
 
-Exp. Candy XS	Psychic	2
+Exp Candy XS	Psychic	2
 
 Lax Incense	Psychic	2
 
