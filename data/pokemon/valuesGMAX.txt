@@ -1,21 +1,27 @@
-Snorlax/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Charizard/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 10.6%/Beast: 0.7%/ALL OTHERS: 3.7%
-Butterfree/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Corviknight/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Alcremie/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Drednaw/Repeat: 9.6%/Dusk: 8.6%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3% (optimal conditions)/Fast: 3.8%/Beast: 0.7%/ALL OTHERS: 3.8%
-Machamp/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Gengar/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 10.6%/Beast: 0.7%/ALL OTHERS: 3.7%
-Coalossal/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Duraludon/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Kingler/Repeat: 9.5%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 9.5%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Lapras/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Garbodor/Repeat: 9.5%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Orbeetle/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Flapple/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Appletun/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Centiskorch/Repeat: 9.6%/Dusk: 8.6%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3% (optimal conditions)/Fast: 3.8%/Beast: 0.7%/ALL OTHERS: 3.8%
-Hatterene/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Grimmsnarl/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
-Sandaconda/Repeat: 9.7%/Dusk: 8.7%/Ultra: 6.4%/Great: 5.1%/Net: 3.8%/Level: 6.4% (optimal conditions)/Fast: 3.8%/Beast: 0.7%/ALL OTHERS: 3.8%
-Copperajah/Repeat: 9.5%/Dusk: 8.4%/Ultra: 6.2%/Great: 5%/Net: 3.7%/Level: 6.2% (optimal conditions)/Fast: 3.7%/Beast: 0.7%/ALL OTHERS: 3.7%
+Pokemon/Repeat: Repeat%/Dusk: Dusk%/Ultra: Ultra%/Great: Great%/Net: Net%/Level: Level%/Fast: Fast%/Beast: Beast%/Others: normal ball%
+G Snorlax/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Charizard/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 10.6%/Beast: 0.7%/Others: 3.7%
+G Butterfree/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Corviknight/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Alcremie/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Dreadnaw/Repeat: 9.6%/Dusk: 8.6%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3%/Fast: 3.8%/Beast: 0.7%/Others: 3.8%
+G Machamp/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Gengar/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 10.6%/Beast: 0.7%/Others: 3.7%
+G Coalossal/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Duraludon/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Kingler/Repeat: 9.5%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 9.5%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Lapras/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Garbodor/Repeat: 9.5%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Orbeetle/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Flapple/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Appletun/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Centiskorch/Repeat: 9.6%/Dusk: 8.6%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3%/Fast: 3.8%/Beast: 0.7%/Others: 3.8%
+G Hatterene/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Grimmsnarl/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Sandaconda/Repeat: 9.7%/Dusk: 8.7%/Ultra: 6.4%/Great: 5.1%/Net: 3.8%/Level: 6.4%/Fast: 3.8%/Beast: 0.7%/Others: 3.8%
+G Copperajah/Repeat: 9.5%/Dusk: 8.4%/Ultra: 6.2%/Great: 5%/Net: 3.7%/Level: 6.2%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Venusaur/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Blastoise/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Rillaboom/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
+G Cinderace/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 10.6%/Beast: 0.7%/Others: 3.7%
+G Inteleon/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3%/Fast: 10.6%/Beast: 0.7%/Others: 3.7%
