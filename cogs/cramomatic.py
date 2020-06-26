@@ -15,7 +15,7 @@ class Cramomatic(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         #print('|'.join('(?P<%s>%s)' % (re.sub(' ', '_', key), key) for key in self.ingredients))
-        self.ingredienttokenizer = re.compile('|'.join('(?P<%s>%s)' % (key, key) for key in self.ingredients), re.I)
+        self.ingredienttokenizer = re.compile('|'.join('(?P<%s>%s)' % (re.sub(' ', '_', key), key) for key in self.ingredients), re.I)
         #self.reciperegex = re.compile('|'.join('(?P<%s>%s)' % (key, key) for key in recipies), re.I)
         
 
