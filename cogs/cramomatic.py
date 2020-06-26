@@ -44,6 +44,9 @@ class Cramomatic(commands.Cog):
         for ing in self.ingredienttokenizer.finditer(composed):
             pot.append(ing.lastgroup)
 
+        print(len(pot))
+        print(pot)
+
         if len(pot) > 4:
             await ctx.send("That's too many things.")
             return
