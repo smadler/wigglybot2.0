@@ -1,0 +1,577 @@
+Bug Memory	Bug	40
+
+Grip Claw	Bug	26
+
+Silver Powder	Bug	10
+
+Shed Shell	Bug	8
+
+Tanga Berry	Bug	4
+
+Honey	Bug	2
+
+Dark Memory	Dark	40
+
+Dubious Disc	Dark	32
+
+Weakness Policy	Dark	30
+
+Razor Claw	Dark	26
+
+Blunder Policy	Dark	24
+
+Wide Lens	Dark	22
+
+Zoom Lens	Dark	22
+
+Black Glasses	Dark	14
+
+Ring Target	Dark	14
+
+Scope Lens	Dark	12
+
+Binding Band	Dark	8
+
+Maranga Berry	Dark	6
+
+Rowap Berry	Dark	6
+
+Colbur Berry	Dark	4
+
+Iapapa Berry	Dark	4
+
+Black Apricorn	Dark	0
+
+Dragon Memory	Dragon	40
+
+Eviolite	Dragon	32
+
+Life Orb	Dragon	20
+
+Dragon Fang	Dragon	18
+
+Dragon Scale	Dragon	18
+
+Fossilized Drake	Dragon	10
+
+Dynamax Candy	Dragon	6
+
+Jaboca Berry	Dragon	6
+
+Aguav Berry	Dragon	4
+
+Haban Berry	Dragon	4
+
+Electric Memory	Electric	40
+
+Light Ball	Electric	20
+
+Magnet	Electric	20
+
+Cell Battery	Electric	14
+
+Fossilized Bird	Electric	10
+
+Electric Seed	Electric	8
+
+Thunder Stone	Electric	6
+
+Wacan Berry	Electric	4
+
+Pecha Berry	Electric	2
+
+Yellow Apricorn	Electric	0
+
+Fairy Memory	Fairy	40
+
+Berry Sweet	Fairy	30
+
+Clover Sweet	Fairy	30
+
+Flower Sweet	Fairy	30
+
+Love Sweet	Fairy	30
+
+Ribbon Sweet	Fairy	30
+
+Star Sweet	Fairy	30
+
+Strawberry Sweet	Fairy	30
+
+Whipped Dream	Fairy	26
+
+Sachet	Fairy	20
+
+Bright Powder	Fairy	14
+
+Misty Seed	Fairy	8
+
+Kee Berry	Fairy	6
+
+Moon Stone	Fairy	6
+
+Shiny Stone	Fairy	6
+
+Roseli Berry	Fairy	4
+
+Pixie Plate	Fairy	2
+
+Pink Apricorn	Fairy	0
+
+Fighting Memory	Fighting	40
+
+Expert Belt	Fighting	32
+
+Armorite Ore	Fighting	28
+
+Macho Brace	Fighting	26
+
+Choice Band	Fighting	20
+
+Power Anklet	Fighting	20
+
+Power Band	Fighting	20
+
+Power Belt	Fighting	20
+
+Power Bracer	Fighting	20
+
+Power Weight	Fighting	20
+
+Black Belt	Fighting	14
+
+Muscle Band	Fighting	14
+
+Focus Band	Fighting	12
+
+Focus Sash	Fighting	12
+
+Protective Pads	Fighting	12
+
+Salac Berry	Fighting	12
+
+Kelpsy Berry	Fighting	6
+
+Calcium	Fighting	4
+
+Carbos	Fighting	4
+
+Chople Berry	Fighting	4
+
+HP Up	Fighting	4
+
+Iron	Fighting	4
+
+Protein	Fighting	4
+
+Zinc	Fighting	4
+
+Leppa Berry	Fighting	2
+
+Fire Memory	Fire	40
+
+Charcoal	Fire	32
+
+Red Card	Fire	16
+
+Flame Orb	Fire	14
+
+Heat Rock	Fire	12
+
+Fire Stone	Fire	6
+
+Sun Stone	Fire	6
+
+Figy Berry	Fire	4
+
+Occa Berry	Fire	4
+
+Cheri Berry	Fire	2
+
+Red Apricorn	Fire	0
+
+Flying Memory	Flying	40
+
+Air Balloon	Flying	20
+
+Utility Umbrella	Flying	20
+
+Sharp Beak	Flying	10
+
+Lansat Berry	Flying	10
+
+Clever Feather	Flying	6
+
+Genius Feather	Flying	6
+
+Grepa Berry	Flying	6
+
+Health Feather	Flying	6
+
+Muscle Feather	Flying	6
+
+Pretty Feather	Flying	6
+
+Resist Feather	Flying	6
+
+Swift Feather	Flying	6
+
+Coba Berry	Flying	4
+
+Lum Berry	Flying	2
+
+Ghost Memory	Ghost	40
+
+Reaper Cloth	Ghost	32
+
+Spell Tag	Ghost	26
+
+Cleanse Tag	Ghost	24
+
+Adrenaline Orb	Ghost	12
+
+Custap Berry	Ghost	10
+
+Dusk Stone	Ghost	6
+
+Kasib Berry	Ghost	4
+
+Mago Berry	Ghost	4
+
+Odd Incense	Ghost	2
+
+Grass Memory	Grass	40
+
+Sweet Apple	Grass	30
+
+Tart Apple	Grass	30
+
+Balm Mushroom	Grass	24
+
+Leftovers	Grass	20
+
+Leek	Grass	18
+
+Adamant Mint	Grass	16
+
+Bold Mint	Grass	16
+
+Brave Mint	Grass	16
+
+Calm Mint	Grass	16
+
+Careful Mint	Grass	16
+
+Gentle Mint	Grass	16
+
+Hasty Mint	Grass	16
+
+Impish Mint	Grass	16
+
+Jolly Mint	Grass	16
+
+Lax Mint	Grass	16
+
+Lonely Mint	Grass	16
+
+Mild Mint	Grass	16
+
+Modest Mint	Grass	16
+
+Naive Mint	Grass	16
+
+Naughty Mint	Grass	16
+
+Quiet Mint	Grass	16
+
+Rash Mint	Grass	16
+
+Relaxed Mint	Grass	16
+
+Sassy Mint	Grass	16
+
+Serious Mint	Grass	16
+
+Timid Mint	Grass	16
+
+Big Mushroom	Grass	14
+
+Mental Herb	Grass	14
+
+Miracle Seed	Grass	14
+
+White Herb	Grass	14
+
+Liechi Berry	Grass	12
+
+Power Herb	Grass	10
+
+Sticky Barb	Grass	10
+
+Absorb Bulb	Grass	8
+
+Big Root	Grass	8
+
+Grassy Seed	Grass	8
+
+Luminous Moss	Grass	8
+
+Leaf Stone	Grass	6
+
+Galarica Twig	Grass	4
+
+Rindo Berry	Grass	4
+
+Rawst Berry	Grass	2
+
+Rose Incense	Grass	2
+
+Tiny Mushroom	Grass	2
+
+Green Apricorn	Grass	0
+
+Ground Memory	Ground	40
+
+Big Nugget	Ground	38
+
+Chipped Pot	Ground	36
+
+Cracked Pot	Ground	30
+
+Soft Sand	Ground	20
+
+Thick Club	Ground	18
+
+Nugget	Ground	16
+
+Heavy-Duty Boots	Ground	16
+
+Apicot Berry	Ground	12
+
+Rare Bone	Ground	12
+
+Terrain Extender	Ground	12
+
+Stardust	Ground	8
+
+Hondew Berry	Ground	6
+
+Shuca Berry	Ground	4
+
+Persim Berry	Ground	2
+
+Ice Memory	Ice	40
+
+Comet Shard	Ice	34
+
+Never-Melt Ice	Ice	14
+
+Ganlon Berry	Ice	12
+
+Icy Rock	Ice	12
+
+Fossilized Dino	Ice	10
+
+Snowball	Ice	8
+
+Ice Stone	Ice	6
+
+Pomeg Berry	Ice	6
+
+Yache Berry	Ice	4
+
+Aspear Berry	Ice	2
+
+Ability Capsule	Normal	40
+
+PP Max	Normal	40
+
+PP Up	Normal	38
+
+Amulet Coin	Normal	32
+
+Up-Grade	Normal	30
+
+Quick Powder	Normal	28
+
+Quick Claw	Normal	26
+
+Silk Scarf	Normal	22
+
+Choice Scarf	Normal	20
+
+Lucky Egg	Normal	20
+
+Safety Goggles	Normal	10
+
+Normal Gem	Normal	8
+
+Chilan Berry	Normal	4
+
+Full Incense	Normal	2
+
+Luck Incense	Normal	2
+
+White Apricorn	Normal	0
+
+Poison Memory	Poison	40
+
+Poison Barb	Poison	32
+
+Wishing Piece	Poison	28
+
+Smoke Ball	Poison	22
+
+Galarica Cuff	Poison	18
+
+Toxic Orb	Poison	14
+
+Petaya Berry	Poison	12
+
+Black Sludge	Poison	10
+
+Qualot Berry	Poison	6
+
+Kebia Berry	Poison	4
+
+Max Repel	Poison	2
+
+Oran Berry	Poison	2
+
+Repel	Poison	2
+
+Super Repel	Poison	2
+
+Rare Candy	Psychic	40
+
+Psychic Memory	Psychic	40
+
+Destiny Knot	Psychic	28
+
+Room Service	Psychic	24
+
+Choice Specs	Psychic	20
+
+Light Clay	Psychic	20
+
+Power Lens	Psychic	20
+
+Twisted Spoon	Psychic	18
+
+Exp Candy XL	Psychic	10
+
+Starf Berry	Psychic	10
+
+Wise Glasses	Psychic	10
+
+Exp Candy L	Psychic	8
+
+Psychic Seed	Psychic	8
+
+Dawn Stone	Psychic	6
+
+Exp Candy M	Psychic	6
+
+Tamato Berry	Psychic	6
+
+Exp Candy S	Psychic	4
+
+Payapa Berry	Psychic	4
+
+Exp Candy XS	Psychic	2
+
+Lax Incense	Psychic	2
+
+Pure Incense	Psychic	2
+
+Sitrus Berry	Psychic	2
+
+Rock Memory	Rock	40
+
+Rocky Helmet	Rock	26
+
+Protector	Rock	24
+
+Everstone	Rock	20
+
+Star Piece	Rock	20
+
+Hard Stone	Rock	14
+
+Oval Stone	Rock	12
+
+Smooth Rock	Rock	12
+
+Lagging Tail	Rock	10
+
+Micle Berry	Rock	10
+
+Float Stone	Rock	8
+
+Charti Berry	Rock	4
+
+Wiki Berry	Rock	4
+
+Rock Incense	Rock	2
+
+Bottle Cap	Steel	40
+
+Gold Bottle Cap	Steel	40
+
+Steel Memory	Steel	40
+
+Kings Rock	Steel	32
+
+Metal Coat	Steel	24
+
+Metronome	Steel	22
+
+Assault Vest	Steel	20
+
+Eject Button	Steel	16
+
+Eject Pack	Steel	16
+
+Iron Ball	Steel	16
+
+Metal Powder	Steel	14
+
+Soothe Bell	Steel	14
+
+Babiri Berry	Steel	4
+
+Rusted Shield	Steel	2
+
+Rusted Sword	Steel	2
+
+Water Memory	Water	40
+
+Pearl String	Water	30
+
+Prism Scale	Water	26
+
+Shell Bell	Water	14
+
+Big Pearl	Water	12
+
+Damp Rock	Water	12
+
+Throat Spray	Water	12
+
+Fossilized Fish	Water	10
+
+Mystic Water	Water	10
+
+Pearl	Water	6
+
+Water Stone	Water	6
+
+Passho Berry	Water	4
+
+Chesto Berry	Water	2
+
+Sea Incense	Water	2
+
+Wave Incense	Water	2
+
+Blue Apricorn	Water	0

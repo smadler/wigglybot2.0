@@ -1,0 +1,305 @@
+Bug
+TR60
+TR18
+Bright Powder
+Wishing Piece
+Silver Powder
+Balm Mushroom
+TR61
+Shed Shell
+Pearl String
+TR96
+Comet Shard
+TR28
+Rare Candy
+Bottle Cap
+PP Up
+----
+Dark
+TR37
+Wide Lens
+TR68
+Wishing Piece
+Star Piece
+Balm Mushroom
+TR81
+Scope Lens
+TR95
+TR58
+TR32
+TR93
+Rare Candy
+Bottle Cap
+PP Up
+----
+Dragon
+TR47
+Dragon Fang
+Big Mushroom
+Wishing Piece
+Star Piece
+Balm Mushroom
+Dragon Scale
+Life Orb
+TR62
+King's Rock
+TR51
+TR24
+Rare Candy
+Bottle Cap
+PP Up
+----
+Electric
+Electric Seed
+TR80
+Cell Battery
+Wishing Piece
+Magnet
+TR86
+Up-Grade
+Light Ball
+Pearl String
+Dubious Disc
+TR08
+TR09
+Rare Candy
+Bottle Cap
+PP Up
+----
+Fairy
+Stardust
+Misty Seed
+Big Mushroom
+Wishing Piece
+Sachet
+Room Service
+Whipped Dream
+Destiny Knot
+Common Sweet
+TR92
+Rare Sweet
+TR90
+Rare Candy
+Bottle Cap
+PP Up
+----
+Fighting
+TR07
+TR56
+Muscle Band
+Wishing Piece
+TR48
+TR21
+Macho Brace
+TR00
+Expert Belt
+TR64
+TR39
+TR53
+Rare Candy
+Bottle Cap
+PP Up
+----
+Fire
+TR88
+Flame Orb
+TR41
+Wishing Piece
+TR02
+Balm Mushroom
+TR36
+Red Card
+TR15
+Charcoal
+TR55
+TR43
+Rare Candy
+Bottle Cap
+PP Up
+----
+Flying
+Pretty Feather
+Sharp Beak
+Big Mushroom
+Wishing Piece
+Air Balloon
+Blunder Policy
+Grip Claw
+Air Balloon
+Weakness Policy
+TR89
+Comet Shard
+TR66
+Rare Candy
+Bottle Cap
+PP Up
+----
+Ghost
+Odd Incense
+Adrenaline Orb
+Ring Target
+Wishing Piece
+Star Piece
+Balm Mushroom
+Cleanse Tag
+Spell Tag
+Cracked Pot
+Reaper Cloth
+Comet Shard
+TR33
+Rare Candy
+Bottle Cap
+PP Up
+----
+Grass
+Grassy Seed
+TR59
+White Herb
+Wishing Piece
+TR77
+TR50
+TR65
+Absorb Bulb
+Pearl String
+TR72
+Comet Shard
+TR71
+Rare Candy
+Bottle Cap
+PP Up
+----
+Ground
+Stardust
+TR23
+Big Mushroom
+Wishing Piece
+Light Clay
+TR87
+TR67
+Terrain Extender
+Pearl String
+TR94
+Comet Shard
+TR10
+Rare Candy
+Bottle Cap
+PP Up
+----
+Ice
+Snowball
+Icy Rock
+Never-Melt Ice
+Wishing Piece
+Star Piece
+Balm Mushroom
+Razor Claw
+Snowball
+Pearl String
+TR05
+Comet Shard
+TR06
+Rare Candy
+Bottle Cap
+PP Up
+----
+Normal
+TR85
+TR14
+TR26
+TR13
+TR27
+TR35
+TR01
+TR19
+TR29
+TR30
+TR20
+TR00
+TR42
+Bottle Cap
+PP Up
+----
+Poison
+Black Sludge
+Toxic Orb
+TR91
+Wishing Piece
+TR54
+Smoke Ball
+TR57
+Quick Powder
+Poison Barb
+TR22
+TR78
+TR73
+Rare Candy
+Bottle Cap
+PP Up
+----
+Psychic
+TR12
+TR34
+TR40
+TR82
+TR44
+TR83
+TR25
+TR69
+TR17
+TR38
+TR49
+TR97
+TR11
+Bottle Cap
+PP Up
+----
+Rock
+Float Stone
+Oval Stone
+Hard Stone
+Wishing Piece
+Everstone
+Protector
+Rocky Helmet
+TR63
+Wishing Piece
+Eviolite
+TR76
+TR75
+Rare Candy
+Bottle Cap
+PP Up
+----
+Steel
+TR31
+TR46
+Metal Powder
+Wishing Piece
+Utility Umbrella
+Metal Coat
+TR52
+Assult Vest
+TR79
+Amulet Coin
+TR70
+TR74
+Rare Candy
+Bottle Cap
+PP Up
+----
+Water
+Sea Incense
+TR04
+Shell Bell
+Wishing Piece
+TR16
+TR98
+Prism Scale
+Mystic Water
+Pearl String
+TR45
+TR84
+TR03
+Rare Candy
+Bottle Cap
+PP Up
