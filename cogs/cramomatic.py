@@ -61,7 +61,7 @@ class Cramomatic(commands.Cog):
 
         resu = self.pivotrec[rtype][self.modulateValue(rvalue)] if rvalue > 0 else 'Pokeball'
 
-        await ctx.send("If you toss `%s` in the Cram-O-Matic, you will recieve a %s" % (', '.join(pot), resu))
+        await ctx.send("If you toss `%s` in the Cram-O-Matic, you will recieve a %s." % (', '.join(pot), resu))
 
 
     def modulateValue(self, value: int):
