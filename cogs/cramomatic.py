@@ -10,7 +10,7 @@ class Cramomatic(commands.Cog):
     ### DICTIONARIES FOR ALL THE DATA NEEDED
     ingredients = cramData.getIngredients()
     #recipies = {}
-    povotrec = cramData.getResults()
+    pivotrec = cramData.getResults()
 
     def __init__(self, bot):
         self.bot = bot
