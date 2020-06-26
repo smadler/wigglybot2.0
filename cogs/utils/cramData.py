@@ -4,7 +4,7 @@ def getIngredients():
         for line in f:
             items = line.split()
             if len(items) > 2:
-                result[' '.join(items[:-2])] = {"Value": items[-1], "Type": items[-2]}
+                result[' '.join(items[:-2])] = {"Value": int(items[-1]), "Type": items[-2]}
     return result
 
 def getResults():
