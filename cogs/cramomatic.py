@@ -11,6 +11,17 @@ class Cramomatic(commands.Cog):
     ingredients = cramData.getIngredients()
     #recipies = {}
     pivotrec = cramData.getResults()
+    specialvalues = {
+            "Tiny Mushroom": "Big Mushroom",
+            "Pearl": "Big Pearl",
+            "Stardust": "Star Piece",
+            "Big Mushroom": "Balm Mushroom",
+            "Nugget": "Big Nugget",
+            "Big Pearl": "Pearl String",
+            "Star Piece": "Comet Shard",
+            "Rare Candy": "Ability Capsule",
+            "Bottle Cap": "Gold Bottle Cap",
+        }
 
     def __init__(self, bot):
         self.bot = bot
@@ -55,14 +66,33 @@ class Cramomatic(commands.Cog):
         if len(pot) < 4:
             await ctx.send("I need more than that.")
             return
-      
-        rtype = self.ingredients[pot[0]]['Type']
-        rvalue = functools.reduce(lambda a, b: a+b, map(lambda x: self.ingredients[x]['Value'], pot))
 
-        resu = self.pivotrec[rtype][self.modulateValue(rvalue)] if rvalue > 0 else 'Pokeball'
+        if pot[0] in self.specialvalues and pot[0] == pot[2] and pot[0] == pot[3]:
+            resu = self.specialvalues[pot[0]]
+        else:
+            rtype = self.ingredients[pot[0]]['Type']
+            rvalue = functools.reduce(lambda a, b: a+b, map(lambda x: self.ingredients[x]['Value'], pot))
+
+            resu = self.pivotrec[rtype][self.modulateValue(rvalue)] if rvalue > 0 else 'Pokeball'
 
         await ctx.send("If you toss `%s` in the Cram-O-Matic, you will recieve a %s." % (', '.join(pot), resu))
 
+    @commands.command()
+    async def itemdetails(self, ctx, *args):
+        if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+            return
+        
+        composed = ' '.join(args)
+        
+        ing = self.ingredienttokenizer.search(composed)
+
+        if ing == None:
+            await ctx.send("I don't know what that is.")
+            return
+        
+        item = re.sub('_', ' ', re.sub('__', '-', ing.lastgroup))
+
+        await ctx.send("%s is a %s attribute item with a weight of %d." % (item, self.ingredients[item]['Type'], self.ingredients[item]['Value']))
 
     def modulateValue(self, value: int):
         if value < 1:
