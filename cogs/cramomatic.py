@@ -59,7 +59,7 @@ class Cramomatic(commands.Cog):
         target = random.choice(data)
 
         if target[0] == 'Special':
-            await ctx.send("To make %s, toss `%s` into the Cram-O-Matic." % (dataname, target[1] + ', ' + random.choice(self.ingredients.keys()) + ', ' + target[1] + ', ' + target[1]))
+            await ctx.send("To make %s, toss `%s` into the Cram-O-Matic." % (dataname, target[1] + ', ' + random.choice(list(self.ingredients.keys())) + ', ' + target[1] + ', ' + target[1]))
             return
 
         resultant = self.findrecipe(4, [], 0, self.expandValue(target[1]), target[0])
