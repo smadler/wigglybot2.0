@@ -36,11 +36,11 @@ class Cramomatic(commands.Cog):
             self.recipies[resultant].append(('Special', ing))
         for key in self.recipies:
             self.recipieindex.append(key)
-        self.reciperegex = re.compile('|'.join('(?P<K%d>%s)' % (key, self.recipieindex[key]) for key in range(len(self.recipieindex))), re.I)
+        self.recipieregex = re.compile('|'.join('(?P<K%d>%s)' % (key, self.recipieindex[key]) for key in range(len(self.recipieindex))), re.I)
         
 
     @commands.command()
-    async def recipie(self, ctx, *args):
+    async def recipe(self, ctx, *args):
         if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
             return
 
@@ -53,7 +53,7 @@ class Cramomatic(commands.Cog):
             return
 
     @commands.command()
-    async def recipieinfo(self, ctx, *args):
+    async def recipeinfo(self, ctx, *args):
         if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
             return
 
