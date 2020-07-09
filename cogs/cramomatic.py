@@ -29,14 +29,14 @@ class Cramomatic(commands.Cog):
         self.bot = bot
         self.ingredienttokenizer = re.compile('|'.join('(?P<%s>%s)' % (re.sub('-', '__', re.sub(' ', '_', key)), key) for key in self.ingredients), re.I)
 
-        for ctype, internallist in pivotrec.items():
+        for ctype, internallist in self.pivotrec.items():
             for cindex in internallist:
-                recipies[internallist[cindex]].sppend((ctype, cindex))
-        for ing, resultant in specialvalues.items():
-            recipies[resultant].append(('Special', ing))
-        for key in recipies:
-            recipieindex.append(key)
-        self.reciperegex = re.compile('|'.join('(?P<K%d>%s)' % (key, recipieindex[key]) for key in range(len(recipieindex))), re.I)
+                self.recipies[internallist[cindex]].append((ctype, cindex))
+        for ing, resultant in self.specialvalues.items():
+            self.recipies[resultant].append(('Special', ing))
+        for key in self.recipies:
+            self.recipieindex.append(key)
+        self.reciperegex = re.compile('|'.join('(?P<K%d>%s)' % (key, self.recipieindex[key]) for key in range(len(self.recipieindex))), re.I)
         
 
     @commands.command()
