@@ -44,6 +44,8 @@ class Pokemon(commands.Cog):
         'Cake': 'Alcremie',
         'Alcreamie': 'Alcremie',
         'Sheild': 'Shield',
+        'Sh': 'Shield',
+        'Sw': 'Sword',
         'Zard': 'Charizard',
         'Kiss': 'Togekiss',
         'Nazca': 'Sigilyph',
