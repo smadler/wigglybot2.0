@@ -4,12 +4,14 @@ from discord.utils import get
 from .utils import cramData
 import re
 import functools
+import collections
 
 class Cramomatic(commands.Cog):
 
     ### DICTIONARIES FOR ALL THE DATA NEEDED
     ingredients = cramData.getIngredients()
-    #recipies = {}
+    recipies = collections.defaultdict(list)
+    recipieindex = []
     pivotrec = cramData.getResults()
     specialvalues = {
             "Tiny Mushroom": "Big Mushroom",
@@ -25,24 +27,51 @@ class Cramomatic(commands.Cog):
 
     def __init__(self, bot):
         self.bot = bot
-        #print('|'.join('(?P<%s>%s)' % (re.sub(' ', '_', key), key) for key in self.ingredients))
         self.ingredienttokenizer = re.compile('|'.join('(?P<%s>%s)' % (re.sub('-', '__', re.sub(' ', '_', key)), key) for key in self.ingredients), re.I)
-        #self.reciperegex = re.compile('|'.join('(?P<%s>%s)' % (key, key) for key in recipies), re.I)
+
+        for ctype, internallist in pivotrec.items():
+            for cindex in internallist:
+                recipies[internallist[cindex]].sppend((ctype, cindex))
+        for ing, resultant in specialvalues.items():
+            recipies[resultant].append(('Special', ing))
+        for key in recipies:
+            recipieindex.append(key)
+        self.reciperegex = re.compile('|'.join('(?P<K%d>%s)' % (key, recipieindex[key]) for key in range(len(recipieindex))), re.I)
         
 
- #   @commands.command()
-#    async def recipie(self, ctx, *args):
-  #      if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
-   #         return
-#
-    #    composed = ' '.join(args)
-#
-     #   workingr = self.recipieregex.search(composed)
-#
-      #  if workingr == None:
-       #     await ctx.send("I don't know how to make that.")
-        #    return
+    @commands.command()
+    async def recipie(self, ctx, *args):
+        if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+            return
 
+        composed = ' '.join(args)
+
+        workingr = self.recipieregex.search(composed)
+
+        if workingr == None:
+            await ctx.send("I don't know how to make that.")
+            return
+
+    @commands.command()
+    async def recipieinfo(self, ctx, *args):
+        if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+            return
+
+        composed = ' '.join(args)
+
+        workingr = self.recipieregex.search(composed)
+
+        if workingr == None:
+            await ctx.send("I don't know how to make that.")
+            return
+
+        dataname = self.recipieindex[int(workingr.lastgroup[1:])]
+
+        if self.recipies[dataname][0][0] == 'Special':
+            await ctx.send("%s is a special recipie with the core ingredient of %s." % (self.recipies[dataname][0][0], self.recipies[dataname][0][1]))
+            return
+            
+        await ctx.send("%s can be made with the following ingredient combinations:\n%s" % (dataname, '\n'.join('A weight of %d with the %s sttribute.' % (self.expandValue(datanum), dataty) for dataty, datanum in self.recipies[dataname])))
 
     @commands.command()
     async def cram(self, ctx, *args):
@@ -71,7 +100,7 @@ class Cramomatic(commands.Cog):
             resu = self.specialvalues[pot[0]]
         else:
             rtype = self.ingredients[pot[0]]['Type']
-            rvalue = functools.reduce(lambda a, b: a+b, map(lambda x: self.ingredients[x]['Value'], pot))
+            rvalue = functools.reduce(lambda a, x: a + self.ingredients[x]['Value'], pot, 0)
 
             resu = self.pivotrec[rtype][self.modulateValue(rvalue)] if rvalue > 0 else 'Pokeball'
 
@@ -126,6 +155,16 @@ class Cramomatic(commands.Cog):
         if value < 151:
             return 13
         return 14
+
+    def expandValue(self, value: int):
+        if value > 14 or value < 0:
+            return None
+        if value == 14:
+            return (151, 1000) # 1000 is used as an arbitrarily large number
+        if value == 0:
+            return (0, 20)
+        res = value * 10 + 11;
+        return (res, res + 9)
     
 
 def setup(bot):
