@@ -30,7 +30,7 @@ class Cramomatic(commands.Cog):
         self.ingredienttokenizer = re.compile('|'.join('(?P<%s>%s)' % (re.sub('-', '__', re.sub(' ', '_', key)), key) for key in self.ingredients), re.I)
 
         for ctype, internallist in self.pivotrec.items():
-            for cindex in internallist:
+            for cindex in range(len(internallist)):
                 self.recipies[internallist[cindex]].append((ctype, cindex))
         for ing, resultant in self.specialvalues.items():
             self.recipies[resultant].append(('Special', ing))
