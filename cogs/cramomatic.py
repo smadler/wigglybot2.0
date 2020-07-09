@@ -68,10 +68,11 @@ class Cramomatic(commands.Cog):
         dataname = self.recipieindex[int(workingr.lastgroup[1:])]
 
         if self.recipies[dataname][0][0] == 'Special':
-            await ctx.send("%s is a special recipie with the core ingredient of %s." % (self.recipies[dataname][0][0], self.recipies[dataname][0][1]))
+            await ctx.send("%s is a special recipie with the core ingredient of %s." % (dataname, self.recipies[dataname][0][1]))
             return
             
-        await ctx.send("%s can be made with the following ingredient combinations:\n%s" % (dataname, '\n'.join('A weight of %d with the %s sttribute.' % (self.expandValue(datanum), dataty) for dataty, datanum in self.recipies[dataname])))
+        await ctx.send("%s can be made with the following ingredient combinations:\n%s" % (dataname, '\n'.join('A weight of %d to %d with the %s sttribute.' %
+                                                (self.expandValue(datanum)[0], self.expandValue(datanum)[1], dataty) for dataty, datanum in self.recipies[dataname])))
 
     @commands.command()
     async def cram(self, ctx, *args):
