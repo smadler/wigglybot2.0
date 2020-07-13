@@ -22,6 +22,10 @@ class Wiki(commands.Cog):
     @commands.command()
     async def flairs(self, ctx):
         await ctx.send("<https://www.reddit.com/r/pokemonmaxraids/wiki/flairlevels>")
+
+    @commands.command()
+    async def rng(self, ctx):
+        await ctx.send("<https://www.reddit.com/r/pokemonmaxraids/comments/esv23y/the_pokemon_swsh_raid_rng_manipulation_guide/>")
         
 
 def setup(bot):
