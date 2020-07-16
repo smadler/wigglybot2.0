@@ -417,11 +417,11 @@ class Cramomatic(commands.Cog):
 
         return None # No such recipe exists, should not be called unless quantum is set
 
-        # Takes a marklist and the index and returns which index range in that list the indexval associates with
-        def findindex(self, marklist, indexval):
-            for res in range(len(marklist) - 1):
-                if indexval < marklist[res + 1]:
-                    return res
+    # Takes a marklist and the index and returns which index range in that list the indexval associates with
+    def findindex(self, marklist, indexval):
+        for res in range(len(marklist) - 1):
+            if indexval < marklist[res + 1]:
+                return res
         
 
 def setup(bot):
