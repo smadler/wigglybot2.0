@@ -357,7 +357,7 @@ class Cramomatic(commands.Cog):
                 #print(selectfrom)
                 if selectfrom == []:
                     #print('11-2')
-                    return None
+                    break
                 select = random.choice(selectfrom)
                 currw = select['Value'] + currentweight
                 tempings = inglist[:]
