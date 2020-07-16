@@ -269,7 +269,7 @@ class Cramomatic(commands.Cog):
 
     def find(self, minweight, maxweight, nature = None, prohibits = [], allowableweight = None): # Returns a list of dicts corrosponding to the given restrictions
         res = []
-        print(minweight, maxweight, nature, prohibits, allowableweight)
+        #print(minweight, maxweight, nature, prohibits, allowableweight)
         
         for possibility in self.ingredients.values():
             if nature != None and possibility['Type'] != nature:
@@ -283,7 +283,7 @@ class Cramomatic(commands.Cog):
                 continue
             res.append(possibility)
 
-        print(res)
+        #print(res)
         return res
 
     # composeLists takes a list of prohibited words and a max quantum, then returns a list of
@@ -354,6 +354,7 @@ class Cramomatic(commands.Cog):
         if res == None:
             return None
 
+        print(res)
         res[0] = random.choice(self.find(res[0][1], res[0][1], res[0][2], [recipename], res[0][0]))['Name']
         res[1] = random.choice(self.find(res[1][1], res[1][1], None, [recipename], res[1][0]))['Name']
         res[2] = random.choice(self.find(res[2][1], res[2][1], None, [recipename], res[2][0]))['Name']
@@ -394,6 +395,7 @@ class Cramomatic(commands.Cog):
                 
                 for val2index in range(marks[quantaindex], marks[quantaindex + 1]):
                     secondval = vals[val2index]
+                    print(val2index, secondval)
                     if secondval + firstval > weighttarget[1] or secondval < weighttarget[0] + firstval - self.MAXOFTHREEWEIGHTS: # Trim impossible values
                         continue
 
@@ -415,8 +417,7 @@ class Cramomatic(commands.Cog):
                                 continue
 
                             # If here, the 4 values fit the criteria
-                            print(self.findindex(marks, val2index),quantaindex)
-                            return [(self.quanta[self.findindex(startmarks, firstvalindex)], firstval), (self.quanta[self.findindex(marks, val2index)], secondval),
+                            return [(self.quanta[self.findindex(startmarks, firstvalindex)], firstval), (self.quanta[quantaindex], secondval),
                                     (self.quanta[self.findindex(marks, val3index)], thirdval), (self.quanta[self.findindex(marks, val4index)], fourthval)]
 
         return None # No such recipe exists, should not be called unless quantum is set
