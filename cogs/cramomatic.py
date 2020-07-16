@@ -356,7 +356,7 @@ class Cramomatic(commands.Cog):
                         return None
                     return tempings
 
-                possibleres = self.smartfindrecipe(remaininging - 1, tempings, currw, weighttarget, prohibited, quantum)
+                possibleres = self.smartfindrecipe(remaininging - 1, tempings, currw, weighttarget, None, prohibited, quantum)
 
                 if possibleres != None: # Found a set of values that works
                     return possibleres
