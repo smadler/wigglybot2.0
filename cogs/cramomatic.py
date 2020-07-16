@@ -288,7 +288,7 @@ class Cramomatic(commands.Cog):
     # values and a list of delimiters for where the values delimters are
     # the values list is a list of itemvalues per weight, split by quantum weights according to
     # the delimiter list in marks
-    def composeLists(prohibited, quantum, nature = None):
+    def composeLists(self, prohibited, quantum, nature = None):
         temp = collections.defaultdict(list) # A bucketsort of sorts for this. Keys are weights
         vals, marks = [], []
 
