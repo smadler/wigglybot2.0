@@ -43,8 +43,8 @@ class Cramomatic(commands.Cog):
             self.recipieindex.append(key)
         self.recipieregex = re.compile('|'.join('(?P<K%d>%s)' % (key, self.recipieindex[key]) for key in range(len(self.recipieindex))), re.I)
         self.quanta = self.composequanta()
-        while self.iteraterecipe():
-            pass
+        #while self.iteraterecipe():
+           # pass
         
 
     @commands.command()
