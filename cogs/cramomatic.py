@@ -11,6 +11,7 @@ class Cramomatic(commands.Cog):
 
     # Weighting Constants
     WEIGHTINGCONSTANT = 4
+    MAXOFTHREEWEIGHTS = 120
 
     ### DICTIONARIES FOR ALL THE DATA NEEDED
     ingredients = cramData.getIngredients()
@@ -93,7 +94,7 @@ class Cramomatic(commands.Cog):
 
         resultant = self.smartpicker(dataname, data)
         if resultant == None:
-            resultant = ['ERROR, No Recipe found']
+            resultant = (['ERROR, No Recipe found'])
 
         await ctx.send("To make %s, toss `%s` into the Cram-O-Matic." % (dataname, ', '.join(resultant[0])))
 
@@ -184,8 +185,9 @@ class Cramomatic(commands.Cog):
         
         item = re.sub('_', ' ', re.sub('__', '-', ing.lastgroup))
 
-        await ctx.send("You use %s as a replacement for any of the following:\n%s" % (item,
-                                '\n'.join(poss['Name'] for poss in self.find(self.ingredients[item]['Value'], self.ingredients[item]['Value'], None, [item]))))
+        await ctx.send("You use %s (%s) as a replacement for any of the following:\n%s" % (item, self.ingredients[item]['Type'],
+                                '\n'.join('%s (%s)' % (poss['Name'], poss['Type']) for poss in self.find(self.ingredients[item]['Value'],
+                                self.ingredients[item]['Value'], None, [item]))))
 
     def modulateValue(self, value: int):
         if value < 1:
@@ -282,6 +284,26 @@ class Cramomatic(commands.Cog):
 
         return res
 
+    # composeLists takes a list of prohibited words and a max quantum, then returns a list of
+    # values and a list of delimiters for where the values delimters are
+    # the values list is a list of itemvalues per weight, split by quantum weights according to
+    # the delimiter list in marks
+    def composeLists(prohibited, quantum, nature = None):
+        temp = collections.defaultdict(list) # A bucketsort of sorts for this. Keys are weights
+        vals, marks = [], []
+
+        for item in self.find(0, 255, nature, prohibited, quantum):
+            if item['Value'] not in temp[item['Weight']]:
+                temp[item['Weight']].apppend(item['Value'])
+
+        for quant in self.quanta:
+            if quant > quantum:
+                break
+            vals.extend(temp[quant])
+            marks.append(len(vals))
+        
+        return (vals, marks)
+
     def composequanta(self):
         res = []
         for item in self.ingredients.values():
@@ -309,76 +331,98 @@ class Cramomatic(commands.Cog):
             return False
         return True
 
-    def smartpicker(self, recipename, recipes, weightlimit = 300000):
-        minweight = weightlimit
+    def smartpicker(self, recipename, recipes, minweight = 300000):
         res = None
 
         for recipe in recipes:
-            if recipe[0] == 'Special':
+            if recipe[0] == 'Special': # Deal with special recipes
                 if self.ingredients[recipe[1]]['Weight'] > minweight:
                     return None
                 randing = random.choice(self.find(0, 255, None, [recipename], self.quanta[0]))['Name']
                 return ([recipe[1], randing, recipe[1], recipe[1]], self.ingredients[recipe[1]]['Weight'])
-            for quantum in self.quanta:
-                if quantum > minweight:
-                    break
-                resultant = self.smartfindrecipe(4, [], 0, self.expandValue(recipe[1]), recipe[0], [recipename] if recipename != "King's Rock" else ["Kings Rock"], quantum)
-                if resultant != None:
-                    res = resultant
-                    minweight = quantum
-                    break
+
+            # Deal with non-special recipes
+            resultant = self.smartfindrecipe(self.expandValue(recipe[1]), recipe[0], [recipename] if recipename != "King's Rock" else ["Kings Rock"], minweight)
+            if resultant != None:
+                res = resultant
+                res[0] = (res[0], res[1], recipe[0])
+                minweight = max(res[0][0], res[1][0], res[2][0], res[3][0])
 
         if res == None:
             return None
-        return (res, quantum)
-    
-    def smartfindrecipe(self, remaininging: int, inglist, currentweight: int, weighttarget, nature = None, prohibited = [], quantum = 300000):
-        if remaininging < 1: # Should not happen
-            return None
+
+        res[0] = random.choice(self.find(res[0][1], res[0][1], res[0][2], [recipename], res[0][0]))['Name']
+        res[1] = random.choice(self.find(res[1][1], res[1][1], None, [recipename], res[1][0]))['Name']
+        res[2] = random.choice(self.find(res[2][1], res[2][1], None, [recipename], res[2][0]))['Name']
+        if res[0] in self.specialvalues and res[0] == res[2]:
+            prohibits = [recipename, res[0]]
+        else:
+            prohibits = [recipename]
+        attempt = self.find(res[3][1], res[3][1], None, prohibits, res[3])
+        while attempt == []:
+            attempt = self.find(res[3][1], res[3][1], None, prohibits, self.quanta[self.findindex(self.quanta, res[3][0]) + 1])
+        res[3] = random.choice(attempt)
+            
+        return (res, minweight)
+
+    #returns a series of quantumweight/itemweight tuples
+    def smartfindrecipe(self, weighttarget, nature, prohibited = [], quantum = 300000):
+        vals, marks = self.composeLists(prohibited, quantum) # composeLists takes a list of prohibited words and a max quantum, then returns a list of
+                                                                # values and a list of delimiters for where the values delimters are
+                                                                # the values list is a list of itemvalues per weight, split by quantum weights according to
+                                                                # the delimiter list in marks
+        startvals, startmarks = self.composeLists(prohibited, quantum, nature) # also takes an additional optional nature
         
-        maxweight = weighttarget[1] - currentweight
-
-        #if remaininging == 4:
-            #print(prohibited)
-            #print(self.quanta)
-        for quantumm in self.quanta:
-            minweight = weighttarget[0] - currentweight if remaininging == 1 else 0
-            #print(remaininging, quantumm, quantum, inglist)
-            if quantumm > quantum:
-                #print('11-1')
-                return None
-            while not minweight > maxweight:
-                if remaininging == 1 and inglist[0] in self.specialvalues and inglist[0] == inglist[2]:
-                    prohibits = [inglist[0]]
-                else:
-                    prohibits = []
-                prohibits.extend(prohibited)
-                selectfrom = self.find(minweight, maxweight, nature, prohibits, quantumm)
-                #print(selectfrom)
-                if selectfrom == []:
-                    #print('11-2')
-                    break
-                select = random.choice(selectfrom)
-                currw = select['Value'] + currentweight
-                tempings = inglist[:]
-                tempings.append(select['Name'])
+        #snippet for iterative deepening without repeating past looked at values
+        for quantaindex in range(len(marks)-1): # The length of marks will always be the allowed number of quanta plus one
+            if marks[quantaindex] == marks[quantaindex + 1]:
+                #if startmarks[quantaindex] == startmarks[quantaindex + 1]: # Exists as comment due to impossible code
+                 #   continue # Trim time with quanta that don't have any new associated values
+                # New values exist for starting value, but not the others. Impossible, as startvals is a subset of vals
+                continue
+            
+            for firstvalindex in range(startmarks[quantaindex + 1]): # check every beginning each deepening
                 
-                if remaininging == 1: # Base Case
-                    if currw > weighttarget[1] or currw < weighttarget[0]: # Double check, neither should be the case
-                        return None
-                    return tempings
+                fistval = startvals[firstvalindex]
+                if firstval > weighttarget[1] or firstval < weighttarget[0] - self.MAXOFTHREEWEIGHTS: # Trim impossible values early
+                    continue
+                
+                step = True
+                
+                for val2index in range(marks[quantaindex], marks[quantaindex + 1]):
+                    secondval = vals[val2index]
+                    if secondval + firstval > weighttarget[1] or secondval < weighttarget[0] + firstval - self.MAXOFTHREEWEIGHTS: # Trim impossible values
+                        continue
 
-                possibleres = self.smartfindrecipe(remaininging - 1, tempings, currw, weighttarget, None, prohibited, quantum)
+                    # If the start of a new sequence, make sure to check old combinations, if not, don't
+                    if step:
+                        start = 0
+                        step = False
+                    else:
+                        start = val2index
+                        
+                    for val3index in range(start, marks[quantaindex + 1]):
+                        thirdval = vals[val3index]
+                        if thirdval + secondval + firstval > weighttarget[1] or thirdval < weighttarget[0] + firstval + secondval - self.MAXOFTHREEWEIGHTS: # Trim impossible values
+                            continue
+                    
+                        for val4index in range(val3index, marks[quantaindex + 1]):
+                            fourthval = vals[val4index]
+                            if fourthval + thirdval + secondval + firstval > weighttarget[1] or firstval + secondval + thirdval + fourthval < weighttarget[0]: # Trim impossible values
+                                continue
 
-                if possibleres != None: # Found a set of values that works
-                    return possibleres
+                            # If here, the 4 values fit the criteria
+                            return [(self.quanta[self.findindex(startmarks, firstvalindex)], firstval), (self.quanta[quantaindex], secondval),
+                                    (self.quanta[self.findindex(marks, val3index)], thirdval), (self.quanta[self.findindex(marks, val4index)], fourthval)]
 
-                # Value found was too low
-                minweight = select['Value'] + 1
+        return None # No such recipe exists, should not be called unless quantum is set
 
-        print('11-3')
-        return None # No value was big enough to work
-    
+        # Takes a marklist and the index and returns which index range in that list the indexval associates with
+        def findindex(self, marklist, indexval):
+            for res in range(len(marklist) - 1):
+                if indexval < marklist[res + 1]:
+                    return res
+        
 
 def setup(bot):
     bot.add_cog(Cramomatic(bot))
