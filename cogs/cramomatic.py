@@ -292,7 +292,7 @@ class Cramomatic(commands.Cog):
     # the delimiter list in marks
     def composeLists(self, prohibited, quantum, nature = None):
         temp = collections.defaultdict(list) # A bucketsort of sorts for this. Keys are weights
-        vals, marks = [], []
+        vals, marks = [], [0]
 
         for item in self.find(0, 255, nature, prohibited, quantum):
             if item['Value'] not in temp[item['Weight']]:
