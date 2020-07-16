@@ -269,6 +269,7 @@ class Cramomatic(commands.Cog):
 
     def find(self, minweight, maxweight, nature = None, prohibits = [], allowableweight = None): # Returns a list of dicts corrosponding to the given restrictions
         res = []
+        print(minweight, maxweight, nature, prohibits, allowableweight)
         
         for possibility in self.ingredients.values():
             if nature != None and possibility['Type'] != nature:
@@ -282,6 +283,7 @@ class Cramomatic(commands.Cog):
                 continue
             res.append(possibility)
 
+        print(res)
         return res
 
     # composeLists takes a list of prohibited words and a max quantum, then returns a list of
