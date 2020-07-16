@@ -296,7 +296,7 @@ class Cramomatic(commands.Cog):
         for recipename in self.recipies:
             name = "Kings Rock" if recipename == "King's Rock" else recipename
             if name in self.ingredients:
-                xx = self.smartpicker(recipename, self.recipies[recipename], self.ingredients[name] - 1)
+                xx = self.smartpicker(recipename, self.recipies[recipename], self.ingredients[name]['Weight'] - 1)
                 if xx != None:
                     newvals[name] = xx[1] + self.WEIGHTINGCONSTANT
         for key, val in newvals.items():
