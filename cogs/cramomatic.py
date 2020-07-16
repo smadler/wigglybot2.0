@@ -14,7 +14,7 @@ class Cramomatic(commands.Cog):
 
     ### DICTIONARIES FOR ALL THE DATA NEEDED
     ingredients = cramData.getIngredients()
-    cramData.weightIngredients(ingredients)
+    ingredients = cramData.weightIngredients(ingredients)
     recipies = collections.defaultdict(list)
     recipieindex = []
     pivotrec = cramData.getResults()
@@ -285,6 +285,7 @@ class Cramomatic(commands.Cog):
     def composequanta(self):
         res = []
         for item in self.ingredients.values():
+            print(item)
             if item['Weight'] not in res:
                 res.append(item['Weight'])
         res.sort()
