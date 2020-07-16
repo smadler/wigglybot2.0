@@ -413,7 +413,8 @@ class Cramomatic(commands.Cog):
                                 continue
 
                             # If here, the 4 values fit the criteria
-                            return [(self.quanta[self.findindex(startmarks, firstvalindex)], firstval), (self.quanta[quantaindex], secondval),
+                            print(self.findindex(marks, val2index),quantaindex)
+                            return [(self.quanta[self.findindex(startmarks, firstvalindex)], firstval), (self.quanta[self.findindex(marks, val2index)], secondval),
                                     (self.quanta[self.findindex(marks, val3index)], thirdval), (self.quanta[self.findindex(marks, val4index)], fourthval)]
 
         return None # No such recipe exists, should not be called unless quantum is set
