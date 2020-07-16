@@ -312,10 +312,12 @@ class Cramomatic(commands.Cog):
 
         for recipe in recipes:
             if recipe[0] == 'Special':
+                if self.ingredients[recipe[1]]['Weight'] > minweight:
+                    return None
                 randing = random.choice(self.find(0, 255, None, [recipename], self.quanta[0]))['Name']
-                return ([recipe[1], randing, recipe[1], recipe[1]], self.ingredients[recipe[1]['Weight']])
+                return ([recipe[1], randing, recipe[1], recipe[1]], self.ingredients[recipe[1]]['Weight'])
             for quantum in self.quanta:
-                if quantum >= minweight:
+                if quantum > minweight:
                     break
                 resultant = self.smartfindrecipe(4, [], 0, self.expandValue(recipe[1]), recipe[0], [recipename] if recipename != "King's Rock" else ["Kings Rock"], quantum)
                 if resultant != None:
