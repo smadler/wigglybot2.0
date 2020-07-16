@@ -299,6 +299,7 @@ class Cramomatic(commands.Cog):
         for quant in self.quanta:
             if quant > quantum:
                 break
+            random.shuffle(temp[quant])
             vals.extend(temp[quant])
             marks.append(len(vals))
         
