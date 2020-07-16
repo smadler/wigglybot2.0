@@ -285,7 +285,7 @@ class Cramomatic(commands.Cog):
     def composequanta(self):
         res = []
         for item in self.ingredients.values():
-            print(item)
+            #print(item)
             if item['Weight'] not in res:
                 res.append(item['Weight'])
         res.sort()
@@ -302,6 +302,7 @@ class Cramomatic(commands.Cog):
         for key, val in newvals.items():
             self.ingredients[key]['Weight'] = val
         self.quanta = self.composequanta()
+        print(newvals)
         if newvals == {}:
             return False
         return True
