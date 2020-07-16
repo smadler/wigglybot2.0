@@ -293,6 +293,7 @@ class Cramomatic(commands.Cog):
 
     def iteraterecipe(self):
         newvals = {}
+        print(self.ingredients['Gold Bottle Cap'])
         for recipename in self.recipies:
             name = "Kings Rock" if recipename == "King's Rock" else recipename
             if name in self.ingredients:
@@ -303,6 +304,7 @@ class Cramomatic(commands.Cog):
             self.ingredients[key]['Weight'] = val
         self.quanta = self.composequanta()
         print(newvals)
+        print(self.ingredients['Gold Bottle Cap'])
         if newvals == {}:
             return False
         return True
