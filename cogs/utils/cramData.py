@@ -11,7 +11,7 @@ def weightIngredients(result):
     with open("./data/cramomatic/ingredientweights.txt", 'r') as f:
         for line in f:
             items = line.split()
-            if len(items) > 2:
+            if len(items) > 1:
                 itemname = ' '.join(items[:-1])
                 if itemname in result:
                     result[itemname]['Weight'] = int(items[-1])
