@@ -294,7 +294,7 @@ class Cramomatic(commands.Cog):
 
         for item in self.find(0, 255, nature, prohibited, quantum):
             if item['Value'] not in temp[item['Weight']]:
-                temp[item['Weight']].apppend(item['Value'])
+                temp[item['Weight']].append(item['Value'])
 
         for quant in self.quanta:
             if quant > quantum:
