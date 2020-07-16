@@ -338,14 +338,14 @@ class Cramomatic(commands.Cog):
         
         maxweight = weighttarget[1] - currentweight
 
-        if remaininging == 4:
-            print(prohibited)
-            print(self.quanta)
+        #if remaininging == 4:
+            #print(prohibited)
+            #print(self.quanta)
         for quantumm in self.quanta:
             minweight = weighttarget[0] - currentweight if remaininging == 1 else 0
-            print(remaininging, quantumm, quantum, inglist)
+            #print(remaininging, quantumm, quantum, inglist)
             if quantumm > quantum:
-                print('11-1')
+                #print('11-1')
                 return None
             while not minweight > maxweight:
                 if remaininging == 1 and inglist[0] in self.specialvalues and inglist[0] == inglist[2]:
