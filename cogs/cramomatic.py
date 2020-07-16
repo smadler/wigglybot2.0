@@ -336,12 +336,14 @@ class Cramomatic(commands.Cog):
         if remaininging < 1: # Should not happen
             return None
         
-        minweight = weighttarget[0] - currentweight if remaininging == 1 else 0
         maxweight = weighttarget[1] - currentweight
 
+        print(prohibited)
         for quantumm in self.quanta:
+            minweight = weighttarget[0] - currentweight if remaininging == 1 else 0
             print(remaininging, quantumm, quantum, inglist)
             if quantumm > quantum:
+                print('11-1')
                 return None
             while not minweight > maxweight:
                 if remaininging == 1 and inglist[0] in self.specialvalues and inglist[0] == inglist[2]:
@@ -351,6 +353,7 @@ class Cramomatic(commands.Cog):
                 prohibits.extend(prohibited)
                 selectfrom = self.find(minweight, maxweight, nature, prohibits, quantumm)
                 if selectfrom == []:
+                    print('11-2')
                     return None
                 select = random.choice(selectfrom)
                 currw = select['Value'] + currentweight
@@ -369,7 +372,8 @@ class Cramomatic(commands.Cog):
 
                 # Value found was too low
                 minweight = select['Value'] + 1
-            
+
+        print('11-3')
         return None # No value was big enough to work
     
 
