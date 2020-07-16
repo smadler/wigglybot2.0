@@ -354,7 +354,7 @@ class Cramomatic(commands.Cog):
         if res == None:
             return None
 
-        print(res)
+        # print(res)
         res[0] = random.choice(self.find(res[0][1], res[0][1], res[0][2], [recipename], res[0][0]))['Name']
         res[1] = random.choice(self.find(res[1][1], res[1][1], None, [recipename], res[1][0]))['Name']
         res[2] = random.choice(self.find(res[2][1], res[2][1], None, [recipename], res[2][0]))['Name']
@@ -362,7 +362,7 @@ class Cramomatic(commands.Cog):
             prohibits = [recipename, res[0]]
         else:
             prohibits = [recipename]
-        attempt = self.find(res[3][1], res[3][1], None, prohibits, res[3])
+        attempt = self.find(res[3][1], res[3][1], None, prohibits, res[3][0])
         while attempt == []:
             attempt = self.find(res[3][1], res[3][1], None, prohibits, self.quanta[self.findindex(self.quanta, res[3][0]) + 1])
         res[3] = random.choice(attempt)
@@ -395,7 +395,7 @@ class Cramomatic(commands.Cog):
                 
                 for val2index in range(marks[quantaindex], marks[quantaindex + 1]):
                     secondval = vals[val2index]
-                    print(val2index, secondval)
+                    # print(val2index, secondval)
                     if secondval + firstval > weighttarget[1] or secondval < weighttarget[0] + firstval - self.MAXOFTHREEWEIGHTS: # Trim impossible values
                         continue
 
