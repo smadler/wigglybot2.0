@@ -326,7 +326,7 @@ class Cramomatic(commands.Cog):
             return None
         return (res, quantum)
     
-    def smartfindrecipe(self, remaininging: int, inglist, currentweight: int, weighttarget, nature = None, prohibited, quantum):
+    def smartfindrecipe(self, remaininging: int, inglist, currentweight: int, weighttarget, nature = None, prohibited = [], quantum = 300000):
         if remaininging < 1: # Should not happen
             return None
         
