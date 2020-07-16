@@ -346,7 +346,7 @@ class Cramomatic(commands.Cog):
             resultant = self.smartfindrecipe(self.expandValue(recipe[1]), recipe[0], [recipename] if recipename != "King's Rock" else ["Kings Rock"], minweight)
             if resultant != None:
                 res = resultant
-                res[0] = (res[0], res[1], recipe[0])
+                res[0] = (res[0][0], res[0][1], recipe[0])
                 minweight = max(res[0][0], res[1][0], res[2][0], res[3][0])
 
         if res == None:
