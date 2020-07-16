@@ -294,7 +294,7 @@ class Cramomatic(commands.Cog):
     def iteraterecipe(self):
         newvals = {}
         for recipename in self.recipies:
-            name = "Kings Rock" if name == "King's Rock" else recipename
+            name = "Kings Rock" if recipename == "King's Rock" else recipename
             if name in self.ingredients:
                 xx = self.smartpicker(recipename, self.recipies[recipename], self.ingredients[name] - 1)
                 if xx != None:
