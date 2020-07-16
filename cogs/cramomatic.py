@@ -365,7 +365,7 @@ class Cramomatic(commands.Cog):
         attempt = self.find(res[3][1], res[3][1], None, prohibits, res[3][0])
         while attempt == []:
             attempt = self.find(res[3][1], res[3][1], None, prohibits, self.quanta[self.findindex(self.quanta, res[3][0]) + 1])
-        res[3] = random.choice(attempt)
+        res[3] = random.choice(attempt)['Name']
             
         return (res, minweight)
 
