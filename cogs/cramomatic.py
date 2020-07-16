@@ -383,7 +383,7 @@ class Cramomatic(commands.Cog):
             
             for firstvalindex in range(startmarks[quantaindex + 1]): # check every beginning each deepening
                 
-                fistval = startvals[firstvalindex]
+                firstval = startvals[firstvalindex]
                 if firstval > weighttarget[1] or firstval < weighttarget[0] - self.MAXOFTHREEWEIGHTS: # Trim impossible values early
                     continue
                 
