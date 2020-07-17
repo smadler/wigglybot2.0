@@ -11,11 +11,13 @@ class Cramomatic(commands.Cog):
 
     # Weighting Constants
     WEIGHTINGCONSTANT = 4
-    MAXOFTHREEWEIGHTS = 120
+    MAXWEIGHT = 40
 
     ### DICTIONARIES FOR ALL THE DATA NEEDED
     ingredients = cramData.getIngredients()
     ingredients = cramData.weightIngredients(ingredients)
+    ingredientsrw = cramData.getIngredients()
+    ingredientsrw = cramData.weightIngredients(ingredients)
     recipies = collections.defaultdict(list)
     recipieindex = []
     pivotrec = cramData.getResults()
@@ -44,8 +46,8 @@ class Cramomatic(commands.Cog):
             self.recipieindex.append(key)
         self.recipieregex = re.compile('|'.join('(?P<K%d>%s)' % (key, self.recipieindex[key]) for key in range(len(self.recipieindex))), re.I)
         self.quanta = self.composequanta()
-        #while self.iteraterecipe():
-           # pass
+        while self.iteraterecipe():
+            pass
         
 
     @commands.command()
@@ -94,7 +96,34 @@ class Cramomatic(commands.Cog):
 
         resultant = self.smartpicker(dataname, data)
         if resultant == None:
-            resultant = (['ERROR, No Recipe found'])
+            resultant = [['ERROR, No Recipe found']]
+
+        await ctx.send("To make %s, toss `%s` into the Cram-O-Matic." % (dataname, ', '.join(resultant[0])))
+
+    @commands.command()
+    async def rawsmartrecipe(self, ctx, *args):
+        if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+            return
+
+        composed = ' '.join(args)
+
+        workingr = self.recipieregex.search(composed)
+
+        if workingr == None:
+            await ctx.send("I don't know how to make that.")
+            return
+
+        dataname = self.recipieindex[int(workingr.lastgroup[1:])]
+        data = self.recipies[dataname]
+
+        # Flip working dicionaries for the call
+        temp = ingredients
+        ingredients = ingredientsrw
+        resultant = self.smartpicker(dataname, data)
+        ingredients = temp
+        
+        if resultant == None:
+            resultant = [['ERROR, No Recipe found']]
 
         await ctx.send("To make %s, toss `%s` into the Cram-O-Matic." % (dataname, ', '.join(resultant[0])))
 
@@ -302,7 +331,9 @@ class Cramomatic(commands.Cog):
             if quant > quantum:
                 break
             random.shuffle(temp[quant])
-            vals.extend(temp[quant])
+            for ap in temp[quant]:
+                if ap not in vals:
+                    vals.append(ap)
             marks.append(len(vals))
         
         return (vals, marks)
@@ -310,7 +341,6 @@ class Cramomatic(commands.Cog):
     def composequanta(self):
         res = []
         for item in self.ingredients.values():
-            #print(item)
             if item['Weight'] not in res:
                 res.append(item['Weight'])
         res.sort()
@@ -318,7 +348,6 @@ class Cramomatic(commands.Cog):
 
     def iteraterecipe(self):
         newvals = {}
-        #print(self.ingredients['Gold Bottle Cap'])
         for recipename in self.recipies:
             name = "Kings Rock" if recipename == "King's Rock" else recipename
             if name in self.ingredients:
@@ -327,39 +356,49 @@ class Cramomatic(commands.Cog):
                     newvals[name] = xx[1] + self.WEIGHTINGCONSTANT
         for key, val in newvals.items():
             self.ingredients[key]['Weight'] = val
+            
         self.quanta = self.composequanta()
-        print(newvals)
-        #print(self.ingredients['Gold Bottle Cap'])
+        
         if newvals == {}:
             return False
         return True
 
     def smartpicker(self, recipename, recipes, minweight = 300000):
-        res = None
+        res = []
+        spec = None
 
         for recipe in recipes:
             if recipe[0] == 'Special': # Deal with special recipes
                 if self.ingredients[recipe[1]]['Weight'] > minweight:
-                    return None
+                    continue
                 randing = random.choice(self.find(0, 255, None, [recipename], self.quanta[0]))['Name']
-                return ([recipe[1], randing, recipe[1], recipe[1]], self.ingredients[recipe[1]]['Weight'])
+                possw = self.ingredients[recipe[1]]['Weight']
+                if possw < minweight:
+                    minweight = possw
+                    res = []
+                res.append([recipe[1], randing, recipe[1], recipe[1]])
+                spec = recipe[1]
 
             # Deal with non-special recipes
-            print(self.expandValue(recipe[1]), recipe[0], [recipename] if recipename != "King's Rock" else ["Kings Rock"], minweight)
             resultant = self.smartfindrecipe(self.expandValue(recipe[1]), recipe[0], [recipename] if recipename != "King's Rock" else ["Kings Rock"], minweight)
-            print(res)
-            print(resultant)
             if resultant != None:
-                res = resultant
-                res[0] = (res[0][0], res[0][1], recipe[0])
-                minweight = max(res[0][0], res[1][0], res[2][0], res[3][0])
-                print(res)
+                possw = max(resultant[0][0], resultant[1][0], resultant[2][0], resultant[3][0])
+                if possw < minweight:
+                    minweight = possw
+                    res = []
+                resultant[0] = (resultant[0][0], resultant[0][1], recipe[0])
+                res.append(resultant)
 
-        print('Result:', res)
+        if res == []:
+            res = None
+        else:
+            res = random.choice(res)
         if res == None:
             return None
 
-        # print(res)
+        if res[0] == spec:
+            return (res, minweight)
+
         res[0] = random.choice(self.find(res[0][1], res[0][1], res[0][2], [recipename], res[0][0]))['Name']
         res[1] = random.choice(self.find(res[1][1], res[1][1], None, [recipename], res[1][0]))['Name']
         res[2] = random.choice(self.find(res[2][1], res[2][1], None, [recipename], res[2][0]))['Name']
@@ -373,59 +412,35 @@ class Cramomatic(commands.Cog):
         res[3] = random.choice(attempt)['Name']
             
         return (res, minweight)
-
+    
     #returns a series of quantumweight/itemweight tuples
     def smartfindrecipe(self, weighttarget, nature, prohibited = [], quantum = 300000):
-        vals, marks = self.composeLists(prohibited, quantum) # composeLists takes a list of prohibited words and a max quantum, then returns a list of
-                                                                # values and a list of delimiters for where the values delimters are
-                                                                # the values list is a list of itemvalues per weight, split by quantum weights according to
-                                                                # the delimiter list in marks
+        vals, marks = self.composeLists(prohibited, quantum)
         startvals, startmarks = self.composeLists(prohibited, quantum, nature) # also takes an additional optional nature
 
-        print(startvals, vals)
-        #snippet for iterative deepening without repeating past looked at values
         for quantaindex in range(len(marks)-1): # The length of marks will always be the allowed number of quanta plus one
-            #print(quantaindex)
             if marks[quantaindex] == marks[quantaindex + 1]:
-                #print('j1')
-                #if startmarks[quantaindex] == startmarks[quantaindex + 1]: # Exists as comment due to impossible code
-                 #   continue # Trim time with quanta that don't have any new associated values
-                # New values exist for starting value, but not the others. Impossible, as startvals is a subset of vals
-                continue
+                continue # Trim time by ignoring quanta that don't have any new associated values
             
             for firstvalindex in range(startmarks[quantaindex + 1]): # check every beginning each deepening
                 
                 firstval = startvals[firstvalindex]
-                if firstval > weighttarget[1] or firstval < weighttarget[0] - self.MAXOFTHREEWEIGHTS: # Trim impossible values early
-                    #print('j2') 
+                if firstval > weighttarget[1] or firstval < weighttarget[0] - 3 * self.MAXWEIGHT: # Trim impossible values early
                     continue
-                
-                step = True
                 
                 for val2index in range(marks[quantaindex], marks[quantaindex + 1]):
                     secondval = vals[val2index]
-                    # print(val2index, secondval)
-                    if secondval + firstval > weighttarget[1] or secondval < weighttarget[0] + firstval - self.MAXOFTHREEWEIGHTS: # Trim impossible values
-                        #print('j3')
+                    if secondval + firstval > weighttarget[1] or secondval < weighttarget[0] - (firstval + 2 * self.MAXWEIGHT): # Trim impossible values
                         continue
-
-                    # If the start of a new sequence, make sure to check old combinations, if not, don't
-                    if step:
-                        start = 0
-                        step = False
-                    else:
-                        start = val2index
-                        
-                    for val3index in range(start, marks[quantaindex + 1]):
+                       
+                    for val3index in range(marks[quantaindex + 1]):
                         thirdval = vals[val3index]
-                        if thirdval + secondval + firstval > weighttarget[1] or thirdval < weighttarget[0] + firstval + secondval - self.MAXOFTHREEWEIGHTS: # Trim impossible values
-                            #print('j4')
+                        if thirdval + secondval + firstval > weighttarget[1] or thirdval < weighttarget[0] - (firstval + secondval + self.MAXWEIGHT): # Trim impossible values
                             continue
                     
                         for val4index in range(val3index, marks[quantaindex + 1]):
                             fourthval = vals[val4index]
                             if fourthval + thirdval + secondval + firstval > weighttarget[1] or firstval + secondval + thirdval + fourthval < weighttarget[0]: # Trim impossible values
-                                #print('j5')
                                 continue
 
                             # If here, the 4 values fit the criteria
