@@ -345,7 +345,9 @@ class Cramomatic(commands.Cog):
                 return ([recipe[1], randing, recipe[1], recipe[1]], self.ingredients[recipe[1]]['Weight'])
 
             # Deal with non-special recipes
+            print(self.expandValue(recipe[1]), recipe[0], [recipename] if recipename != "King's Rock" else ["Kings Rock"], minweight)
             resultant = self.smartfindrecipe(self.expandValue(recipe[1]), recipe[0], [recipename] if recipename != "King's Rock" else ["Kings Rock"], minweight)
+            print(resultant)
             if resultant != None:
                 res = resultant
                 res[0] = (res[0][0], res[0][1], recipe[0])
