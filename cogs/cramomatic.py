@@ -16,8 +16,8 @@ class Cramomatic(commands.Cog):
     ### DICTIONARIES FOR ALL THE DATA NEEDED
     ingredients = cramData.getIngredients()
     ingredients = cramData.weightIngredients(ingredients)
-    ingredientsrw = cramData.getIngredients()
-    ingredientsrw = cramData.weightIngredients(ingredients)
+    #ingredientsrw = cramData.getIngredients()
+    #ingredientsrw = cramData.weightIngredients(ingredients)
     recipies = collections.defaultdict(list)
     recipieindex = []
     pivotrec = cramData.getResults()
