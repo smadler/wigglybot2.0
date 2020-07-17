@@ -16,8 +16,6 @@ class Cramomatic(commands.Cog):
     ### DICTIONARIES FOR ALL THE DATA NEEDED
     ingredients = cramData.getIngredients()
     ingredients = cramData.weightIngredients(ingredients)
-    #ingredientsrw = cramData.getIngredients()
-    #ingredientsrw = cramData.weightIngredients(ingredients)
     recipies = collections.defaultdict(list)
     recipieindex = []
     pivotrec = cramData.getResults()
@@ -99,35 +97,6 @@ class Cramomatic(commands.Cog):
             resultant = [['ERROR, No Recipe found']]
 
         await ctx.send("To make %s, toss `%s` into the Cram-O-Matic." % (dataname, ', '.join(resultant[0])))
-
-    #@commands.command()
-   # async def rawsmartrecipe(self, ctx, *args):
-        #if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
-       #     return
-
-      #  composed = ' '.join(args)
-#
-     #   workingr = self.recipieregex.search(composed)
-#
-    #    if workingr == None:
-   #         await ctx.send("I don't know how to make that.")
-  #          return
-#
- #       dataname = self.recipieindex[int(workingr.lastgroup[1:])]
-#        data = self.recipies[dataname]
-#
-        # Flip working dicionaries for the call
-        #temp = self.ingredients
-       # self.ingredients = self.ingredientsrw
-      #  self.quanta = self.composequanta()
-     #   resultant = self.smartpicker(dataname, data)
-    #    self.ingredients = temp
-   #     self.quanta = self.composequanta()
- #       
-  #      if resultant == None:
- #           resultant = [['ERROR, No Recipe found']]
-#
-#        await ctx.send("To make %s, toss `%s` into the Cram-O-Matic." % (dataname, ', '.join(resultant[0])))
 
     @commands.command()
     async def recipeinfo(self, ctx, *args):
