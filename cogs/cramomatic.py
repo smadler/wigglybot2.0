@@ -119,8 +119,10 @@ class Cramomatic(commands.Cog):
         # Flip working dicionaries for the call
         temp = self.ingredients
         self.ingredients = self.ingredientsrw
+        self.quanta = self.composequanta()
         resultant = self.smartpicker(dataname, data)
         self.ingredients = temp
+        self.quanta = self.composequanta()
         
         if resultant == None:
             resultant = [['ERROR, No Recipe found']]
@@ -145,13 +147,13 @@ class Cramomatic(commands.Cog):
         if self.recipies[dataname][0][0] == 'Special':
             await ctx.send("%s is a special recipie with the core ingredient of %s." % (dataname, self.recipies[dataname][0][1]))
             return
+
+        res = []
+        for dataty, datanum in self.recipies[dataname]:
+            res.append("A special recipie with the core ingredient of %s." % datanum if datay == 'Special'
+                            else 'A weight of %d to %d with the %s attribute.' % (self.expandValue(datanum)[0], self.expandValue(datanum)[1], dataty))
             
-        await ctx.send("%s can be made with the following ingredient combination(s):\n%s" % (dataname, '\n'.join(
-                            "A special recipie with the core ingredient of %s." % datanum
-                            if datay == 'Special'
-                            else
-                            'A weight of %d to %d with the %s attribute.' % (self.expandValue(datanum)[0], self.expandValue(datanum)[1], dataty)
-                            for dataty, datanum in self.recipies[dataname])))
+        await ctx.send("%s can be made with the following ingredient combination(s):\n%s" % (dataname, '\n'.join(res)))
 
     @commands.command()
     async def cram(self, ctx, *args):
