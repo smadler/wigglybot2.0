@@ -347,6 +347,7 @@ class Cramomatic(commands.Cog):
             # Deal with non-special recipes
             print(self.expandValue(recipe[1]), recipe[0], [recipename] if recipename != "King's Rock" else ["Kings Rock"], minweight)
             resultant = self.smartfindrecipe(self.expandValue(recipe[1]), recipe[0], [recipename] if recipename != "King's Rock" else ["Kings Rock"], minweight)
+            print(res)
             print(resultant)
             if resultant != None:
                 res = resultant
@@ -385,6 +386,7 @@ class Cramomatic(commands.Cog):
         for quantaindex in range(len(marks)-1): # The length of marks will always be the allowed number of quanta plus one
             print(quantaindex)
             if marks[quantaindex] == marks[quantaindex + 1]:
+                print('j1')
                 #if startmarks[quantaindex] == startmarks[quantaindex + 1]: # Exists as comment due to impossible code
                  #   continue # Trim time with quanta that don't have any new associated values
                 # New values exist for starting value, but not the others. Impossible, as startvals is a subset of vals
@@ -394,6 +396,7 @@ class Cramomatic(commands.Cog):
                 
                 firstval = startvals[firstvalindex]
                 if firstval > weighttarget[1] or firstval < weighttarget[0] - self.MAXOFTHREEWEIGHTS: # Trim impossible values early
+                    print('j2') 
                     continue
                 
                 step = True
@@ -402,6 +405,7 @@ class Cramomatic(commands.Cog):
                     secondval = vals[val2index]
                     # print(val2index, secondval)
                     if secondval + firstval > weighttarget[1] or secondval < weighttarget[0] + firstval - self.MAXOFTHREEWEIGHTS: # Trim impossible values
+                        print('j3')
                         continue
 
                     # If the start of a new sequence, make sure to check old combinations, if not, don't
@@ -414,11 +418,13 @@ class Cramomatic(commands.Cog):
                     for val3index in range(start, marks[quantaindex + 1]):
                         thirdval = vals[val3index]
                         if thirdval + secondval + firstval > weighttarget[1] or thirdval < weighttarget[0] + firstval + secondval - self.MAXOFTHREEWEIGHTS: # Trim impossible values
+                            print('j4')
                             continue
                     
                         for val4index in range(val3index, marks[quantaindex + 1]):
                             fourthval = vals[val4index]
                             if fourthval + thirdval + secondval + firstval > weighttarget[1] or firstval + secondval + thirdval + fourthval < weighttarget[0]: # Trim impossible values
+                                print('j5')
                                 continue
 
                             # If here, the 4 values fit the criteria
