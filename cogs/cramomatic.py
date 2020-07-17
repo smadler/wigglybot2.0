@@ -378,6 +378,7 @@ class Cramomatic(commands.Cog):
                     res = []
                 res.append([recipe[1], randing, recipe[1], recipe[1]])
                 spec = recipe[1]
+                continue
 
             # Deal with non-special recipes
             resultant = self.smartfindrecipe(self.expandValue(recipe[1]), recipe[0], [recipename] if recipename != "King's Rock" else ["Kings Rock"], minweight)
