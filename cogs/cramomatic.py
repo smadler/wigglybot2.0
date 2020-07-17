@@ -352,7 +352,9 @@ class Cramomatic(commands.Cog):
                 res = resultant
                 res[0] = (res[0][0], res[0][1], recipe[0])
                 minweight = max(res[0][0], res[1][0], res[2][0], res[3][0])
+                print(res)
 
+        print(res)
         if res == None:
             return None
 
@@ -381,6 +383,7 @@ class Cramomatic(commands.Cog):
         
         #snippet for iterative deepening without repeating past looked at values
         for quantaindex in range(len(marks)-1): # The length of marks will always be the allowed number of quanta plus one
+            print(quantaindex)
             if marks[quantaindex] == marks[quantaindex + 1]:
                 #if startmarks[quantaindex] == startmarks[quantaindex + 1]: # Exists as comment due to impossible code
                  #   continue # Trim time with quanta that don't have any new associated values
