@@ -355,7 +355,7 @@ class Cramomatic(commands.Cog):
                 minweight = max(res[0][0], res[1][0], res[2][0], res[3][0])
                 print(res)
 
-        print(res)
+        print('Result:', res)
         if res == None:
             return None
 
@@ -381,10 +381,11 @@ class Cramomatic(commands.Cog):
                                                                 # the values list is a list of itemvalues per weight, split by quantum weights according to
                                                                 # the delimiter list in marks
         startvals, startmarks = self.composeLists(prohibited, quantum, nature) # also takes an additional optional nature
-        
+
+        print(startvals, vals)
         #snippet for iterative deepening without repeating past looked at values
         for quantaindex in range(len(marks)-1): # The length of marks will always be the allowed number of quanta plus one
-            print(quantaindex)
+            #print(quantaindex)
             if marks[quantaindex] == marks[quantaindex + 1]:
                 #print('j1')
                 #if startmarks[quantaindex] == startmarks[quantaindex + 1]: # Exists as comment due to impossible code
