@@ -100,34 +100,34 @@ class Cramomatic(commands.Cog):
 
         await ctx.send("To make %s, toss `%s` into the Cram-O-Matic." % (dataname, ', '.join(resultant[0])))
 
-    @commands.command()
-    async def rawsmartrecipe(self, ctx, *args):
-        if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
-            return
+    #@commands.command()
+   # async def rawsmartrecipe(self, ctx, *args):
+        #if not (ctx.channel.id == 647701301031075862 or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+       #     return
 
-        composed = ' '.join(args)
-
-        workingr = self.recipieregex.search(composed)
-
-        if workingr == None:
-            await ctx.send("I don't know how to make that.")
-            return
-
-        dataname = self.recipieindex[int(workingr.lastgroup[1:])]
-        data = self.recipies[dataname]
-
+      #  composed = ' '.join(args)
+#
+     #   workingr = self.recipieregex.search(composed)
+#
+    #    if workingr == None:
+   #         await ctx.send("I don't know how to make that.")
+  #          return
+#
+ #       dataname = self.recipieindex[int(workingr.lastgroup[1:])]
+#        data = self.recipies[dataname]
+#
         # Flip working dicionaries for the call
-        temp = self.ingredients
-        self.ingredients = self.ingredientsrw
-        self.quanta = self.composequanta()
-        resultant = self.smartpicker(dataname, data)
-        self.ingredients = temp
-        self.quanta = self.composequanta()
-        
-        if resultant == None:
-            resultant = [['ERROR, No Recipe found']]
-
-        await ctx.send("To make %s, toss `%s` into the Cram-O-Matic." % (dataname, ', '.join(resultant[0])))
+        #temp = self.ingredients
+       # self.ingredients = self.ingredientsrw
+      #  self.quanta = self.composequanta()
+     #   resultant = self.smartpicker(dataname, data)
+    #    self.ingredients = temp
+   #     self.quanta = self.composequanta()
+ #       
+  #      if resultant == None:
+ #           resultant = [['ERROR, No Recipe found']]
+#
+#        await ctx.send("To make %s, toss `%s` into the Cram-O-Matic." % (dataname, ', '.join(resultant[0])))
 
     @commands.command()
     async def recipeinfo(self, ctx, *args):
@@ -150,7 +150,7 @@ class Cramomatic(commands.Cog):
 
         res = []
         for dataty, datanum in self.recipies[dataname]:
-            res.append("A special recipie with the core ingredient of %s." % datanum if datay == 'Special'
+            res.append("A special recipie with the core ingredient of %s." % datanum if dataty == 'Special'
                             else 'A weight of %d to %d with the %s attribute.' % (self.expandValue(datanum)[0], self.expandValue(datanum)[1], dataty))
             
         await ctx.send("%s can be made with the following ingredient combination(s):\n%s" % (dataname, '\n'.join(res)))
