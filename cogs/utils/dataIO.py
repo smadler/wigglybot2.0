@@ -70,5 +70,6 @@ class DataIO:
                 "All others: %.1f%%" % arr[8],
               ]
 
+        print(species["name"])
         return (species["name"], arr)
 
