@@ -24,9 +24,9 @@ class DataIO:
         norm_dict = {}
         with open("./data/pokemon/pokemon_full.json", 'r') as f:
             temp = json.load(f)
-        norm_dict = []
         for item in temp:
-            norm_dict.append(self.getCatchRates(item))
+            key, values = self.getCatchRates(item)
+            norm_dict[key] = values
         return norm_dict
 
     def loadPokeJSON(self):
@@ -70,6 +70,5 @@ class DataIO:
                 "All others: %.1f%%" % arr[8],
               ]
 
-        print(species["name"])
         return (species["name"], arr)
 
