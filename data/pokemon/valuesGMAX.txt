@@ -4,7 +4,7 @@ Charizard/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/
 Butterfree/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
 Corviknight/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
 Alcremie/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
-Dreadnaw/Repeat: 9.6%/Dusk: 8.6%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3%/Fast: 3.8%/Beast: 0.7%/Others: 3.8%
+Drednaw/Repeat: 9.6%/Dusk: 8.6%/Ultra: 6.3%/Great: 5.1%/Net: 9.6%/Level: 6.3%/Fast: 3.8%/Beast: 0.7%/Others: 3.8%
 Machamp/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
 Gengar/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 10.6%/Beast: 0.7%/Others: 3.7%
 Coalossal/Repeat: 9.6%/Dusk: 8.5%/Ultra: 6.3%/Great: 5.1%/Net: 3.7%/Level: 6.3%/Fast: 3.7%/Beast: 0.7%/Others: 3.7%
