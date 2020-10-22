@@ -26,7 +26,7 @@ class DataIO():
             temp = json.load(f)
         norm_dict = []
         for item in temp:
-            norm_dict.append(getCatchRates(item))
+            norm_dict.append(self.getCatchRates(item))
         return norm_dict
 
     def loadPokeJSON():
@@ -34,7 +34,7 @@ class DataIO():
             poke_dict = json.load(f)
             return poke_dict
 
-    def  getCatchRates(species):
+    def  getCatchRates(self, species):
         # find the normalcatchrate first
         normalrate = species["catch"] / 1.0
          
