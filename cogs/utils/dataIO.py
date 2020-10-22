@@ -20,7 +20,7 @@ class DataIO():
                 gm_dict[key] = values
         return gm_dict
 
-    def loadValues():
+    def loadValues(self):
         norm_dict = {}
         with open("./data/pokemon/pokemon_full.json", 'r') as f:
             temp = json.load(f)
