@@ -33,10 +33,10 @@ class Pokemon(commands.Cog):
     fullpermchn = 647701301031075862
     # End
     
-    types_dict = DataIO.loadTypes()
-    gm_dict = DataIO.loadValuesGMAX()
-    norm_dict = DataIO.loadValues()
-    poke_dict = DataIO.loadPokeJSON()
+    types_dict = DataIO().loadTypes()
+    gm_dict = DataIO().loadValuesGMAX()
+    norm_dict = DataIO().loadValues()
+    poke_dict = DataIO().loadPokeJSON()
 
     allowedsubs = {
         'Building': 'Duraludon',

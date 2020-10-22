@@ -1,8 +1,8 @@
 import json
 
-class DataIO():
+class DataIO:
 
-    def loadTypes():
+    def loadTypes(self):
         types_dict = {}
         with open("./data/pokemon/types2.txt", 'r') as f:
             for line in f:
@@ -11,7 +11,7 @@ class DataIO():
                 types_dict[key] = values
         return types_dict
 
-    def loadValuesGMAX():
+    def loadValuesGMAX(self):
         gm_dict = {}
         with open("./data/pokemon/valuesGMAX.txt", 'r') as f:
             for line in f:
@@ -29,7 +29,7 @@ class DataIO():
             norm_dict.append(self.getCatchRates(item))
         return norm_dict
 
-    def loadPokeJSON():
+    def loadPokeJSON(self):
         with open("./data/pokemon/pokemon.json", 'r') as f:
             poke_dict = json.load(f)
             return poke_dict
