@@ -202,7 +202,7 @@ class Pokemon(commands.Cog):
 
         if arg1 == None:
             await ctx.send('Invalid input!')
-            break;
+            return
 
         ismon = ''
         # Check if one word name
