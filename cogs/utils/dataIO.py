@@ -34,6 +34,11 @@ class DataIO:
             poke_dict = json.load(f)
             return poke_dict
 
+    def loadFullPokeJSON(self):
+        with open("./data/pokemon/pokemon_full.json", 'r') as f:
+            poke_dict = json.load(f)
+            return poke_dict
+
     def  getCatchRates(self, species):
         # find the normalcatchrate first
         normalrate = species["catch"] / 1.0

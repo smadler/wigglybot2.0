@@ -37,6 +37,7 @@ class Pokemon(commands.Cog):
     gm_dict = DataIO().loadValuesGMAX()
     norm_dict = DataIO().loadValues()
     poke_dict = DataIO().loadPokeJSON()
+    poke_dict_full = DataIO().loadFullPokeJSON()
 
     allowedsubs = {
         'Building': 'Duraludon',
@@ -201,6 +202,31 @@ class Pokemon(commands.Cog):
 
         if arg1 == None:
             msg = ('Invalid input!')
+
+        ismon = ''
+        # Check if one word name
+        if arg2 == None:
+            pk = arg1.capitalize()
+
+            if pk in self.norm_dict:
+                ismon = pk
+
+        else: #try reading as a 2 word name
+            pk = arg1.capitalize() + ' ' + arg2.capitalize()
+
+            if pk in self.norm_dict:
+                ismon = pk
+
+        #####
+        if ismon != '':
+            for p in self.poke_dict_full:
+                if p['name'] == ismon:
+                    arg1 = p['types'][0]
+                    if len(p['types']) == 1:
+                        arg2 = arg1
+                    else:
+                        arg2 = p['types'][1]
+                    break
 
         else:
             msg=""
