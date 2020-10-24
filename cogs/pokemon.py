@@ -218,7 +218,7 @@ class Pokemon(commands.Cog):
             if pk in self.norm_dict:
                 ismon = pk
 
-        #####
+        # If a Pokemon, overwrite args with the types
         if ismon != '':
             for p in self.poke_dict_full:
                 if p['name'] == ismon:
