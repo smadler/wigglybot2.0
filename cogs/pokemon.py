@@ -206,7 +206,7 @@ class Pokemon(commands.Cog):
 
     @commands.command()
     async def matchup(self, ctx, arg1 = None, arg2 = None):
-        if not (ctx.channel.id == self.fullpermchn or ctx.channel.id in dynaventurechns or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+        if not (ctx.channel.id == self.fullpermchn or ctx.channel.id in self.dynaventurechns or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
             return
 
         if arg1 == None:
