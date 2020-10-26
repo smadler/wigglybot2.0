@@ -28,6 +28,15 @@ class Pokemon(commands.Cog):
 	668360850750308358,
     ]
 
+    dynaventurechns = [
+        770028427616452668,
+        770028466162237440,
+        770028535968038983,
+        770028569371869185,
+        770028600614453248,
+        770069097303506944,
+    ]
+
     serverid = 645011176182251522
 
     fullpermchn = 647701301031075862
@@ -197,7 +206,7 @@ class Pokemon(commands.Cog):
 
     @commands.command()
     async def matchup(self, ctx, arg1 = None, arg2 = None):
-        if not (ctx.channel.id == self.fullpermchn or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
+        if not (ctx.channel.id == self.fullpermchn or ctx.channel.id in dynaventurechns or get(ctx.message.author.roles, name="Max Host") or get(ctx.message.author.roles, name="Mods")):
             return
 
         if arg1 == None:
