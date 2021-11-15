@@ -6,7 +6,7 @@ discord.py==1.2.5
 idna==2.8
 idna-ssl==1.1.0
 multidict==4.7.4
-pip==10.0.1
+pip==21.1
 setuptools==39.0.1
 typing-extensions==3.7.4.1
 websockets==6.0
